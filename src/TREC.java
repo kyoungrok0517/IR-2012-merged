@@ -277,6 +277,7 @@ public class TREC {
 
 		System.out.println("Normalized Query: " + normalized_query);
 
+		System.out.println("Fetching and processing Yahoo data...");
 		List<YahooQuestion> questions = YahooAnswerHelper
 				.searchQuestions(normalized_query);
 
@@ -329,8 +330,10 @@ public class TREC {
 			}
 			
 			String term = tww.get(i).term;
-			expanded_query += " " + term;			
+			expanded_query += term + " ";			
 		}
+		
+		System.out.println("Done");
 		
 		return expanded_query;
 	}
@@ -345,7 +348,7 @@ public class TREC {
 			
 			String expaned_query = getExpandedQuery(sQuery);
 			
-			System.out.println(expaned_query);
+			System.out.println("Expanded Query: " + expaned_query);
 
 //			oLucene.setIndexDirectory(dirIdx);
 //			oLucene.initEnglishAnalyzer("rsc/english_stopword_v2.txt");
