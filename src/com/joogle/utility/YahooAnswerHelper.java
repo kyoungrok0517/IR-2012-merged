@@ -67,6 +67,8 @@ public class YahooAnswerHelper {
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
+		} catch (IllegalStateException e) {
+			System.err.println("Failed to retrieve remote data. Try again");
 		}
 
 		return answers;
