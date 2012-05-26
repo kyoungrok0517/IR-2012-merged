@@ -322,7 +322,7 @@ public class TREC {
 
 		Collections.sort(tww);
 		
-		String expanded_query = normalized_query;
+		String expanded_query = normalized_query + " ";
 
 		for (int i = 0; i < tww.size(); i++) {
 			if (i >= TERM_EXPANSION_LIMIT) {
