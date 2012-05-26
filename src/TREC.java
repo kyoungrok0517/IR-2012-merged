@@ -315,9 +315,13 @@ public class TREC {
 		
 		String expanded_query = normalized_query;
 
-		for (int i = 0; i < TERM_EXPANSION_LIMIT; i++) {
+		for (int i = 0; i < tww.size(); i++) {
+			if (i >= TERM_EXPANSION_LIMIT) {
+				break;
+			}
+			
 			String term = tww.get(i).term;
-			expanded_query += " " + term;
+			expanded_query += " " + term;			
 		}
 		
 		return expanded_query;
