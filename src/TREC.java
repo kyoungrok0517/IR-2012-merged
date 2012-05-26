@@ -29,6 +29,7 @@ import com.joogle.model.TermWithWeight;
 import com.joogle.model.YahooAnswer;
 import com.joogle.model.YahooQuestion;
 import com.joogle.utility.TermRankingHelper;
+import com.joogle.utility.Tokenizer;
 import com.joogle.utility.YahooAnswerHelper;
 
 public class TREC {
@@ -37,6 +38,8 @@ public class TREC {
 	// private static final String commentRgx = "(?m)(?s)<!--(.*)-->";
 	private static final String commentRgx = "(?m)(?s)<!(.*)(!)?>";
 
+	private static List<String> stopwords;
+	
 	public static void main(String args[]) throws Exception {
 		// String tmp =
 		// "<Head> <Created on 3/15/96><body background=\"images/cdp_bkg.gif\" TEXT=\"#000000\"><center><img src=\"images/in_head.jpg\"></center><Title>Your Company on the Internet</Title></Head>"+
@@ -51,6 +54,11 @@ public class TREC {
 		// System.out.println(tmp3.replaceAll(myHtmlRgx, ""));
 
 		TREC trec = new TREC();
+		
+		System.out.println("Populating topwords");
+		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
+		System.out.println("done.");
+		
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
 		trec.search("dat/trec_index_stem_stop");
 	}
@@ -227,18 +235,15 @@ public class TREC {
 	}
 
 	private static String getNormalizedQuery(String query, List<String> stopwords) {
-		StringTokenizer tokenizer = new StringTokenizer(query,
-				" \"()<>{}[]~`!@#$%^?&*_-=+/|,.;:\t\n\r1234567890");
-
+		List<String> query_tokens = Tokenizer.tokenize(query);
 		String query_modified = "";
-
-		while (tokenizer.hasMoreTokens()) {
-			String term = tokenizer.nextToken();
-
+		
+		for (String term : query_tokens) {
 			if (!stopwords.contains(term)) {
 				query_modified += " " + term;
 			}
 		}
+
 		return query_modified;
 	}
 
@@ -268,8 +273,6 @@ public class TREC {
 	private final int TERM_EXPANSION_LIMIT = 5;
 
 	private String getExpandedQuery(String query) {
-		List<String> stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
-
 		String normalized_query = getNormalizedQuery(query, stopwords);
 
 		System.out.println("Normalized Query: " + normalized_query);
