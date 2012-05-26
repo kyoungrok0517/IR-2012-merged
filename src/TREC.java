@@ -26,6 +26,7 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 
 import com.joogle.model.TermWithWeight;
+import com.joogle.model.YahooAnswer;
 import com.joogle.model.YahooQuestion;
 import com.joogle.utility.TermRankingHelper;
 import com.joogle.utility.YahooAnswerHelper;
@@ -264,7 +265,7 @@ public class TREC {
 		return result;
 	}
 	
-	private final int TERM_EXPANSION_LIMIT = 10;
+	private final int TERM_EXPANSION_LIMIT = 5;
 
 	private String getExpandedQuery(String query) {
 		List<String> stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
@@ -278,15 +279,19 @@ public class TREC {
 
 		// build the collection & PRF documents
 		// Collection: retrieved
-		// TODO: 몇 천개라도 collection을 모아두는게 좋을 듯.
 		List<String> collection = new ArrayList<String>();
 		List<String> prf_docs = new ArrayList<String>();
-		for (YahooQuestion q : questions) {
-			String question = q.Content;
-			String answer = q.ChosenAnswer;
-			collection.add(question);
-			collection.add(answer);
-			prf_docs.add(answer);
+		for (YahooQuestion question : questions) {
+			String question_content = question.Content;
+			String chosen_answer_content = question.ChosenAnswer;
+			List<YahooAnswer> answers = YahooAnswerHelper.getAnswers(question);
+			
+			prf_docs.add(chosen_answer_content);			
+			collection.add(question_content);
+			collection.add(chosen_answer_content);
+			for (YahooAnswer ans : answers) {
+				collection.add(ans.Content);
+			}
 		}
 
 		Map<String, Double> weight_vector = new HashMap<String, Double>();
