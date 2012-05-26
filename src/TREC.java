@@ -13,18 +13,15 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
-import net.zzihee.io.ZOut;
 import net.zzihee.ir.Lucene;
-import net.zzihee.lang.ZRecord;
-import net.zzihee.lang.ZRecordList;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 
+import com.joogle.model.TermRankingFunction;
 import com.joogle.model.TermWithWeight;
 import com.joogle.model.YahooAnswer;
 import com.joogle.model.YahooQuestion;
@@ -39,7 +36,7 @@ public class TREC {
 	private static final String commentRgx = "(?m)(?s)<!(.*)(!)?>";
 
 	private static List<String> stopwords;
-	
+
 	public static void main(String args[]) throws Exception {
 		// String tmp =
 		// "<Head> <Created on 3/15/96><body background=\"images/cdp_bkg.gif\" TEXT=\"#000000\"><center><img src=\"images/in_head.jpg\"></center><Title>Your Company on the Internet</Title></Head>"+
@@ -54,11 +51,11 @@ public class TREC {
 		// System.out.println(tmp3.replaceAll(myHtmlRgx, ""));
 
 		TREC trec = new TREC();
-		
+
 		System.out.println("Populating topwords");
 		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
 		System.out.println("done.");
-		
+
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
 		trec.search("dat/trec_index_stem_stop");
 	}
@@ -234,10 +231,11 @@ public class TREC {
 		System.out.println("Complete");
 	}
 
-	private static String getNormalizedQuery(String query, List<String> stopwords) {
+	private static String getNormalizedQuery(String query,
+			List<String> stopwords) {
 		List<String> query_tokens = Tokenizer.tokenize(query);
 		String query_modified = "";
-		
+
 		for (String term : query_tokens) {
 			if (!stopwords.contains(term)) {
 				query_modified += " " + term;
@@ -269,10 +267,11 @@ public class TREC {
 
 		return result;
 	}
-	
-	private final int TERM_EXPANSION_LIMIT = 5;
 
-	private String getExpandedQuery(String query) {
+	private final int TERM_EXPANSION_LIMIT = 10;
+
+	private String getExpandedQuery(String query,
+			TermRankingFunction function_type) {
 		String normalized_query = getNormalizedQuery(query, stopwords);
 
 		System.out.println("Normalized Query: " + normalized_query);
@@ -289,8 +288,8 @@ public class TREC {
 			String question_content = question.Content;
 			String chosen_answer_content = question.ChosenAnswer;
 			List<YahooAnswer> answers = YahooAnswerHelper.getAnswers(question);
-			
-			prf_docs.add(chosen_answer_content);			
+
+			prf_docs.add(chosen_answer_content);
 			collection.add(question_content);
 			collection.add(chosen_answer_content);
 			for (YahooAnswer ans : answers) {
@@ -307,7 +306,21 @@ public class TREC {
 
 			for (String t : vector) {
 				if (!stopwords.contains(t)) {
-					double weight = rank_helper.getRocchioWeight(t);
+					double weight = 0.0;
+
+					// get weight using specified ranking function
+					switch (function_type) {
+					case ROCCHIO:
+						weight = rank_helper.getRocchioWeight(t);
+						break;
+					case RSV:
+						weight = rank_helper.getRSVWeight(t);
+						break;
+					case CHI:
+						weight = rank_helper.getChiSquareWeight(t);
+						break;
+					}
+
 					weight_vector.put(t, weight);
 				}
 
@@ -315,26 +328,26 @@ public class TREC {
 
 		}
 
-		List<TermWithWeight> tww = new ArrayList<TermWithWeight>();
+		List<TermWithWeight> tww_list = new ArrayList<TermWithWeight>();
 		for (String t : weight_vector.keySet()) {
-			tww.add(new TermWithWeight(t, weight_vector.get(t)));
+			tww_list.add(new TermWithWeight(t, weight_vector.get(t)));
 		}
 
-		Collections.sort(tww);
-		
+		Collections.sort(tww_list);
+
 		String expanded_query = normalized_query + " ";
 
-		for (int i = 0; i < tww.size(); i++) {
+		for (int i = 0; i < tww_list.size(); i++) {
 			if (i >= TERM_EXPANSION_LIMIT) {
 				break;
 			}
-			
-			String term = tww.get(i).term;
-			expanded_query += term + " ";			
+
+			String term = tww_list.get(i).term;
+			expanded_query += term + " ";
 		}
-		
+
 		System.out.println("Done");
-		
+
 		return expanded_query;
 	}
 
@@ -345,21 +358,24 @@ public class TREC {
 
 			String sQuery = in.nextLine();
 			Lucene oLucene = new Lucene();
-			
-			String expaned_query = getExpandedQuery(sQuery);
-			
+
+			String expaned_query = getExpandedQuery(sQuery,
+					TermRankingFunction.CHI);
+
 			System.out.println("Expanded Query: " + expaned_query);
 
-//			oLucene.setIndexDirectory(dirIdx);
-//			oLucene.initEnglishAnalyzer("rsc/english_stopword_v2.txt");
-//			ZRecordList lstResDoc = oLucene.retrieveDocuments(sQuery, true, 10,
-//					"body", ZRecord.byObj("docNO", "body"));
-//
-//			// System.out.println(lstResDoc);
-//			ZOut.println(" ==> Number of Results = " + lstResDoc.size());
-//			ZOut.println(lstResDoc.size() > 0 ? lstResDoc.toString("\n", "\t")
-//					: "No result");
-//			ZOut.println("\n");
+			// oLucene.setIndexDirectory(dirIdx);
+			// oLucene.initEnglishAnalyzer("rsc/english_stopword_v2.txt");
+			// ZRecordList lstResDoc = oLucene.retrieveDocuments(sQuery, true,
+			// 10,
+			// "body", ZRecord.byObj("docNO", "body"));
+			//
+			// // System.out.println(lstResDoc);
+			// ZOut.println(" ==> Number of Results = " + lstResDoc.size());
+			// ZOut.println(lstResDoc.size() > 0 ? lstResDoc.toString("\n",
+			// "\t")
+			// : "No result");
+			// ZOut.println("\n");
 		}
 	}
 }

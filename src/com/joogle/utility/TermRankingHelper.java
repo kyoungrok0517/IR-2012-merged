@@ -36,6 +36,12 @@ public class TermRankingHelper {
 
 		this.stopwords = stopwords;
 	}
+	
+	public double getChiSquareWeight(String term) {
+		double pr = getRelevantProbability(term);
+		double cr = getCollectionProbability(term);
+		return Math.pow((pr - cr), 2) / cr;
+	}
 
 	public double getRSVWeight(String term) {
 		double weight = 0.0;
