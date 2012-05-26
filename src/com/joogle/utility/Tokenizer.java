@@ -9,8 +9,9 @@ public class Tokenizer {
 
 	public static List<String> tokenize(String text) {
 		// TODO: 여기서 stopword 제거, 소문자화, stemming 등을 모두 처리
-		StringTokenizer tokenizer = new StringTokenizer(text,
-				" \"()<>{}[]~`!@#$%^&*_-=+/|,.;:\t\n\r1234567890");
+		String pattern = "(?i)[^A-Z]";
+		String strippedString = text.replaceAll(pattern, " ");
+		StringTokenizer tokenizer = new StringTokenizer(strippedString, " \t\r\n");
 
 		List<String> tokens = new ArrayList<String>();
 		while (tokenizer.hasMoreTokens()) {
@@ -21,7 +22,7 @@ public class Tokenizer {
 
 			tokens.add(t);
 		}
-
+		
 		return tokens;
 	}
 }

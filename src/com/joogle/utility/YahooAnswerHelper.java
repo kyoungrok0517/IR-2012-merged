@@ -48,7 +48,7 @@ public class YahooAnswerHelper {
 				int code = response.getStatusLine().getStatusCode();
 
 				if (code >= 300) { // the server responded with error
-					System.err.println("Failed");
+					System.err.println("Yahoo Answer Helper Failed");
 				} else {
 					String string_response = EntityUtils.toString(entity);
 					JsonObject json_response = parser.parse(string_response)
@@ -85,7 +85,7 @@ public class YahooAnswerHelper {
 				int code = response.getStatusLine().getStatusCode();
 
 				if (code >= 300) { // the server responded with error
-					System.err.println("Failed");
+					System.err.println("Yahoo Answer Helper Failed");
 				} else {
 					String string_response = EntityUtils.toString(entity);
 					JsonObject json_response = parser.parse(string_response)
@@ -115,7 +115,7 @@ public class YahooAnswerHelper {
 		params.add(new BasicNameValuePair("appid", API_SECRET));
 		params.add(new BasicNameValuePair("query", query));
 		params.add(new BasicNameValuePair("output", "json"));
-		params.add(new BasicNameValuePair("results", "10"));
+		params.add(new BasicNameValuePair("results", "30"));
 		String query_string = URLEncodedUtils.format(params, "UTF-8");
 
 		// build URL for question search
