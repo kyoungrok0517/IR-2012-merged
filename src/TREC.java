@@ -360,7 +360,7 @@ public class TREC {
 			Lucene oLucene = new Lucene();
 
 			String expaned_query = getExpandedQuery(sQuery,
-					TermRankingFunction.CHI);
+					TermRankingFunction.ROCCHIO);
 
 			System.out.println("Expanded Query: " + expaned_query);
 
