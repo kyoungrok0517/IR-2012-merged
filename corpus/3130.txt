@@ -1,0 +1,1 @@
+BMI is equal to or less than 18.5 (Underweight)You have a BMI of 17.92

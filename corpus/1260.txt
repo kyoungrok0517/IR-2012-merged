@@ -1,0 +1,5 @@
+That's why you need at least 4 satellites in view. 
+
+Basically, what you have is a set of equations with 4 unknows: 3 coordinates for your position, the fourth for the time. Each satellite that is received will yield one of the equations from that set. As soon as you've got four satellites, you can start solving the problem.
+
+The catch is that the data from the satellites themselves is laden with some error (IIRC mainly from atmospheric disturbances), so through adding more equations (=satellites) to the set, you can reduce that error.

@@ -1,0 +1,13 @@
+(1)Thermometer to measure the temperature,
+(2)Barometer to measure the atmospheric pressure,
+(3)Hygrograph to measure humidity,
+(4) Sychrometer to find out dew point and humidity,
+(5)Wind vane to find the direction of wind
+(6)Anemometer to find out the wind speed,
+(7)Ceilometer to find out the height of the cloud base,
+(8)Evaporimeter to find out the evaporation rate of water,
+(9)Doppler radar to find out cloud covering,cloud speed,to locate hurricanes and tornadoes,rainfall intensity etc,
+(10) Satellite image to track hurricanes and to find out cloud cover and cloud temperature
+(11)Radiosonde(attached to meteorological balloons) to find out pressure,temperature,humidity,wind speed and direction at upper levels
+ (12) weather charts to locate pressure systems,and
+(13)Rainguage to measure the precipitation.

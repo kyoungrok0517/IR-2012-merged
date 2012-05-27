@@ -1,0 +1,11 @@
+You can start with the World health Organization fact sheet at
+http://www.wpro.who.int/media_centre/fact_sheets/fs_20020528.htm
+
+and then move on to the medical search engine at PubMed (freely available to anyone), where you can put in the search terms you require.
+For example there is a paper on smoking and cancer of the colon and rectum:
+http://www.ncbi.nlm.nih.gov/pubmed/19142968?ordinalpos=9&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+
+For cancers of the larynx and oesophagus, there is
+http://www.ncbi.nlm.nih.gov/pubmed/18562959?ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+
+but you could spend happy hours browsing the scientific literature for yourself. Email me if you want a full list of smoking-related diseases to start with.

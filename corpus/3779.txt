@@ -1,0 +1,1 @@
+Satellite and radar and weather map that shows high and low. Those are the most common to be displayed during a forecast.

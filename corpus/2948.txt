@@ -1,0 +1,7 @@
+Skywar is correct, only that he gave four and not three types of clouds. Usually, meteorology defines three different families of clouds:
+
+Cumuliform clouds. Those are the result of a convection, i.e. rising air. They are the usual cauliflower type cloud. It includes the cumulonimbus that causes thunderstorms.
+
+Stratiform clouds. Those are the result of the opposite of a convection: a inversion, i.e. warmer air above cold one. The air doesn't rise and if a layer cools down, it condenses. That forms the flat layered clouds and fog is actually a stratiform cloud.
+
+Cirriform clouds. Those are very high clouds made entirely of ice crystals. They are the left-overs of clouds that rose either by a strong convection due to tropical thunderstorms or along a warm polar front.

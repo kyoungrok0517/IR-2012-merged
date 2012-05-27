@@ -1,0 +1,11 @@
+No, your first split can be ANY combination of primes and composites, depending on the number you start with.
+
+If you start with a prime, then you're done.  That's not exciting enough!  The factor tree of 7 is 7.
+
+If you start with a composite that only has two prime factors, than you'll ALWAYS split it up into the two prime factors.  For example, 35 splits up into 5 * 7, or as 7 * 5.  Doesn't matter how you do it, you'll ALWAYS get two primes, and EXACTLY those two primes.
+
+If you start with a composite that has more than two prime factors, you can start in a few different ways.  For example, if you had 88, you could split it up into 4 * 22, which are both composites.  Or you could split it up into 2 * 44, which is a prime and a composite.  Either way, you'd have more work to do.
+
+The really COOL thing is that it doesn't matter if you start with 4 * 22 or with 2 * 44.  Either way, you'll EVENTUALLY break it down to 2 * 2 * 2 * 11, in some order.  This is called the Unique Facotirzation Theorem.  It states that the prime factorization of a number is UNIQUE, as long as you disregard the order of the factors.  You'l never get an EXTRA 2 in the prime factorization of 88, and you'll never manage to pull out a 5.  
+
+This may seem like a trivial fact, but it's used alot in higher mathematics classes like Number Theory.  And it's also the reason why mathematicians say that 1 is NOT a prime number.  If you let 1 be prime, then you can write the prime factorization of 4 as 2 * 2, or you can write it as 1 * 2 * 2, or you can write it as 1 * 1 * 1 * 1 * 2 * 2.  But if you say "1 is not prime", it easily solves that problem.

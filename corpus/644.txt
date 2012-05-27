@@ -1,0 +1,6 @@
+I would say in general it is ABA, but inside the form is more complex. 
+
+The middle part also starts from the theme A and leads to the B theme after which some elements of the theme A return. In the third part a C theme comes, which is built on an element of the A theme. And in the end the A theme sounds shortly again. 
+
+So I would say it is:
+AA ABA CA

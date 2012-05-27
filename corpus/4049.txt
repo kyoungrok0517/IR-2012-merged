@@ -1,0 +1,5 @@
+THis is an energy balance problem
+Calculate the mass of water in the pool, then the heat required to warm it 10 C [Q = MCDeltaT, where C = 4.184 J/g]
+Calculate the area of the pool
+Calculate the total wattage hitting the pool
+Divide heat required by total wattage to get time - 1 W = 1J/S

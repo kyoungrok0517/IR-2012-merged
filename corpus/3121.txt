@@ -1,0 +1,7 @@
+It stands for body mass index. 
+
+Go here and it will calculate your body mass index for you...
+
+http://www.nhlbisupport.com/bmi/
+
+Between 19 and 25 is a healthy BMI, below is underweight and above is overweight, though not necessaily obese.

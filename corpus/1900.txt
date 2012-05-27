@@ -1,0 +1,2 @@
+I am learning how to find the prime factors of a numbers. When you start factoring do the numbers always split into a prime and a composite number? I guess it would have to because it if split right away into two primes I guess you might be done factoring? I just want to know so I don't have to memorize all the prime number beyond 13. =)
+

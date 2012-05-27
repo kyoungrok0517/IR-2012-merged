@@ -1,0 +1,2 @@
+A 7.0-m-diameter garden pond holds 6.6 × 103 kg of water. Solar energy is incident on the pond at an average rate of 400 W/m2. If the water absorbs all the solar energy and does not exchange energy with its surroundings, how many hours will it take to warm from 15°C to 25°C?
+

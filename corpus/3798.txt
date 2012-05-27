@@ -1,0 +1,6 @@
+Well, you have examples of the basic stuff...albeit in hi-tech form...like: thermometers, hygrometers, barometers, psychrometers, anemometers. Some of this is on the ground, some launched aloft on pilot balloons (rawinsondes) or even on commercial and military aircraft.
+
+Then you have examples of the remote sensing stuff like: satellites with cameras & radiometers, Doppler radar, wind profilers (RASS, Sodar, Lidar, etc), and celiometers. I often hear some of my colleagues refer to rawinsondes and aircraft-board instruments as remote sensing instrumentation...and I don't argue.
+
+If you can consider computers as weather instruments, then so be it. I personally don't...the hardware, the diagnostic programs they run to assimilate and format data, and the prognostic modeling they perform  I consider "tools", not instruments (data has already been collected by instruments). Just the opinion of an old-school meteorologist...
+.

@@ -1,0 +1,8 @@
+You need to supply a few specifics in order to ensure you get the right answer for you.
+Your location is everything, of course: not just your latitude, but your aspect (lay of the land/hill facing or facing away from the sun).
+Another part is a matter of how much space you have outside in order to set up an array. Unless your unit's a little hot tub, one panel's not going to do it.
+Also keep in mind, when working out the total power consumption of the system (assuming the panels are supplying all power) to count the pump.
+Too bad the guy who answered first doesn't know how to shop; means nothing in relation to whether solar is a good technology.
+
+Hope that helps. 
+Maybe delete this and re ask your question?

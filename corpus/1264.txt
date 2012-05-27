@@ -1,0 +1,3 @@
+A GPS satellite sends a time signal to your GPS receiver. The receiver compares the time signal to an ephemeris, a table of where each satellite is, and calculates at what distance the satellite must be to account for the time anomaly. Knowing the distance to three satellites positions the receiver in three dimensions. (A signal from one transmitter would place you somewhere on a sphere of an infinite number of points all being equidistant from the satellite. A signal from two transmitters would place you on a ring of an infinite number of points all being equidistant from each satellites.)
+
+The velocity of light, that of the signal, is very fast. A timing error of one-millionth of a second is an error of 4.6 kilometers. Only an atomic clock can meet that standard.

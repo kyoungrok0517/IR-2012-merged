@@ -1,0 +1,4 @@
+I am analyzing some water data. Calcium is given in milligrams of calcium per liter, but I need to calculate the hardness in terms of milligrams of calcium carbonate per liter. How do I do this?
+
+All I know is that in a class example: 114 mg / L of Ca became 285 mg / L of CaCO3.
+

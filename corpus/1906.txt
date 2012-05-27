@@ -1,0 +1,2 @@
+why do you use the smallest power of each common prime factor when finding the GCF of two or more integers?
+

@@ -1,0 +1,3 @@
+I'm not sure whether "greatest common proper prime factor" is a special, technical thing. If it just means the greatest prime number that is a common factor of the 2 integers, then simply take the greatest common factor you already have, factorize it into primes and take its greatest prime factor. That's your answer.
+
+EDIT: I'm sorry to say I have no reference to back up this answer. I think it's just common-sense, though.

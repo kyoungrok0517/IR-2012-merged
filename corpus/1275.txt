@@ -1,0 +1,6 @@
+Where can I find this gadget: a digital clock that syncs with the computer clock via USB only (so not Bluetooth).
+
+No, I cannot use a satellite or GPS receiving clock. It has to be one that syncs with the computer clock via a USB cable.
+
+Thanks for your help!
+

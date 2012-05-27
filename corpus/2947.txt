@@ -1,0 +1,4 @@
+Nimbo- rain clouds
+cirrus- high altitude clouds
+cumulus- thunderstorm clouds, towering cumulus clouds usually due to updraft.
+Stratus- blanket of cloud

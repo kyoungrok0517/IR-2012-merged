@@ -1,0 +1,9 @@
+Resistance = resistivity x length/area
+ ρ tungsten = 5.65 10^-8 Ω /m
+ R = V / I = 60/ 1.04 = 57.6923 Ω
+
+link  Resistivity Calculation  http://hyperphysics.phy-astr.gsu.edu/hbase/electric/resis.html#c4
+
+lenght  wire   0.08 m
+
+Goodbye

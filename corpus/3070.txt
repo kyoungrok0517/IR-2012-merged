@@ -1,0 +1,5 @@
+EVAPORATION - returns 
+TRANSPIRATION - returns
+PRECIPIATION - removes
+Respiration - returns
+Photosynthesis - removes

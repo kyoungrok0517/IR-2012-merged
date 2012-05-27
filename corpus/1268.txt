@@ -1,0 +1,3 @@
+I'm not certain about this, but my understanding is that cell phones typically get the time from the network they are on - say Verizon/AT&T. Or at least get periodical updates from the network they are on. They do not get it from either the GPS satellite or the WWV radio
+
+For some technologies, like CDMA, there is a fairly tight correlation between time and the technology, so for those phones, getting the correct time is a lucky side-effect.

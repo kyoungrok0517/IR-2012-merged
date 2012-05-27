@@ -1,0 +1,12 @@
+I am not going to profess to know how much of the National Electrical Code is enforced in Canada.  But, since I probably have more experience with electrical work in one finger than 'school' has in his whole body, I will tell you what the NEC says about the subject.
+
+Section 240.33 reads:  "Enclosures for overcurrent devices shall be mounted in a vertical position unless that is shown to be impracticable.  Circuit breaker enclosures shall be permitted to be installed horizontally where the circuit breaker is installed in accordance with 240.81.  Listed busway plug-in units shall be permitted to be mounted in orientations corresponding to the busway mounting position."
+
+Section 240.81 reads:  "Circuit breakers shall clearly indicate whether they are in the open 'off' or closed 'on' position.
+Where circuit breaker handles are operated vertically rather than rotationally or horizontally, the 'up' position of the handle shall be the 'on' position."
+
+Most modern panels are rated to be used in either vertical position (yes, that means 'upside down').  Although I prefer the 'right side up' look myself, I have had occasions where the other direction was needed.
+
+I suppose that you could mount the panel horizontally (if you can show that it is necessary).  But, your main breaker needs to be positioned such that 'on' is up and 'off' is down.  You would only be able to use half of the panel, since using the other half would violate 240.81 as shown above.
+
+This is the Code.  I am not making it up.  Having never worked there, I do not know how much of it is enforced in Canada.

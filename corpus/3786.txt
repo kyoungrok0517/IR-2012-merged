@@ -1,0 +1,2 @@
+Barometer-Barometric pressure with historical graph
+indoor/outdoor temperature in F & C with humidity (% RH)

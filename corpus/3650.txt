@@ -1,0 +1,9 @@
+FHA=3.5% Down Payment         USDA=0% Down Payment
+
+FHA=Monthly Mortgage Insurance        USDA=No Monthly Mortgage Insurance
+
+FHA=No Income Limits                  USDA=Income Limits based on costs of living(Area Specific)
+
+FHA=$303,750 Max Base Loan Amount       USDA=No Max Loan Amount(see income limit)
+
+Many differences exist. Government specifics are unique to you area and situation. Please see a local mortgage banker for more details or feel free to ask me a question at: www.usdaHomeApplication.com

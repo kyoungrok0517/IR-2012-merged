@@ -1,0 +1,10 @@
+The short answer is you don't need to synchronise the clock on the GPS receiver with the clocks on the satellites. For example:
+
+It is exactly 12 midday. You look at the signals from two satellites.
+
+Satellite 1's signal says 'I'm located at this position in my orbit and the time is 12.00.00'
+Satellite 2's signal says 'I'm at this position and the time is 11.59.59'
+
+The atomic clocks in the satellites are synchronised (at least in the sense that they are extremely accurate). But the times read by the reciever will not be the same because of the slight delay in that signal arriving. In the above case, Satellite 2 is further way so the signal you recieve is offset from that of Satellite 1. You're getting, if you like, the last tick of the clock on Satellite 2 because the current 12.00.00 tick signal is still in transit to you.
+
+The GPS signal contains information about where the satellites are. What the receiver does is take the known position of satellite 1 and the known position of satellite 2, and then work out where on the earth's surface it would have to be to get a 1 second delay (for the purposes of the example) in the signal. That only gives you one position, so you need at least another satellite to pinpoint your location. And of course the delays are extremely small.

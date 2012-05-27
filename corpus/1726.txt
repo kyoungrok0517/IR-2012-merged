@@ -1,0 +1,9 @@
+I would like to find out what the ideal conditions are for orchids to grow. This question comes in 4 parts:
+
+1) What is the recommended pH for orchids to grow well?
+2) Which temperature do orchids grow best at?
+3) What is the recommended salinity of water for orchids to grow? (Unit: ppt)
+4) What is the recommended amount of dissolved oxygen for orchids to grow? (Unit: mg/L)
+
+If possible, please state the sources where you had your answers from.
+

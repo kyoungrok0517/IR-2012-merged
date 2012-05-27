@@ -1,0 +1,4 @@
+For example, if you were trying to find the the two prime factors that multiply together to get 60, then on a prime factor tree you would have 60, then 2 x 30, then 2 x 15, then 3 x 5. But how do you get the answer from that?
+
+This is for maths unit 2 GCSE exam. Thanks in advance.
+

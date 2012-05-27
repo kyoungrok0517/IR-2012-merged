@@ -1,0 +1,43 @@
+This is a partial list.
+
+    * Lung cancer
+    * Cancer of the mouth
+    * Cancer of the throat
+    * Cancer of the larynx
+    * Cancer of the oesophagus
+    * Stomach cancer
+    * Kidney cancer
+    * Cancer of the bladder
+    * Cancer of the pancreas
+    * Liver cancer
+    * Cancer of the penis
+    * Cancer of the anus
+    * Cervical cancer
+    * Prostate cancer 
+    * Heart attack
+    * Coronary heart disease
+    * Cardiovascular disease
+    * Congestive heart failure
+    * Stroke
+    * Atherosclerosis
+    * Abdominal aortic aneurysm
+    * Peripheral artery disease
+    * Ischaemic heart disease
+    * Angina
+    * Leukaemia
+    * Emphysema
+    * Chronic bronchitis
+    * Pneumonia 
+    * Asthma
+    * Diabetes
+    * Stomach ulcers
+    * Cataracts
+    * Gum disease
+    * High blood pressure
+    * Crohn's disease
+    * Premature aging of the skin
+    * Loss of smell and taste
+    * Osteoporosis (women)
+    * Gangrene
+    * Impotence
+    * Reduced fertility

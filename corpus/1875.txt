@@ -1,0 +1,3 @@
+If I remember correctly, your scenario above would be deductive. Inductive would the other way around.
+
+Basically deductive is broad statement to a specific hypothesis and inductive is a specific statement to a broad hypothesis.

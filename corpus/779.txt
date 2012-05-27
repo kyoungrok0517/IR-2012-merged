@@ -1,0 +1,19 @@
+Knowns:
+V=120V
+I=1.65A
+p=5.6e-8 ohm*m
+A=(pi)2.66e-6^2 (pi r squared)=2.22e-11
+
+Unknown:
+L
+
+Equations:
+R=V/I
+R=p(L/A)
+therefore: V/I=p(L/A)
+rearrange:  L=VA/PI
+
+plug-in:
+
+L=(120*2.22e-11)/(5.6e-8*1.65)
+L= .0288m

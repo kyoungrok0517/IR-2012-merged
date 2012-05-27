@@ -1,0 +1,5 @@
+Not sure what you want but maybe this will work:
+
+One of the earliest weather forecasting methods was using a barometer. This would tell you if you had high or low air pressure. When the air pressure is low you tend to get storms blowing in. You can construct a simple barometer using a bottle and a glass. Fill the bottle and glass 1/2 full, then put the bottle upside down in the glass. Mark the water level in the bottle with marker or a piece of tape. if the water drops then the air pressure has lowered, if it rises then the air pressure is higher. 
+
+This device isn't the easiest to integrate with a computer, but maybe you have got a few ideas now.

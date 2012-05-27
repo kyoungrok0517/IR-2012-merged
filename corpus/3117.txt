@@ -1,0 +1,5 @@
+"the number, derived by using height and weight measurements, that gives a general indication if weight falls within a healthy range."
+
+Basically, it's a number that determines whether your weight is healthy for your height. Underweight, average, overweight etc. etc.
+
+Hope that helped!

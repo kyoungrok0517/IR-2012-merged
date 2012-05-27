@@ -1,0 +1,6 @@
+Because without a clock of that accuracy, you would have errors in the 3-point triangulation that can yield numerous miles of position error.
+
+GPS works with timing radio signals from the navigation device to three of the GPS satellites.   The radio signals travel at the speed of light, which is extremely fast for anything to travel inter-orbit distances of Earth and Earth orbit.  Seriously...do not ever expect a pulse to last more than a second
+
+
+That being said...familiar distances to us would require microseconds of accuracy in time measurement.  Conventional clocks cannot do that.  Hence the atomic clock is needed.

@@ -1,0 +1,7 @@
+A thermometer measures temperature.
+A barometer measures air pressure.
+A rain gauge measures precipitation.
+An anemometer measures wind speed.
+A radiosonde attached to a weather balloon measures weather high in the atmosphere.
+A satellite orbiting Earth takes pictures of clouds from space to help us see where and how fast clouds are moving.
+A radar shoots a radio signal into a cloud to shows where precipitation is falling and how much. It can also spot severe storms and how fast they are moving.

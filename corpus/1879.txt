@@ -1,0 +1,35 @@
+I'm guessing that you pick one answer after each question?
+
+1) The form logic uses to arrange deductive arguments is a standard form called a syllogism. Syllogisms contain... 
+"2 statements called premises and a conclusion". This is true! This is a syllogism by a definition.
+"absolute statements based in science and a hypothesis". This is not true - syllogisms are not necessarily scientific, and the last portion is not a hypothesis, but a deduction
+"arcane facts and hidden premises, followed by a claim". This is only sometimes true.
+"provable facts followed by a proven hypothesis". This is not always true, as the premises are not always provable.
+
+
+2) One of the following statements is not true. Identify that statement.
+"Reasoning occurs only in deduction, not induction" This is false; both deduction and induction are forms of reasoning.
+"Reasoning occurs in both induction and deduction" This is true; induction and deduction are the two types of reasoning.
+"A generlization reached through induction can become a premise used in a deductive syllogism" This is true; deductive syllogisms are formed from large premises, which are often formed from inductive reasoning.
+"A deductive syllogism contains a major premise and a minor premise" This is also true; there is the major premise, a minor premise, and a conclusion.
+
+3) Syllogisms
+"allow logicians to determine what is being said". This is not necessarily accurate, considering that 'what is being said' is a really weird way to put it. I would've put a question mark next to this answer.
+"assist in identifying valid arguments" This is true. Syllogisms can expose valid arguments, even if they're not factually correct.
+"allows us to find out whether an argument makes sense". This is true too, sort of. Kind of weird, like the first one.
+"do all of the above" I would probably choose this answer.
+
+
+
+
+Since all of your questions seem to be about logic and syllogisms, I'll give a quick summary as to what they are, just in case. 
+
+A syllogism is a structured form of deductive reasoning that contains two premises and a conclusion. This includes a major premise and a minor premise. A premise is basically an assumption - so basically a big assumption, a little assumption, and then what you can get from them. So the classic one is...
+
+"All men are mortal" ----> major premise
+"Socrates is a man" ----> minor premise
+"Therefore Socrates is mortal" ----> conclusion
+
+However, while syllogisms are valid, they are not always necessarily true! If your premises are incorrect, you can still reach a VALID conclusion that is factually incorrect. "(ie. "All men live forever, Socrates is a man, therefore Socrates will live forever")
+
+Deductive reasoning is basically just that - forming a logical conclusion from bigger facts; it's the more common form of reasoning. Inductive is the opposite - you take something small and apply it to something bigger. (example: you go outside when it's raining, you get wet - you inductively reason that if anyone or anything goes out into the rain, it will get wet. With this, you go from a small fact (your experience) to a larger conclusion)

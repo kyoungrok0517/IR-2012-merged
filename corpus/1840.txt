@@ -1,0 +1,17 @@
+Well it's incredibly complicated but if you want to know, read this:
+
+http://en.wikipedia.org/wiki/Genetic_fingerprinting
+
+After glancing over it though, it doesn't do a very good job of explaining the actual process so here it is:
+
+The really toned down version is first a scientist will stain an object and look at it through a microscope to find your cells. Once they do that, they extract a small amount of cells and then disintegrate everything in the cell except for the DNA with enzymes that target only specific substances in the cell. 
+
+Once this is done and they have your pure DNA, they can actually use a method called polymerase chain reaction (PCR) to manually copy your DNA over and over again to huge amounts and as much as they want. 
+
+After they obtain a large amount of your entire genetic profile, they run it through a process called gel electrophoresis after tagging your DNA's base pairs with a radioactive phosphorous isotope. 
+
+What happens is, in PCR, every possible variation of size in your DNA is created because it randomly severs your DNA during the artificial replication process. For example, after this process, you have some strands of DNA that are from the first nucleotide to the fifth nucleotide and then you have some from the first to the hundredth and so on. You will end up having many of each variation which will then pass through this gel which uses friction to separate the different sizes of the DNA (ex. a fat man will move through water slower then a skinny one).
+
+These different sizes of DNA will pass through a stationary laser which reads the radioactivity of that first set (cytosine, adenine, thymine, and guinine.) This first set will be one single nucleotide long because it is the first base pair in the DNA of that chromatid.(They do these one chromatid at a time[2x chromatids make up 1 chromosome]). Each base has a different radioactive signature from the phosphorous and the machine will read the differences of the signatures for each consecutive sequence of DNA that passes by the laser.
+
+They then do this for all your chromosomes and voila, they have your entire genetic makeup.

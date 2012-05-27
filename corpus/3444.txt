@@ -1,0 +1,3 @@
+There is no "American" building code - individual states would have their own, and would differ greatly depending on environment.  Canada uses a national building code, although some provinces have developed their own based on the national code (eg. Mike Holmes would be referring to the Ontario building code).  The other question is: which code?  There is building code, electrical code, fire code, gas code, etc..  All of them are called "the code" in the show, but they are actually different pieces of legislation.
+
+That being said, building science & research, materials, physics, and industry standards (ie. the stuff that codes are based on) commonly span both ways across the border, so codes often wind up being pretty similar.

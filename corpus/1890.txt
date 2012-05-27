@@ -1,0 +1,3 @@
+To begin with write 60 at the top of your page, then draw down two lines from that, at one line write 2, and the other 30 . As 2 is a prime number circle that. Draw two more lines down from 30, and again at one line write 2 and 15. Again circle 2. Then from 15 draw two lines and put 3 and 5. Again because 3 and 5 are prime numbers circle those. So that means that 60= 2x2x3x5, or 2^2x3x5. You get this because they are all the prime numbers that you can't continue down the tree.
+
+I hope this helps, good luck with your GCSE's, I'm going through that same thing :)

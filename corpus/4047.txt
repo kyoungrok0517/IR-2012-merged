@@ -1,0 +1,1 @@
+you need enough square footage,the panels oriented to the correct latitude (+ 15,-15,0 degrees depending on where you live) and facing south,and the mininum amount of shade across panels (during course of day)

@@ -1,0 +1,3 @@
+It's not possible to thoroughly vet every component of a vehicle prior to sale.  Costs would double or triple overnight.
+
+Many vehicle parts are not made by the vehicle manufacturer but by third-party companies.  Sometimes defective components slip throught the quality control process either at the company that manufacturered them or at the vehicle assembly plant.  Once a defective component is discovered, a recall is initiated.

@@ -1,0 +1,8 @@
+No, it could split into two primes (and then you're done, correct), or into two composites (each of which can be factored further).
+
+For example:
+
+10 = 5 * 2, those are both prime, you're done
+
+100 = 10 * 10, those are both composite, so it becomes:
+100 = (5*2) * (5*2), now you're done

@@ -1,0 +1,1 @@
+No, prime factors are unique.  The only difference might be the order in which the factors are written, but that's not really a different answer.

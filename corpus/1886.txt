@@ -1,0 +1,7 @@
+Hello,
+How do I find the GREATEST COMMON PROPER PRIME FACTOR of 2 integers, based on the calculation for the greatest common factor?
+
+Thanks!
+Please attach reference to back up your answer, don't just through magic answers @ me, THANKS!!!
+Proper factor = factor other than 1 or the number it self
+

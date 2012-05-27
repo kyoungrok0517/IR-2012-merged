@@ -1,0 +1,1 @@
+Perhaps the packets of information transmitted to the GPS receiver contain information about the distance from the satellite, it probably just conducts a simple t0 - t calculation to synchronize the time.

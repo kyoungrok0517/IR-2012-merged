@@ -1,0 +1,1 @@
+I believe 6 should be "absolute humidity", otherwise looks good (even #10; "Dew point" is what everyone uses).

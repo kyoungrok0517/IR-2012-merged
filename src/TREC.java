@@ -36,6 +36,7 @@ public class TREC {
 	private static final String commentRgx = "(?m)(?s)<!(.*)(!)?>";
 
 	private static List<String> stopwords;
+	private static Map<String, Integer> corpus_vector;
 
 	public static void main(String args[]) throws Exception {
 		// String tmp =
@@ -52,12 +53,47 @@ public class TREC {
 
 		TREC trec = new TREC();
 
-		System.out.println("Populating topwords");
+		System.out.println("Populating stopwords");
 		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
 		System.out.println("done.");
+		
+		System.out.println("Populating Corpus");
+		corpus_vector = populateCorpusVector("./corpus/corpus_vector.txt");
+		System.out.println("done.");
+		
+		for (String term : corpus_vector.keySet()) {
+			System.out.println(term + ":" + corpus_vector.get(term));
+		}
 
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
-		trec.search("dat/trec_index_stem_stop");
+//		trec.search("dat/trec_index_stem_stop");
+	}
+
+	private static Map<String, Integer> populateCorpusVector(String filename) {
+		BufferedReader reader = null;
+		Map<String, Integer> vector = new HashMap<String, Integer>();
+
+		try {
+			reader = new BufferedReader(new FileReader(filename));
+
+			while (true) {
+				String line = reader.readLine();
+				
+				if (line == null) {
+					break;
+				}
+				
+				String[] pair = line.split(":");
+				String term = pair[0];
+				Integer count = Integer.valueOf(pair[1]);
+				
+				vector.put(term, count);
+			}
+		} catch (IOException e) {
+
+		}
+
+		return vector;
 	}
 
 	public void indexDoc(String dirIn, String dirOut) throws Exception {

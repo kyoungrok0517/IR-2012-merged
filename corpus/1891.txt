@@ -1,0 +1,2 @@
+What is the next number after 1000 that has 2 as its only prime factor?
+

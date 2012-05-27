@@ -1,0 +1,16 @@
+I just got a 2009 Legacy with the Subaru factory GPS navigation system.  This car has a dashboard clock display that lets me tell the time without turning on the GPS unit.  Since most of my driving miles are in home turf, I do not want to keep the GPS information center turned on just so I can see what time it is.
+
+The clock that I want to set is the one in the information display that appears at the bottom of the tachometer.  It includes such screens as the odometer, gas mileage, shift programs, and so on.
+
+The car owner's manual says that you do not need to set this clock and, in fact, you can NOT set this clock as it picks up the time from the NAV information system.  It also says, if the clock does not set automatically, that you need to set the time on the NAV display manually and then it will transfer to the dash clock.
+
+Well...
+
+The only thing you can do with the NAV display clock is to choose between time zones, 24 hour display, and daylight savings time.  I played with all three with no effect on the dash clock.  All it shows me is --:--
+
+So far, the best the dealer can do is to promise to research the problem for me.  "In the meantime, just keep the NAV system information center turned on."
+
+Does anyone know what magic trick is required to make this thing work?  There must be some combination of things that you need do, like turn the car on then off and then on again and set the clock and turn the car off and on again.  Nope.  THAT one didn't work.  I know.  I tried it.
+
+Thanks in advance.
+

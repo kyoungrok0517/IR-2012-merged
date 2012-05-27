@@ -1,0 +1,16 @@
+The cloud model of the electron orbital:
+
+1) Describes the wave-like nature of the electron in orbit around the nucleus, versus the
+    Bohr model which was more like planets orbiting a sun. 
+
+2) Can be thought of as a representation of the probability of finding the electron at
+    any point in the space around the nucleus. 
+
+3) The orbitals can be described by the Schrodinger equation for each atom.  
+
+4) Each orbital is defined by a different set of quantum numbers, which tell us about
+    the electrons angular momentum, and the shape of the orbital. 
+
+5) The change to the cloud model can be considered a direct consequence of quantum mechanics
+    and Heisenberg uncertainty, which dictates that the electron in its orbit cannot have an exact 
+    location in space.

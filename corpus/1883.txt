@@ -1,0 +1,5 @@
+A prime number is a number, larger than 1, that can only be divided evenly by itself and 1. The first 4 prime numbers are 2,3,5 and 7. 4 is not a prime because it can be divided by 2.
+
+A prime factor of the number 45, for example is 5, because 45 is divisible by 5 (and 5 is a prime number).
+
+Hope this helps :)

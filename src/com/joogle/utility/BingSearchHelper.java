@@ -84,6 +84,7 @@ public class BingSearchHelper {
 		// build HTTP query string that will be attached to URL
 		List<NameValuePair> params = new ArrayList<NameValuePair>();
 		params.add(new BasicNameValuePair("query", query));
+		params.add(new BasicNameValuePair("sources", "RelatedSearch"));
 		String query_string = URLEncodedUtils.format(params, "UTF-8");
 		query_string = query_string.replace("+", "%20").replace("*", "%2A")
 				.replace("%7E", "~");

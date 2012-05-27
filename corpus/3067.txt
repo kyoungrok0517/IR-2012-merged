@@ -1,0 +1,14 @@
+I have a bit confuse about the factors affect the vaporise rate of water.
+ 
+Some said the temperate of water affect it as the temperature increase, the saturated vapor rate increase also;
+
+Some said the humidity affect it as less humidity, water vaporise more easily;
+
+Some said the atmosphere pressure as the less the atmosphere pressure, the water vaporise more easily (as it be more easily to overcome the atmosphere pressure).
+
+Which is right?
+
+If I want to vaporise water in a chemical (says initially the chemical contains 3% of water, and I wish to lower down the water content to 0.1%), what should I do? Vacuum the container to lower down the atmosphere pressure? or blow away the moisture? or increase the temperature?
+
+Thanks for advice.
+

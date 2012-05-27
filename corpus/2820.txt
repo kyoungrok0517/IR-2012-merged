@@ -1,0 +1,3 @@
+The only working code generator is at Microsoft.
+
+Anything else is a virus or worse.

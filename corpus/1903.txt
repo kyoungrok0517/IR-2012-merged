@@ -1,0 +1,1 @@
+You can split a branch into **any** two factors. Primality is not a consideration as long as you end up with all prime factors. When you have all prime factors you are done, so if the original splits into two primes you are done.

@@ -1,0 +1,4 @@
+There will be a button labelled either "TA" or " i ".
+Press it, and the traffic symbol on the display should turn off.
+
+You may have to press it repeatedly to cycle through a series of options if your radio supports news bulletins as well as traffic information.

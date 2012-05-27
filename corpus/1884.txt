@@ -1,0 +1,3 @@
+What is the quickest way to find the largest prime factor of a number?
+I want to find the largest prime factor of a number. This number is 3841. Can someone please tell me how to exactly find the largest prime factor. Thanks
+

@@ -1,0 +1,1 @@
+Barometer - Pressure detector, a drop in pressure usually means storm is approaching and visa-versa, Thermometer - tells you whether you'll have rain, freezing rain, or snow also just the everyday temp.

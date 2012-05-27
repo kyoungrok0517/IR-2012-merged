@@ -1,0 +1,3 @@
+It has to do with molarity. Divide the 114 mg/L of calcium by its molecular weight (40 g/mol). Then multiply it by the molecular weight of calcium carbonate (100 g/mol) and you've got your 285 mg/L.
+
+Good luck.

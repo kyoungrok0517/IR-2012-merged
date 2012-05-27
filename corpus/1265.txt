@@ -1,0 +1,6 @@
+I've read the wikipedia.com entry for GPS and some of it just doesn't gel with me.
+
+Anyone have any pointers to a description online on how most gps receivers can calculate the correct time that an interested "newbie" would appreciate?
+
+I'm also interested how a gps receiver can discriminate satellites' C/A trains with multiple radios when all satellites are transmitting at the same frequency?  Wouldn't all the radios (like on a 12-radio GPS receiver) be listening to exactly the same thing?  Seems like they'd all be stepping on themselves and not be separable.
+

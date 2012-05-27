@@ -1,0 +1,4 @@
+I know the facts of the first browser war, but what I don't get is WHY it occurred.  Once browsers became free-of-charge (fairly early in the game I think), what was microsoft/netscape's incentive to pour money into this?  I've been told it was because MS was afraid the web browser would become peoples' main operating environment, presaging cloud computing (or perhaps remembering the thin client) but is WAAY more foresight than I'd expect from Microsoft.
+
+So, what exactly was at stake?
+

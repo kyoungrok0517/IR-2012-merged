@@ -1,0 +1,18 @@
+We know both have at 5 as a factor since they end in 5.
+
+225 = 5*45
+
+375 = 5*75
+
+Again, 45, and 75 both have 5 as a factor:
+
+225 = 5*5*9
+
+375 = 5*5*15
+
+225 = 3*3*5*5
+375 = 3*5*5*5
+
+Their greatest common prime factor is:
+
+5

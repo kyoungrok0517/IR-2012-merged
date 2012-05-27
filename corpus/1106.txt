@@ -1,0 +1,9 @@
+Firstly you need a radio that accepts traffic announcements, otherwise it won't work.
+
+I think the radio station sends an inaudible signal to tell the radio in your car that a traffic announcement is starting and one at the end to tell it the announcement has ended. Although there is sometimes a delay before it switches back to CD or whatever.
+
+With the basic systems it will only detect traffic announcements for the station it is tuned into (the one you listen to last before switching to CD or whatever).
+
+More advanced units with EON can detect the signal from other stations but not all. 
+
+It can be turned off by pressing a button TA or TP. You will notice that TA or TP will be displayed on the radio when it is on, but this disappears when it is swtiched off.

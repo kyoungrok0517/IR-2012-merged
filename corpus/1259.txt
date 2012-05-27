@@ -1,0 +1,1 @@
+It's all relative.  In principle, the receiver just needs to synchronise its clock to a different GPS satellite which is not one of those used for the actual 'triangulation' of its position.

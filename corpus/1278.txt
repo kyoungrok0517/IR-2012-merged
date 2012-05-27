@@ -1,0 +1,5 @@
+Yes, it is possible for them to track where you are. Actually, the tracking device is the phone they issued you. They installed a tracking software so whenever you go to work, they log you in, and log you out whenever you leave.
+
+If that's not the case, then I believe that they are using your computer's IP address to confirm that you sent the email from the computer in your booth. 
+
+Don't attempt to go around the system because I'm sure they'll discover it.

@@ -1,0 +1,7 @@
+let's say a = gcf(b,c)
+
+if a is a factor of b then all all a's prime factors are at a power less than or equal to b's.
+
+and if a is a factor of c then likewise.
+
+because you want a to be the greatest common factor taking the highest possible prime powers that satisfy the two lines above means taking the smaller power.

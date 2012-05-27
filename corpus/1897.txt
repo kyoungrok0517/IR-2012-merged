@@ -1,0 +1,3 @@
+225 = 5*5*3*3
+
+Highest common prime factor is 5.

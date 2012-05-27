@@ -1,0 +1,12 @@
+flamingice1642,
+
+Fortunately, it is a simple ration between the atomic weight of calcium and the molecular weight of calcium carbonate.
+
+AW Ca = 40.08 g/mole
+MW CaCO3 = 100.09 g/mol
+
+114 mg Ca/L x (100.09 gm CaCO3)/(40.08 g Ca) = 285 mg CaCO3/L
+
+So now you can go both ways, depending on what unit is given:
+
+Hope that helped!

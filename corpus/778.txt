@@ -1,0 +1,2 @@
+The filament in an incandescent light bulb is made from tungsten. The light bulb is plugged into a 120-V outlet and draws a current of 1.65 A. If the radius of the tungsten wire is 0.00266 mm, how long must the wire be?
+

@@ -1,0 +1,6 @@
+As everyone knows, cellphones set themselves and keep very accurate time. However, I'm still not sure HOW they get the time in the first place. 
+
+I always thought cellphones picked up on the time signal broadcast by the atomic clock (WWV radio station) in Colorado, or a similar atomic clock elsewhere (for those not in the U.S.) But someone else recently suggested to me that cellphones used a signal being broadcast from a GPS satellite (or more than one; I don't actually know how many GPS satellites there are). 
+
+Does anyone know conclusively whether cellphones set themselves by the atomic clock, or by GPS satellite? Thank you.
+

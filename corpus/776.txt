@@ -1,0 +1,5 @@
+Standard size incandescent bulbs are size A19.  A refers to the pear shape and 19 refers to the maximum diameter, in 1/8" units.  So an A19 bulb is 2 3/8" in diameter.
+
+So-called ceiling fan and appliance bulbs are size A15, so 1 7/8" in diameter.  I don't believe I've ever seen one above 60 watts, although they might exist.  I'd check some specialty bulb websites.
+
+Some newer CFL and LED bulbs are dimmable and should work in a touch lamp (although CFLs tend to be larger sized and LEDs tend to be more directional).

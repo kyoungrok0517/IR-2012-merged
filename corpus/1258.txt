@@ -1,0 +1,3 @@
+Basically the GPS unit periodically asks 4 or more satellites for a clock update. These satellites, based on each one's distance to the unit, perform a calculation, figure out what the proper signal delay is, and send back an appropriate new clock setting for the GPS. The math gets kinda funky, but if you really want it I've linked a related Wikipedia article below.
+
+Enjoy!

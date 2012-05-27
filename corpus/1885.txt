@@ -1,0 +1,3 @@
+all you need is to try all primes < √ 3841... ≈ 61 ...if you find one than check the remaining factor 
+
+{ 167 }

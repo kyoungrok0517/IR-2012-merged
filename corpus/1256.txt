@@ -1,0 +1,8 @@
+bcoz without it the gps receiver can never get the accurate travel time of the signal from the gps.
+
+since the transmitted signal contain the  transmitted time. So on receiving the signal at a particular time, it compute the travel time, hence the distance.
+
+But for this to happen the receiver clock has to be synchronized with the atomic clock of the GPS.
+
+How this is done is unclear to me.
+

@@ -1,0 +1,5 @@
+You may want to google a search for "Penumbra wont load after launch Steam."
+
+I had a problem with the game starting as well. It would launch and then close. My solution was some sound file that I had to download. After you do the search, you'll find the steam forums where someone posted a link to the file.
+
+I think it was called AIsound or something.

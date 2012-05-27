@@ -1,0 +1,4 @@
+The example you give is deductive reasoning, getting a general conclusion from two (or more) pieces of evidence. Inductive reasoning would be more along the lines of:
+Sally is scared of the dark
+Sally is a girl
+Therefore, all girls are scared of the dark.

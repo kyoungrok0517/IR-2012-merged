@@ -1,0 +1,32 @@
+This is just a list, the link provided shall give you description's, as well as picture's on these devices.
+
+Anemometer
+Barograph
+Barometer
+Ceiling balloon
+Ceiling projector
+Ceilometer
+Dark adaptor goggles
+Disdrometer
+Field mill
+Hygrometer
+Ice Accretion Indicator
+LIDAR
+Lightning detector
+Nephelometer
+Nephoscope
+Pyranometer
+Radiosonde
+Rain gauge
+Snow gauge
+SODAR
+Solarimeter
+Sounding rocket
+Stevenson screen
+Sunshine recorders
+Thermograph
+Thermometer
+Weather balloon
+Weather vane
+Windsock
+Wind profiler
