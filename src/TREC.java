@@ -68,7 +68,18 @@ public class TREC {
 		System.out.println("done.");
 
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
-		trec.search("dat/trec_index_stem_stop");
+
+		// trec.extractQuery("E:/석사2_1/IR/proj/TREC Web Track/topics.451-500.txt",
+		// "dat/query.txt");
+		// trec.extractQuery("E:/석사2_1/IR/proj/TREC Web Track/topics.501-550.txt",
+		// "dat/query.txt");
+
+		// trec.search("E:/석사2_1/IR/proj/IR_Proj/dat/trec_index_stem_stop",
+		// "dat/query.txt", "dat/basic/");
+		// trec.search("E:/석사2_1/IR/proj/IR_Proj/dat/trec_index_stem_stop",
+		// "dat/query.txt", "dat/bing/");
+
+		trec.makeEvaluateFile("dat/basic/", "dat/result.txt");
 	}
 
 	private static List<Map<String, Integer>> populateCorpusVectors(String dir) {
@@ -420,7 +431,7 @@ public class TREC {
 
 			String normalized_query = getNormalizedQuery(sQuery, stopwords);
 			System.out.println("Normalized Query: " + normalized_query);
-			
+
 			String expanded_rocchio = getExpandedQuery(normalized_query,
 					TermRankingFunction.ROCCHIO);
 			String expanded_RSV = getExpandedQuery(normalized_query,
@@ -447,5 +458,36 @@ public class TREC {
 			// : "No result");
 			// ZOut.println("\n");
 		}
+	}
+
+	public void makeEvaluateFile(String dir, String outFile) throws Exception {
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
+				new FileOutputStream(outFile)));
+		File fileList[] = (new File(dir)).listFiles();
+
+		for (File f : fileList) {
+			BufferedReader br = new BufferedReader(new InputStreamReader(
+					new FileInputStream(f)));
+
+			while (true) {
+				String s_line = br.readLine();
+				if (s_line == null)
+					break;
+
+				String s_lineArr[] = s_line.split("\t");
+				String s_topicID = f.getName();
+				String s_docNO = s_lineArr[0];
+				String s_rank = s_lineArr[1];
+				String s_score = s_lineArr[2];
+
+				bw.write(s_topicID + " Q0 " + s_docNO + " " + s_rank + " "
+						+ s_score + " STANDARD\n");
+				System.out.println(s_line);
+			}
+
+			br.close();
+		}
+
+		bw.close();
 	}
 }
