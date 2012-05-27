@@ -1,0 +1,6 @@
+god:1
+lost:1
+faith:1
+continue:1
+care:1
+taking:1

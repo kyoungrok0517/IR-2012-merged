@@ -1,0 +1,10 @@
+powers:1
+safe:1
+time:1
+airborne:1
+year:1
+sick:1
+infected:1
+botulism:1
+infants:1
+found:1

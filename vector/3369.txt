@@ -1,0 +1,10 @@
+janis:1
+jim:1
+jones:1
+hendrix:1
+brian:1
+morrison:1
+joplin:1
+jimi:1
+kurt:1
+kobain:1

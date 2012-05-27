@@ -1,0 +1,10 @@
+assuming:1
+wind:1
+mph:1
+hours:1
+will:1
+longer:1
+road:1
+miles:1
+roads:1
+straight:1

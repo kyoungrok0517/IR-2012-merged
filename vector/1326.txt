@@ -1,0 +1,8 @@
+fashion:2
+stuff:1
+outdoors:1
+lot:1
+theater:2
+people:1
+mall:1
+island:2

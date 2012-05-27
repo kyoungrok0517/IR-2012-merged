@@ -1,0 +1,11 @@
+gangrene:1
+history:1
+remember:2
+help:1
+crazy:1
+died:1
+art:1
+driving:1
+artist:2
+learning:1
+island:1

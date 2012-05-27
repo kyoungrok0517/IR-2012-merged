@@ -1,0 +1,7 @@
+commanders:1
+pearl:1
+attcks:1
+call:1
+harbor:1
+wave:1
+japanese:1

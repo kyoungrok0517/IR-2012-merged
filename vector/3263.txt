@@ -1,0 +1,12 @@
+thank:1
+concentration:1
+hypnosis:3
+send:1
+videos:1
+links:1
+type:1
+websites:1
+studies:1
+hypnotherapy:1
+success:1
+works:1

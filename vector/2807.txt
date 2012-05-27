@@ -1,0 +1,7 @@
+ranked:1
+times:1
+worst:1
+place:1
+agree:1
+live:1
+city:1

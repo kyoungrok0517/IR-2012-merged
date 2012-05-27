@@ -1,0 +1,11 @@
+factors:1
+creative:1
+issue:1
+mind:1
+crowd:1
+bother:1
+small:1
+people:1
+want:1
+find:1
+world:1

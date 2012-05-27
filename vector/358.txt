@@ -1,0 +1,6 @@
+loans:1
+responsible:1
+wishes:1
+debts:1
+property:2
+purchase:1

@@ -1,0 +1,13 @@
+pumped:1
+europe:1
+pollution:1
+volcanic:1
+epa:1
+recent:1
+volcano:1
+event:1
+pay:1
+western:1
+fine:1
+hasn:1
+demanded:1

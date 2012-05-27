@@ -1,0 +1,17 @@
+skulls:1
+muertos:1
+panmuert:1
+egg:4
+daydead:1
+globalgourmet:2
+pan:1
+de:1
+sweet:1
+names:1
+bread:1
+food:2
+html:2
+day:1
+dead:1
+make:1
+sugar:1

@@ -1,0 +1,6 @@
+attentions:1
+scots:1
+raided:1
+vikings:1
+doubt:1
+escaped:1

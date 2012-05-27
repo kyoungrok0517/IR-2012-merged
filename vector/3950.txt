@@ -1,0 +1,12 @@
+ordinance:1
+prohibiting:1
+illegal:1
+value:1
+trash:1
+curb:1
+good:1
+chance:1
+recyclables:2
+city:1
+abandoned:1
+considered:1

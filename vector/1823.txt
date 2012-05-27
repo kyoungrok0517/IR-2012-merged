@@ -1,0 +1,9 @@
+price:1
+weight:3
+shoot:1
+buy:2
+numbered:1
+good:1
+lenths:1
+ready:1
+differant:1

@@ -1,0 +1,3 @@
+bees:1
+spray:2
+bug:1

@@ -1,0 +1,13 @@
+don:1
+diet:1
+recommended:1
+fasting:3
+professional:1
+talking:1
+dietary:1
+disciplines:1
+spiritual:1
+times:1
+food:1
+benefits:1
+religious:3

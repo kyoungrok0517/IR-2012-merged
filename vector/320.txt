@@ -1,0 +1,10 @@
+stick:1
+anorexic:1
+diet:1
+term:1
+stupid:1
+exercise:1
+healthy:1
+unhealthy:1
+fasting:2
+long:1

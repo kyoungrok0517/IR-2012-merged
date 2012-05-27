@@ -1,0 +1,10 @@
+bands:1
+outer:1
+forming:1
+possibility:1
+atmosphere:1
+tornadoes:2
+temps:1
+depends:1
+hurricane:2
+occur:1

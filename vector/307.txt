@@ -1,0 +1,13 @@
+hallucinations:1
+body:1
+interpreted:1
+fasting:1
+deprives:1
+depression:1
+energize:1
+results:1
+remedy:1
+fuel:1
+strict:1
+energy:1
+visions:1

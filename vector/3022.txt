@@ -1,0 +1,8 @@
+dry:1
+butter:1
+scar:2
+scars:1
+arm:1
+big:2
+coco:1
+skin:1

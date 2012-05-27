@@ -1,0 +1,8 @@
+asked:1
+home:1
+glad:1
+moving:1
+search:1
+luck:1
+question:1
+nj:1

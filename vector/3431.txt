@@ -1,0 +1,10 @@
+carradine:2
+marilyn:2
+monroe:2
+wikipedia:3
+david:2
+en:3
+carmen:1
+wiki:3
+miranda:2
+carmem:1

@@ -1,0 +1,13 @@
+thrown:1
+heavy:1
+impacts:1
+helmet:1
+protect:1
+impact:1
+james:1
+designed:2
+football:1
+helmets:1
+motorcycle:1
+multiple:1
+reused:1

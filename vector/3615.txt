@@ -1,0 +1,12 @@
+orange:1
+real:1
+cook:1
+definatly:2
+beds:1
+bed:1
+tanning:2
+tint:1
+inside:1
+skin:1
+end:1
+tan:2

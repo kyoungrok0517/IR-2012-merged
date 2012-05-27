@@ -1,0 +1,12 @@
+treating:1
+lung:1
+friends:1
+skittles:1
+awesome:1
+couldn:1
+flu:1
+special:1
+trick:1
+pneumonia:1
+tons:1
+halloween:1

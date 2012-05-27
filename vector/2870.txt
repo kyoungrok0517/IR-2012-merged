@@ -1,0 +1,10 @@
+chicken:1
+twinkies:1
+don:1
+steaks:1
+pork:1
+word:1
+rinds:1
+eat:1
+fried:3
+key:1

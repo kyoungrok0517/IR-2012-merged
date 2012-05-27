@@ -1,0 +1,2 @@
+canada:1
+beautiful:1

@@ -1,0 +1,9 @@
+phone:1
+figure:1
+hydrofoils:1
+aeronautics:1
+kite:1
+photo:1
+er:1
+triangular:1
+microscope:1

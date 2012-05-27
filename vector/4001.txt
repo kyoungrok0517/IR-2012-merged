@@ -1,0 +1,17 @@
+wild:1
+born:1
+safe:1
+counterparts:1
+raised:1
+subject:1
+means:1
+creatures:1
+humans:1
+meaning:1
+considered:1
+tame:1
+domesticated:2
+compared:1
+basically:1
+generations:1
+safer:1

@@ -1,0 +1,8 @@
+kidnapped:1
+waste:1
+time:1
+police:1
+commit:1
+husband:1
+make:1
+suicide:1

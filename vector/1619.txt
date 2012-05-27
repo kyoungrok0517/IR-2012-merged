@@ -1,0 +1,7 @@
+cover:1
+nirvana:1
+chains:1
+alice:1
+wrong:1
+night:1
+sleep:1

@@ -1,0 +1,16 @@
+ball:1
+painted:1
+made:1
+white:1
+paint:1
+yellow:1
+cute:1
+tail:1
+mom:1
+skin:1
+hat:1
+blue:2
+showing:1
+costume:1
+smurfette:1
+yarn:1

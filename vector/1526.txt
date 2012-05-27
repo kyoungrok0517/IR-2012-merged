@@ -1,0 +1,3 @@
+invest:1
+templeton:1
+somthing:1

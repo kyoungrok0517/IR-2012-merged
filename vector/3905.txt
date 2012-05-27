@@ -1,0 +1,4 @@
+prescription:1
+buy:1
+estrogen:1
+otc:1

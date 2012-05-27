@@ -1,0 +1,6 @@
+songs:1
+recorded:1
+made:1
+wrote:1
+sold:1
+cd:1

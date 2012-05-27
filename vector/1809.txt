@@ -1,0 +1,13 @@
+traditional:1
+husband:1
+cue:1
+wants:1
+dealer:1
+billiards:1
+thanks:1
+style:1
+pool:2
+reputable:1
+brand:1
+box:1
+case:1

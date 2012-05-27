@@ -1,0 +1,6 @@
+necessarily:1
+call:1
+common:1
+wave:1
+bow:1
+aisatsu:1

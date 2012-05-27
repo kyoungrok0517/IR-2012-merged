@@ -1,0 +1,15 @@
+rarely:1
+wide:1
+type:1
+incandescent:1
+pretty:1
+fitting:1
+struggle:1
+generally:1
+will:1
+lamp:2
+regulation:1
+due:1
+rating:1
+find:1
+world:1

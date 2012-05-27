@@ -1,0 +1,5 @@
+vermin:1
+bred:1
+kill:1
+dachshunds:1
+chase:1

@@ -1,0 +1,9 @@
+cking:1
+bq:3
+metallica:1
+battery:1
+dimebag:1
+schitzo:1
+stage:1
+shot:1
+darrell:1

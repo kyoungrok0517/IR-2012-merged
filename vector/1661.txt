@@ -1,0 +1,16 @@
+lol:1
+music:1
+debatable:1
+person:1
+important:1
+art:1
+soundgarden:1
+bubble:1
+band:1
+gum:1
+popular:1
+lot:2
+overtly:1
+high:1
+stale:1
+commercialized:1

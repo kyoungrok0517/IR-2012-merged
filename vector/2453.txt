@@ -1,0 +1,10 @@
+statement:2
+bell:1
+speech:3
+graham:1
+opening:2
+write:2
+good:1
+alexander:1
+introducing:2
+introduction:1

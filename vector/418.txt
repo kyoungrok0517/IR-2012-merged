@@ -1,0 +1,7 @@
+god:1
+led:1
+perceive:2
+confidence:1
+lack:1
+long:1
+people:1

@@ -1,0 +1,16 @@
+buddy:1
+member:1
+remember:1
+holly:1
+blood:1
+hand:1
+pokemon:1
+band:1
+bq:3
+plane:1
+heard:1
+died:1
+names:1
+bfmv:1
+em:1
+crash:1

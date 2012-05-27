@@ -1,0 +1,16 @@
+hate:2
+single:1
+discontinue:1
+don:1
+enjoying:1
+subject:2
+maths:2
+study:1
+studies:2
+science:1
+manual:1
+labor:1
+history:1
+start:3
+age:1
+will:1

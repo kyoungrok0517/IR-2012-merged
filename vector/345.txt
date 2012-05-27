@@ -1,0 +1,16 @@
+satisfy:1
+asset:1
+debt:1
+subject:2
+liable:1
+means:1
+property:1
+attachment:1
+recourse:2
+personally:1
+personal:1
+secures:1
+foreclosure:1
+insufficiency:1
+pledge:1
+note:1

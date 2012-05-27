@@ -1,0 +1,7 @@
+help:1
+prescription:1
+illegal:1
+steroids:1
+period:1
+diseases:1
+people:1

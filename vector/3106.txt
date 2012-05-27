@@ -1,0 +1,5 @@
+weigh:1
+bmi:1
+pbs:1
+wondering:1
+im:2

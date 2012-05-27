@@ -1,0 +1,5 @@
+edmund:1
+hillary:1
+wikipedia:1
+en:1
+wiki:2

@@ -1,0 +1,9 @@
+vacation:1
+great:1
+hours:1
+bed:2
+tanning:2
+block:1
+mins:1
+wear:1
+sun:2

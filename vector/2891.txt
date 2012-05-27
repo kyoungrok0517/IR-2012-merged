@@ -1,0 +1,6 @@
+haw:1
+yee:1
+capital:1
+world:1
+pig:1
+feeder:1

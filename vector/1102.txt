@@ -1,0 +1,4 @@
+body:1
+rem:1
+hurts:1
+sounds:1

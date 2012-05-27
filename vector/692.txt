@@ -1,0 +1,10 @@
+mirror:1
+hand:1
+index:1
+stick:1
+forehead:1
+hold:1
+left:1
+finger:1
+thumb:1
+straight:2

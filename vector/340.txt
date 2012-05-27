@@ -1,0 +1,10 @@
+cleared:1
+deed:1
+title:2
+liens:1
+conveyed:1
+meaningless:1
+owner:1
+property:1
+claim:1
+quit:1

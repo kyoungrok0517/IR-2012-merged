@@ -1,0 +1,10 @@
+suggests:1
+information:1
+area:1
+fled:2
+vikings:1
+basically:1
+locals:1
+warriors:1
+fearless:1
+find:1

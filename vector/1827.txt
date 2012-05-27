@@ -1,0 +1,8 @@
+upgrade:1
+feel:1
+good:1
+game:1
+cue:1
+find:2
+nicer:1
+comfortable:1

@@ -1,0 +1,16 @@
+ten:1
+save:1
+trimmer:1
+kill:1
+fungus:1
+cutting:1
+type:1
+husband:1
+affected:1
+tree:3
+will:1
+trees:1
+left:1
+years:1
+catching:1
+branches:1

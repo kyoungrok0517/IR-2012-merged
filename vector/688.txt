@@ -1,0 +1,7 @@
+breed:1
+dogs:1
+mutts:1
+homeless:1
+world:1
+unwanted:1
+want:1

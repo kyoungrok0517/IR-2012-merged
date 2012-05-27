@@ -1,0 +1,6 @@
+don:1
+rid:1
+damage:1
+scar:1
+scars:1
+place:1

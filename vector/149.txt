@@ -1,0 +1,10 @@
+fact:1
+check:1
+gospel:1
+jesus:2
+return:1
+will:1
+mark:1
+bible:1
+nations:1
+reached:1

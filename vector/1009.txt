@@ -1,0 +1,13 @@
+wandering:1
+bring:1
+board:1
+roller:1
+ranks:1
+aboard:1
+explorer:1
+seas:1
+skates:1
+ice:1
+summer:1
+blade:1
+rent:1

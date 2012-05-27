@@ -1,0 +1,10 @@
+edmund:1
+climb:1
+sir:1
+person:1
+everest:1
+mount:1
+highest:1
+hillary:1
+earth:1
+place:1

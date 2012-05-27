@@ -1,0 +1,2 @@
+pregnant:1
+responsibility:1

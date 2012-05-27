@@ -1,0 +1,14 @@
+laugh:1
+issue:1
+charging:1
+receipt:1
+people:1
+jaywalking:1
+involved:1
+paid:1
+tree:2
+ticket:3
+will:1
+pay:1
+assaulting:1
+copy:1

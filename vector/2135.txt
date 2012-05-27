@@ -1,0 +1,11 @@
+signs:1
+symptoms:1
+patches:1
+visible:1
+sudden:1
+description:1
+damage:1
+clumps:1
+falling:2
+hair:1
+scalp:1

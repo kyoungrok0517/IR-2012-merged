@@ -1,0 +1,9 @@
+calculation:1
+dumb:1
+thanks:1
+bmi:1
+means:1
+questions:1
+read:1
+bunch:1
+question:1

@@ -1,0 +1,16 @@
+need:1
+ball:2
+signed:1
+back:2
+kill:1
+stepfather:1
+business:1
+babe:1
+ruth:1
+fence:1
+help:1
+hit:1
+trip:1
+killer:1
+dog:1
+week:1

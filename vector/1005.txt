@@ -1,0 +1,8 @@
+site:1
+check:1
+cruises:1
+good:1
+travel:1
+cruise:1
+deals:1
+liners:1

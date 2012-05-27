@@ -1,0 +1,5 @@
+hearing:1
+impaired:1
+helping:1
+recall:1
+interested:1

@@ -1,0 +1,15 @@
+immune:1
+kill:1
+back:1
+minimize:1
+didnt:1
+bit:1
+help:2
+purell:1
+survive:1
+strong:1
+deaths:1
+bacteria:1
+weak:1
+assume:1
+lets:1

@@ -1,0 +1,8 @@
+paid:1
+matter:1
+interest:2
+determined:1
+pay:1
+earn:1
+investment:1
+taxes:1

@@ -1,0 +1,8 @@
+prime:3
+thanks:1
+number:3
+factor:3
+want:1
+find:3
+largest:3
+quickest:1

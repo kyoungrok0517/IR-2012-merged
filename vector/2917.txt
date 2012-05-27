@@ -1,0 +1,13 @@
+europe:1
+hate:1
+don:1
+america:2
+matter:1
+good:1
+bad:2
+people:1
+immigrate:2
+opinion:1
+complain:2
+things:2
+live:1

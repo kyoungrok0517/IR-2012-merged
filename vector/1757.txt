@@ -1,0 +1,15 @@
+lost:1
+loss:2
+regular:1
+knw:1
+ur:1
+surgery:1
+transplant:1
+cuz:1
+tht:1
+side:1
+braids:1
+ears:1
+hair:4
+natural:1
+top:1

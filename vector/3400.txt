@@ -1,0 +1,7 @@
+buddy:1
+sue:1
+peggy:1
+holly:1
+woman:1
+knew:1
+didn:1

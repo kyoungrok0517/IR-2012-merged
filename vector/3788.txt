@@ -1,0 +1,17 @@
+versa:1
+ll:1
+pressure:2
+tells:1
+drop:1
+everyday:1
+means:1
+freezing:1
+storm:1
+detector:1
+thermometer:1
+snow:1
+approaching:1
+temp:1
+visa:1
+barometer:1
+rain:2

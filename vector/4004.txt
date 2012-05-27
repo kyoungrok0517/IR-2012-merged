@@ -1,0 +1,12 @@
+domesticated:2
+adapted:1
+household:1
+pet:1
+generally:1
+meat:1
+converted:1
+mean:1
+loved:1
+house:1
+dog:1
+domestic:2

@@ -1,0 +1,5 @@
+testament:1
+charcetres:1
+legends:1
+myths:1
+half:1

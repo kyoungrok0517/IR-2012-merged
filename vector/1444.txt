@@ -1,0 +1,14 @@
+wearing:1
+retired:1
+saved:1
+son:1
+suggest:1
+helmet:2
+dealer:1
+life:1
+touch:1
+moto:1
+racer:1
+question:1
+opposed:1
+cheap:1

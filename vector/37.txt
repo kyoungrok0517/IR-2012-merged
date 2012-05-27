@@ -1,0 +1,9 @@
+short:1
+cats:2
+thy:1
+balls:2
+bengals:1
+hines:1
+fur:2
+hair:1
+siamese:1

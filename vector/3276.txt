@@ -1,0 +1,15 @@
+programs:1
+hypnosis:2
+post:1
+grad:1
+ba:1
+california:1
+mexico:1
+community:1
+good:1
+bs:1
+level:1
+degree:1
+colleges:1
+heard:2
+program:1

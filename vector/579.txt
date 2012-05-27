@@ -1,0 +1,16 @@
+information:1
+makes:1
+male:1
+prey:1
+wolfs:1
+turns:1
+hormones:1
+rising:2
+wolf:1
+female:1
+genetic:1
+litter:1
+active:1
+produce:1
+deer:1
+population:2

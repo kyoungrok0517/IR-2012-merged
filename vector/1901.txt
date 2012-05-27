@@ -1,0 +1,7 @@
+prime:1
+factored:1
+correct:1
+split:1
+primes:1
+composite:1
+composites:1

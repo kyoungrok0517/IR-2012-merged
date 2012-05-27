@@ -1,0 +1,16 @@
+reminder:1
+wounds:1
+hearts:1
+put:1
+forgive:1
+back:1
+scars:1
+broken:1
+time:2
+personal:1
+remain:1
+care:1
+will:1
+experience:1
+forget:1
+healed:1

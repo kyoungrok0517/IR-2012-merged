@@ -1,0 +1,4 @@
+crap:1
+smell:1
+work:1
+dont:1

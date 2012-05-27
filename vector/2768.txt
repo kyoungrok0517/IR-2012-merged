@@ -1,0 +1,8 @@
+progress:1
+hygiene:1
+improved:1
+answers:1
+cleaned:1
+streets:1
+addition:1
+science:1

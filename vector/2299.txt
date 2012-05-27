@@ -1,0 +1,9 @@
+stroke:1
+oral:1
+osteoporosis:1
+atherosclerosis:1
+disease:1
+dental:1
+major:1
+cancer:1
+hypertention:1

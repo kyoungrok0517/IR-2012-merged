@@ -1,0 +1,8 @@
+real:1
+information:1
+hotsx:1
+lot:1
+net:1
+info:1
+estate:1
+found:1

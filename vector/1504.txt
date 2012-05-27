@@ -1,0 +1,6 @@
+figure:1
+left:1
+bonds:1
+savings:1
+worth:1
+grandma:1

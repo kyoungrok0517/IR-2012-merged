@@ -1,0 +1,9 @@
+lied:1
+cannibal:2
+bq:3
+burton:1
+cliff:1
+demise:1
+elfen:1
+holocaust:2
+tragic:1

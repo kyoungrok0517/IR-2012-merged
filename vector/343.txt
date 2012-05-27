@@ -1,0 +1,15 @@
+sue:1
+selling:1
+attaching:1
+naturally:1
+property:1
+loan:1
+investment:1
+include:1
+loses:1
+remainder:1
+assets:1
+money:1
+foreclosure:1
+pay:1
+bank:1

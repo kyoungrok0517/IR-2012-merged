@@ -1,0 +1,6 @@
+remember:1
+time:2
+stuff:1
+location:1
+write:1
+moses:2

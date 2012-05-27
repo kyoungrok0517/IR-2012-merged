@@ -1,0 +1,5 @@
+time:1
+free:1
+woman:1
+slaves:1
+man:1

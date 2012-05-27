@@ -1,0 +1,16 @@
+smell:1
+scratch:2
+face:1
+cat:1
+friendly:1
+cheeks:1
+scent:1
+wont:1
+rub:1
+skeptical:1
+mimicking:1
+proceed:1
+read:1
+box:1
+day:1
+pheromone:1

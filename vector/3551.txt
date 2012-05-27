@@ -1,0 +1,10 @@
+product:1
+spores:1
+resistant:1
+sick:1
+wouldn:1
+botulism:2
+make:1
+baked:1
+heat:1
+honey:1

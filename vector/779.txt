@@ -1,0 +1,9 @@
+squared:1
+plug:1
+knowns:1
+equations:1
+unknown:1
+va:1
+rearrange:1
+pi:3
+ohm:1

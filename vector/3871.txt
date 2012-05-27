@@ -1,0 +1,2 @@
+radiation:1
+blind:1

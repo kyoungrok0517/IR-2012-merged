@@ -1,0 +1,13 @@
+body:2
+intellect:1
+complex:1
+divine:1
+experiences:1
+hold:1
+bottled:1
+purifies:1
+material:1
+subtle:1
+toxic:1
+mind:2
+eliminating:1

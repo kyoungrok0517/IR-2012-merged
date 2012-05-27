@@ -1,0 +1,17 @@
+moon:1
+technology:1
+pull:1
+disasters:1
+scientist:1
+studying:1
+modern:1
+shed:1
+predict:2
+age:1
+day:1
+light:1
+earthquakes:1
+discovery:1
+channel:1
+natural:1
+gravitational:1

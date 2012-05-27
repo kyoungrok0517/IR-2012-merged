@@ -1,0 +1,4 @@
+crap:1
+blockage:1
+ditto:1
+botulism:1

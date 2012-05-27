@@ -1,0 +1,13 @@
+home:1
+animals:2
+dogs:1
+bred:1
+means:1
+people:1
+farm:1
+domesticated:3
+mankind:1
+pets:1
+will:1
+trained:2
+live:1

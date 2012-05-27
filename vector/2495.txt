@@ -1,0 +1,7 @@
+punch:1
+put:1
+green:1
+freeze:2
+juice:1
+latex:1
+glove:1

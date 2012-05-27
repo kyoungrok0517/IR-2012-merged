@@ -1,0 +1,10 @@
+safe:1
+heart:1
+dont:1
+side:1
+smoking:1
+sunshine:1
+attack:1
+didnt:1
+fine:1
+thing:1

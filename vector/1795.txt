@@ -1,0 +1,9 @@
+vikings:1
+range:2
+cues:1
+players:1
+jacoby:1
+dollar:1
+suggest:1
+lucasi:1
+predators:1

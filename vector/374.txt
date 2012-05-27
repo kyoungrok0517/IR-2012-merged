@@ -1,0 +1,10 @@
+time:1
+reator:1
+sell:1
+will:1
+inclination:1
+directly:2
+broker:1
+contact:1
+educate:1
+banks:1

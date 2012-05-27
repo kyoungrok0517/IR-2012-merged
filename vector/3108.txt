@@ -1,0 +1,2 @@
+bmi:1
+healthy:1

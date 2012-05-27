@@ -1,0 +1,4 @@
+dress:1
+baby:1
+bottle:1
+rattle:1

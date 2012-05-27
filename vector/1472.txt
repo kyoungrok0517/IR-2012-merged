@@ -1,0 +1,6 @@
+idea:1
+latvian:1
+singing:1
+wave:1
+show:2
+stole:1

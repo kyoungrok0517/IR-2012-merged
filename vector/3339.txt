@@ -1,0 +1,6 @@
+dont:1
+guess:1
+morning:1
+wear:1
+worry:1
+people:1

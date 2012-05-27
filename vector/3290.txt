@@ -1,0 +1,4 @@
+hypnosis:1
+hypnotherapist:1
+organised:1
+solution:1

@@ -1,0 +1,10 @@
+jobs:1
+bacteria:1
+wealth:1
+eating:1
+keeping:1
+capitalists:1
+run:1
+taking:1
+world:2
+main:1

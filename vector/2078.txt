@@ -1,0 +1,7 @@
+point:1
+apply:1
+worn:1
+simply:1
+recall:1
+age:1
+wouldn:1

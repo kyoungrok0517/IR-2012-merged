@@ -1,0 +1,15 @@
+born:1
+collecting:1
+raise:1
+retire:1
+security:1
+start:1
+social:1
+age:1
+laws:1
+will:1
+july:1
+want:1
+retiring:1
+hope:1
+fear:1

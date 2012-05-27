@@ -1,0 +1,7 @@
+cigar:1
+tahiti:1
+paul:1
+died:1
+gauguin:1
+close:1
+syphillis:1

@@ -1,0 +1,11 @@
+affected:1
+body:1
+takes:1
+entire:2
+affects:1
+specific:1
+parkinson:1
+place:1
+disease:1
+part:1
+brain:1

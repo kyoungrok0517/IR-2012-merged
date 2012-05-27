@@ -1,0 +1,5 @@
+god:1
+killed:1
+moses:1
+case:1
+firstborn:1

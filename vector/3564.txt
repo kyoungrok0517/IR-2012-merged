@@ -1,0 +1,6 @@
+safe:1
+beds:1
+sunless:1
+tanning:2
+pale:1
+skin:1

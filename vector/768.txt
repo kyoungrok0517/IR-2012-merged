@@ -1,0 +1,6 @@
+element:1
+stuff:1
+glass:1
+hot:1
+brown:1
+cuts:1

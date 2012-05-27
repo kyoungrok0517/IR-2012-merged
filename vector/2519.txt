@@ -1,0 +1,6 @@
+love:1
+girls:1
+costumes:1
+adam:1
+eve:2
+wearing:1

@@ -1,0 +1,8 @@
+brad:1
+life:1
+tht:1
+needs:1
+totally:1
+haircut:1
+im:1
+move:1

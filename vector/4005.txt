@@ -1,0 +1,14 @@
+plant:1
+association:1
+consumption:1
+means:1
+adapt:1
+humans:1
+human:1
+domesticated:2
+camel:1
+life:1
+advantage:2
+intimate:1
+meat:1
+animal:1

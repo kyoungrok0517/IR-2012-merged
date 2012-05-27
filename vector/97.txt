@@ -1,0 +1,14 @@
+horrific:1
+gift:1
+grandfather:1
+fatal:1
+back:1
+meds:1
+manage:1
+enjoy:1
+disease:1
+cure:1
+father:1
+deal:1
+die:1
+will:1

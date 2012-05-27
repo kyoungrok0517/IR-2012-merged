@@ -1,0 +1,5 @@
+wind:1
+parakeet:1
+killed:1
+turbine:1
+sympathy:1

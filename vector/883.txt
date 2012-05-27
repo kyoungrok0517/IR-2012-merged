@@ -1,0 +1,3 @@
+dont:1
+eat:2
+vultures:1

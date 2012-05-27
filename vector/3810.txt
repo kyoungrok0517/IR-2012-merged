@@ -1,0 +1,12 @@
+cod:1
+location:1
+cape:1
+treasure:1
+national:1
+plenty:1
+good:1
+opposed:1
+ol:1
+places:1
+build:1
+ted:1

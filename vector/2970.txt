@@ -1,0 +1,4 @@
+belief:1
+nope:1
+faith:1
+proof:1

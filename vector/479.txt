@@ -1,0 +1,2 @@
+ikea:1
+dekko:1

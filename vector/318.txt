@@ -1,0 +1,15 @@
+body:1
+toxins:1
+fasting:1
+bad:1
+helps:1
+health:1
+urine:1
+system:1
+expelled:1
+remain:1
+excreta:1
+day:1
+rest:1
+giving:1
+sweat:1

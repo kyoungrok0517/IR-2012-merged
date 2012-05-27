@@ -1,0 +1,3 @@
+satellite:1
+radar:1
+imaging:1

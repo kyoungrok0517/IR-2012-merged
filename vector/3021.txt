@@ -1,0 +1,2 @@
+permanent:1
+scars:1

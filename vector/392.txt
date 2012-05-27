@@ -1,0 +1,7 @@
+history:1
+resources:1
+biblegateway:1
+study:1
+bible:3
+ntgateway:1
+want:1

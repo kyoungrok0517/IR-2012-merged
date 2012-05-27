@@ -1,0 +1,8 @@
+apply:1
+everyday:1
+jergens:1
+glow:1
+natural:1
+sunkissed:1
+want:1
+works:1

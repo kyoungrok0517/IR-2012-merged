@@ -1,0 +1,15 @@
+aren:1
+environments:1
+helped:1
+disease:2
+people:2
+necessarily:1
+contracted:1
+flea:1
+clean:3
+easy:1
+hide:1
+fleas:1
+bite:1
+will:1
+rats:1

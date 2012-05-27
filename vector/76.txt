@@ -1,0 +1,7 @@
+crap:1
+hunger:1
+water:2
+loads:1
+help:1
+relieves:1
+temporarily:1

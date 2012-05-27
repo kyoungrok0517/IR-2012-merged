@@ -1,0 +1,9 @@
+domesticated:1
+fit:1
+cat:1
+life:1
+simply:1
+means:1
+dog:1
+human:1
+tamed:1

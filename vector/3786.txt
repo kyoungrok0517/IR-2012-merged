@@ -1,0 +1,10 @@
+humidity:1
+graph:1
+indoor:1
+pressure:1
+barometric:1
+outdoor:1
+rh:1
+historical:1
+barometer:1
+temperature:1

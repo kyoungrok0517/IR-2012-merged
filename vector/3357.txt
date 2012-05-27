@@ -1,0 +1,12 @@
+personal:1
+life:1
+hendrix:1
+created:1
+art:1
+pop:1
+mind:1
+mess:1
+artist:1
+hard:1
+respect:2
+wonderful:1

@@ -1,0 +1,4 @@
+words:1
+heard:1
+ship:1
+abandon:1

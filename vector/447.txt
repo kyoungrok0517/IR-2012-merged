@@ -1,0 +1,16 @@
+work:1
+home:1
+portable:1
+dollars:1
+good:2
+fold:1
+investment:1
+backyards:1
+youd:1
+slight:1
+life:1
+easy:1
+parks:1
+outings:1
+playpen:1
+large:1

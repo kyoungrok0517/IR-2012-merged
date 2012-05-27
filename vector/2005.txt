@@ -1,0 +1,3 @@
+euro:1
+lame:1
+junk:1

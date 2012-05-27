@@ -1,0 +1,17 @@
+install:1
+information:1
+tranfers:1
+solar:1
+cost:1
+heat:2
+swimming:1
+costs:1
+takes:1
+bucks:2
+pool:3
+operate:1
+month:1
+pumps:1
+heater:1
+html:1
+attic:2

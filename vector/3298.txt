@@ -1,0 +1,9 @@
+uniforms:2
+logical:1
+freedom:1
+likes:1
+will:1
+adults:1
+college:1
+choose:1
+people:1

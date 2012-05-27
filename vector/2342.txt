@@ -1,0 +1,12 @@
+conditions:1
+super:1
+thunderstorms:1
+mechnics:1
+cells:1
+spawn:1
+form:1
+exact:1
+called:1
+tornadoes:2
+mezocyclones:1
+large:1

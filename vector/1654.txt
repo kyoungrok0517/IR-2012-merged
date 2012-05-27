@@ -1,0 +1,12 @@
+buddhists:1
+flinch:1
+enlightened:1
+post:1
+gtfo:1
+suffer:1
+claimed:2
+wait:1
+light:1
+tits:1
+fire:1
+buddha:1

@@ -1,0 +1,4 @@
+car:1
+wind:1
+turbine:1
+run:1

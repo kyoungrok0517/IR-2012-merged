@@ -1,0 +1,4 @@
+funds:1
+study:3
+requires:1
+quest:2

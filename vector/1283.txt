@@ -1,0 +1,9 @@
+decent:4
+alarm:1
+price:1
+clock:1
+buy:1
+radio:1
+gps:1
+box:1
+cereal:1

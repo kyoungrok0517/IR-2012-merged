@@ -1,0 +1,14 @@
+body:1
+don:1
+loss:1
+painful:1
+recovery:1
+transplant:1
+life:1
+full:1
+will:1
+spent:1
+hair:4
+fine:1
+make:1
+natural:1

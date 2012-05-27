@@ -1,0 +1,14 @@
+named:2
+spanish:1
+wouldv:1
+means:1
+bubbles:2
+daisy:1
+pepper:1
+chase:1
+personality:1
+shepherd:1
+girl:1
+baby:1
+chica:1
+loves:1

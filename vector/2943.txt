@@ -1,0 +1,11 @@
+winter:1
+great:1
+pacific:1
+south:1
+summer:1
+grid:1
+circle:1
+arctic:1
+choose:1
+live:1
+island:2

@@ -1,0 +1,5 @@
+thank:1
+stop:1
+curious:1
+formed:1
+tornadoes:1

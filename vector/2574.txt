@@ -1,0 +1,9 @@
+life:1
+safety:1
+titanic:1
+rowing:1
+rich:1
+boats:1
+empty:1
+half:1
+people:1

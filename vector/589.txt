@@ -1,0 +1,15 @@
+car:1
+hitting:2
+choice:1
+ditch:1
+becuae:1
+half:1
+fence:1
+tree:1
+prayers:1
+cut:1
+depends:1
+situation:1
+make:1
+wall:1
+deer:2

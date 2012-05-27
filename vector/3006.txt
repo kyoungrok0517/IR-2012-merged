@@ -1,0 +1,16 @@
+work:1
+decide:1
+appearance:1
+reducing:1
+luck:1
+counter:1
+scar:2
+good:1
+lessen:1
+suggest:1
+creams:1
+dermatologist:1
+names:1
+pharmacist:1
+consult:1
+thing:1

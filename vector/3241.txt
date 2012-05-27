@@ -1,0 +1,11 @@
+smell:1
+don:2
+buy:3
+smells:1
+simple:1
+perfume:1
+pheromones:1
+lady:1
+good:1
+perfumes:1
+wouldn:1

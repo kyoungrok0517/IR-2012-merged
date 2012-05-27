@@ -1,0 +1,11 @@
+phd:1
+doctorate:1
+check:1
+ve:1
+prices:1
+apartment:1
+craigslist:1
+newport:2
+beach:1
+place:1
+afford:1

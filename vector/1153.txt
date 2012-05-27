@@ -1,0 +1,2 @@
+smalls:1
+killing:1

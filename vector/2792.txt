@@ -1,0 +1,4 @@
+plague:1
+stop:1
+century:2
+finished:1

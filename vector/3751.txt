@@ -1,0 +1,15 @@
+causing:1
+problems:1
+heart:1
+makes:1
+fat:1
+blood:2
+veins:1
+flows:1
+pass:1
+clogs:1
+smoothy:1
+eat:1
+stuck:1
+harder:1
+arteries:1

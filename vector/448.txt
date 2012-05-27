@@ -1,0 +1,14 @@
+snug:1
+luck:1
+daughter:1
+sleeps:1
+problem:1
+cot:1
+good:1
+long:1
+weeks:1
+bit:1
+fit:1
+moved:1
+basket:1
+moses:1

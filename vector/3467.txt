@@ -1,0 +1,6 @@
+amounts:1
+bacteria:1
+salmonella:1
+small:1
+carry:1
+honey:1

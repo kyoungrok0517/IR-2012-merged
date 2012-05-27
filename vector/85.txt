@@ -1,0 +1,10 @@
+difference:1
+hunger:1
+body:2
+evident:1
+needs:1
+mind:2
+listen:1
+pang:1
+wants:1
+craving:1

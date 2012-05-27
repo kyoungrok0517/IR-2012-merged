@@ -1,0 +1,17 @@
+building:2
+google:2
+nova:2
+oq:1
+quick:1
+navclient:1
+scotia:2
+code:1
+aq:1
+utf:1
+info:1
+rlz:1
+cod:1
+search:2
+sourceid:1
+tshb:1
+en:1

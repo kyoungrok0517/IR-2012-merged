@@ -1,0 +1,12 @@
+fixture:1
+hey:1
+repalce:1
+fluorescent:1
+buy:1
+fish:1
+bulb:2
+aquarium:1
+bulbs:1
+house:1
+incandescent:3
+light:2

@@ -1,0 +1,7 @@
+president:1
+racist:1
+america:1
+fat:1
+idiot:1
+wmds:1
+war:1

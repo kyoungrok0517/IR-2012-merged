@@ -1,0 +1,7 @@
+met:1
+evr:1
+bites:1
+vicious:1
+weiner:1
+mean:1
+dog:1

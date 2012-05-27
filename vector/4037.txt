@@ -1,0 +1,5 @@
+warms:1
+shines:1
+lake:2
+swimming:1
+sun:1

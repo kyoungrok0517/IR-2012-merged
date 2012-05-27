@@ -1,0 +1,11 @@
+abortions:1
+water:1
+control:1
+authored:1
+guy:1
+drinking:1
+favored:1
+book:1
+sterilants:1
+compulsory:1
+population:1

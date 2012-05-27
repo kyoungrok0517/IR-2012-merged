@@ -1,0 +1,11 @@
+check:1
+hoax:1
+page:1
+interstellar:1
+goat:2
+caprinous:1
+possibility:1
+study:1
+ruminants:1
+space:2
+giant:2

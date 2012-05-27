@@ -1,0 +1,17 @@
+index:1
+god:2
+heaven:1
+harris:1
+hell:1
+jlu:1
+pid:1
+holy:1
+number:1
+fact:3
+poll:1
+created:1
+book:1
+asp:1
+bible:1
+choose:1
+harrisinteractive:1

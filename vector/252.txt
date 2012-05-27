@@ -1,0 +1,7 @@
+car:1
+standard:1
+seat:1
+regular:2
+called:1
+back:1
+want:1

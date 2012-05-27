@@ -1,0 +1,14 @@
+player:1
+retired:1
+gesture:1
+retire:1
+nice:1
+jeter:1
+show:1
+team:2
+organization:1
+rod:1
+numbers:2
+players:1
+rivera:1
+respect:1

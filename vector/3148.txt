@@ -1,0 +1,6 @@
+curious:1
+yeah:1
+bmi:1
+maximum:1
+period:1
+im:1

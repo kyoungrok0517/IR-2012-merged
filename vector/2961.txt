@@ -1,0 +1,13 @@
+typically:1
+precisely:1
+articles:1
+don:1
+news:2
+watch:1
+reuters:1
+research:1
+online:1
+ap:1
+wikipedia:1
+read:1
+follow:1

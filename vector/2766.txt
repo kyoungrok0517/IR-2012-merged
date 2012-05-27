@@ -1,0 +1,12 @@
+plague:1
+europe:1
+killed:1
+ran:1
+naturally:1
+burnt:1
+death:1
+half:1
+medieval:1
+eventually:1
+black:2
+population:1

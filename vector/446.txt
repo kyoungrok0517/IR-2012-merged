@@ -1,0 +1,15 @@
+born:1
+don:1
+buy:1
+son:1
+napping:1
+oz:1
+weeks:1
+sart:1
+sling:1
+love:1
+fit:1
+will:2
+mummy:1
+lb:1
+big:1

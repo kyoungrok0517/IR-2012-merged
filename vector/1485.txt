@@ -1,0 +1,3 @@
+salute:1
+give:1
+finger:1

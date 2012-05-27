@@ -1,0 +1,14 @@
+skulls:1
+november:1
+pan:1
+de:1
+yeah:1
+food:1
+bread:1
+called:1
+day:1
+october:1
+dead:1
+muerto:1
+want:1
+sugar:1

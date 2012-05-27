@@ -1,0 +1,13 @@
+wrath:1
+today:1
+lord:1
+tribulation:2
+will:2
+year:1
+bible:1
+started:1
+day:2
+happen:1
+end:1
+world:1
+note:1

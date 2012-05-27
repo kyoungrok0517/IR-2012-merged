@@ -1,0 +1,10 @@
+vaccines:2
+annual:1
+recently:1
+good:1
+show:1
+years:2
+studies:1
+vet:1
+vaccinations:2
+universities:1

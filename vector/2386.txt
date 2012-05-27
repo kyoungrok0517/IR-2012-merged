@@ -1,0 +1,15 @@
+damaged:1
+nervous:1
+absolutely:1
+atherton:2
+severely:1
+love:1
+friends:1
+tremors:1
+felt:1
+severe:1
+lived:1
+years:1
+earthquakes:2
+thing:1
+occur:1

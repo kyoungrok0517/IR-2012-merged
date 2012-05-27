@@ -1,0 +1,2 @@
+tedious:1
+accent:1

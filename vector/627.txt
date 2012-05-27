@@ -1,0 +1,11 @@
+plots:1
+search:1
+seed:1
+food:1
+will:1
+mixes:1
+lot:1
+attract:2
+lick:1
+salt:1
+deer:2

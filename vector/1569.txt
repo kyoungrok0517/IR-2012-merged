@@ -1,0 +1,15 @@
+visas:1
+change:1
+peco:1
+friendly:1
+visit:1
+places:1
+froeigners:1
+recommend:1
+fits:1
+baht:1
+times:1
+lot:1
+years:2
+fine:1
+philippines:1

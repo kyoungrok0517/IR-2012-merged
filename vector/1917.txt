@@ -1,0 +1,4 @@
+blonde:1
+red:1
+hair:1
+thing:1

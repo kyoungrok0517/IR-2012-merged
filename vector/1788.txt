@@ -1,0 +1,14 @@
+stick:1
+weight:1
+luck:1
+buttwipe:1
+answer:1
+good:1
+businesses:1
+search:1
+pool:1
+ignorant:1
+left:1
+internet:1
+make:1
+individuals:1

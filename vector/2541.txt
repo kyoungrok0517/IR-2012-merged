@@ -1,0 +1,8 @@
+princess:1
+nurse:1
+witch:1
+luck:1
+fairy:1
+cowgirl:1
+good:2
+bad:1

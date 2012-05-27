@@ -1,0 +1,16 @@
+work:1
+stop:1
+hypnosis:1
+drugs:1
+bad:1
+run:1
+habits:1
+gambling:1
+binge:1
+help:1
+wont:1
+smoking:1
+money:1
+eating:1
+advice:1
+find:1

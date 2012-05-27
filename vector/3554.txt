@@ -1,0 +1,8 @@
+bandages:1
+friends:1
+guessed:1
+hands:2
+uv:1
+light:1
+cancer:1
+skin:1

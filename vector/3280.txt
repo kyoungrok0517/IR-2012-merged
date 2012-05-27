@@ -1,0 +1,13 @@
+chrystal:1
+stay:1
+silver:1
+yellow:1
+acc:1
+red:1
+blue:1
+platinum:1
+diamond:1
+will:1
+gold:1
+things:1
+top:1

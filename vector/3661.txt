@@ -1,0 +1,3 @@
+dealing:1
+world:1
+idiots:1

@@ -1,0 +1,11 @@
+cigarettes:1
+thanks:1
+curious:1
+smoking:1
+will:1
+lot:1
+list:1
+smoked:1
+diseases:1
+caused:1
+cancers:1

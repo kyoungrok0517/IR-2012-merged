@@ -1,0 +1,16 @@
+cool:1
+warm:1
+don:1
+watt:1
+white:1
+lumens:1
+harshness:1
+difference:1
+color:1
+cfl:1
+bulb:2
+will:1
+temp:1
+make:1
+brighter:1
+daylight:2

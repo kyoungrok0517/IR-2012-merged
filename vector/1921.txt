@@ -1,0 +1,9 @@
+shores:1
+scotland:1
+isles:1
+vikings:1
+british:1
+arrived:1
+lived:1
+long:1
+people:1

@@ -1,0 +1,13 @@
+sites:1
+files:1
+effects:1
+wav:1
+voiced:1
+japanese:1
+format:1
+net:1
+free:1
+sound:2
+greetings:2
+english:1
+review:1

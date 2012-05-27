@@ -1,0 +1,8 @@
+missy:1
+wesley:1
+kelsey:1
+male:1
+daisy:1
+chihuahua:1
+diva:1
+black:1

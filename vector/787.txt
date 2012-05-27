@@ -1,0 +1,12 @@
+direct:2
+washington:1
+order:1
+buy:1
+germany:1
+nutcrackers:1
+thin:1
+won:1
+cheaper:1
+cheap:1
+leavenworth:1
+internet:1

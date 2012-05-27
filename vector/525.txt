@@ -1,0 +1,4 @@
+nutrients:2
+vitamins:1
+ere:1
+minerals:1

@@ -1,0 +1,15 @@
+stop:1
+books:1
+dunces:1
+selling:1
+dogs:1
+toole:1
+confederacy:1
+funniest:1
+john:1
+laughing:1
+ignatius:1
+couldn:1
+written:1
+hot:1
+kennedy:1

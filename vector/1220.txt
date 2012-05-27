@@ -1,0 +1,11 @@
+car:1
+love:1
+skoda:1
+buy:1
+rs:1
+octavia:1
+bad:1
+soo:1
+iii:1
+combi:1
+want:1

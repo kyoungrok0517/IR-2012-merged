@@ -1,0 +1,2 @@
+angel:1
+star:1

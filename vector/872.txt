@@ -1,0 +1,8 @@
+information:1
+cuisine:1
+mexico:1
+luck:1
+wikipedia:1
+good:1
+en:1
+wiki:1

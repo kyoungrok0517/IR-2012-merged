@@ -1,0 +1,5 @@
+released:1
+pheromones:1
+carry:1
+kind:1
+scent:1

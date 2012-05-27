@@ -1,0 +1,15 @@
+body:2
+plans:1
+stop:1
+trend:1
+expect:1
+gm:1
+trucks:2
+great:1
+confirmed:1
+style:2
+suv:1
+buying:1
+current:1
+years:1
+make:1

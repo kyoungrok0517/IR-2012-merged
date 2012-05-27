@@ -1,0 +1,17 @@
+powers:1
+satisfy:1
+likewise:1
+common:1
+highest:1
+means:1
+greatest:1
+equal:1
+factor:3
+smaller:1
+taking:2
+prime:2
+factors:1
+power:2
+lines:1
+gcf:1
+want:1

@@ -1,0 +1,15 @@
+hairballs:1
+breeds:1
+pelt:2
+long:1
+haired:1
+skin:1
+refer:1
+covers:1
+wikipedia:1
+fur:3
+happen:1
+hair:1
+wool:1
+pelage:1
+animal:1

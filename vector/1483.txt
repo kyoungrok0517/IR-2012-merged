@@ -1,0 +1,10 @@
+waste:1
+million:1
+visible:1
+fleeing:1
+earthquake:1
+will:2
+improvements:1
+repair:1
+haiti:1
+country:2

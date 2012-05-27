@@ -1,0 +1,3 @@
+plastic:1
+innocent:1
+pretty:1

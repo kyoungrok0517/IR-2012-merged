@@ -1,0 +1,13 @@
+ugh:1
+weight:1
+don:2
+sucks:1
+fat:1
+gaining:1
+eating:1
+twig:1
+wrong:1
+things:1
+hungry:1
+worry:1
+want:2

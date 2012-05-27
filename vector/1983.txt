@@ -1,0 +1,11 @@
+point:1
+parliament:1
+home:1
+scotland:1
+university:1
+sat:1
+john:1
+scottish:1
+golf:1
+knox:1
+oldest:1

@@ -1,0 +1,6 @@
+start:1
+wit:1
+good:3
+walmart:1
+honestly:1
+general:1

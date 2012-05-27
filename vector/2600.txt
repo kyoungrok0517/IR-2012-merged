@@ -1,0 +1,6 @@
+don:1
+guy:1
+children:1
+abandon:1
+women:1
+leaving:1

@@ -1,0 +1,6 @@
+spelling:1
+learn:1
+spacing:1
+day:1
+studying:1
+punctuation:1

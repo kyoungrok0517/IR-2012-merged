@@ -1,0 +1,4 @@
+detail:1
+parkinson:1
+answer:1
+disease:1

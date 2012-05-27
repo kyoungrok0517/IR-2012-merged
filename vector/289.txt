@@ -1,0 +1,15 @@
+body:1
+god:2
+ll:2
+give:1
+honor:1
+faithful:1
+ur:4
+show:1
+fasting:1
+cleansing:1
+wants:1
+sacrificing:1
+food:1
+mind:1
+follow:1

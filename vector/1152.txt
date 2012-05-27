@@ -1,0 +1,8 @@
+methods:1
+beast:1
+failures:1
+ring:1
+doorbell:1
+proven:1
+simply:1
+pickle:1

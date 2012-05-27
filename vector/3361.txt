@@ -1,0 +1,16 @@
+acdc:1
+jimmy:1
+hendrix:1
+weed:1
+singer:1
+jimi:1
+janis:1
+life:1
+coke:1
+alcohol:1
+name:1
+morrison:1
+joplin:1
+weather:1
+high:1
+drug:1

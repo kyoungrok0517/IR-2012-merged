@@ -1,0 +1,5 @@
+information:1
+check:1
+details:1
+tanning:2
+blogspot:1

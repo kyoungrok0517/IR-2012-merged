@@ -1,0 +1,14 @@
+mexican:1
+appreaciation:1
+religeous:1
+aware:1
+traditional:1
+people:1
+recipies:1
+familiar:1
+help:1
+side:1
+food:2
+day:1
+dead:1
+culture:1

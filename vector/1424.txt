@@ -1,0 +1,16 @@
+lower:1
+speed:1
+approval:1
+impacts:1
+helmet:2
+dot:2
+impact:1
+protects:2
+approved:1
+wearer:1
+football:1
+optional:1
+severe:1
+required:1
+legally:1
+milder:1

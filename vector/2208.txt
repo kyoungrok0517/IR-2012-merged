@@ -1,0 +1,3 @@
+avoid:1
+steroids:1
+proteins:1

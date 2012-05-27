@@ -1,0 +1,6 @@
+dioxide:1
+dry:1
+carbon:1
+ice:1
+frozen:1
+specifically:1

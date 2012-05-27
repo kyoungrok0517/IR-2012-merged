@@ -1,0 +1,17 @@
+bronchitis:1
+ulcers:1
+heart:1
+lip:1
+tongue:1
+chroinc:1
+urinary:1
+pancrease:1
+diseases:2
+cancers:2
+main:1
+lung:1
+larynx:1
+exacerbate:1
+duodenal:1
+bladder:1
+stomach:1

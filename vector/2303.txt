@@ -1,0 +1,9 @@
+heart:1
+vascular:1
+starters:1
+asthma:1
+dementia:1
+disease:1
+attacks:1
+strokes:1
+cancer:1

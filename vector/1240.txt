@@ -1,0 +1,13 @@
+car:2
+litre:1
+skoda:1
+inr:1
+check:1
+engine:1
+give:1
+purchase:1
+bhp:1
+suggestions:1
+costs:1
+pls:2
+auto:1

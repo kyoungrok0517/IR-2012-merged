@@ -1,0 +1,13 @@
+ot:1
+reliable:1
+loss:1
+treatment:1
+disease:1
+memory:1
+affected:1
+parkinson:1
+movement:1
+symtoms:1
+slow:1
+tremor:1
+find:1

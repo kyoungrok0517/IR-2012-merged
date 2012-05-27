@@ -1,0 +1,16 @@
+wiser:1
+need:2
+install:1
+literally:1
+building:1
+permit:1
+regulations:1
+basement:1
+wiring:1
+rules:1
+electrician:1
+lights:1
+sockets:1
+renovations:1
+wouldn:1
+wall:1

@@ -1,0 +1,8 @@
+total:1
+waste:1
+panels:1
+money:1
+suck:1
+ft:1
+solar:1
+long:1

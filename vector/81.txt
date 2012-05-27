@@ -1,0 +1,10 @@
+hunger:1
+lost:2
+gross:1
+mean:1
+longer:3
+eat:1
+appetite:1
+meaning:1
+hungry:2
+want:1

@@ -1,0 +1,6 @@
+deed:1
+lieu:1
+signed:1
+foreclosure:1
+run:1
+long:1

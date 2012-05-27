@@ -1,0 +1,3 @@
+safe:1
+correct:1
+opinion:1

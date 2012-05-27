@@ -1,0 +1,4 @@
+born:1
+guess:1
+coincidence:1
+idk:1

@@ -1,0 +1,14 @@
+water:1
+ship:1
+paraglide:1
+private:1
+labadie:1
+time:1
+great:1
+opportunity:1
+will:2
+resort:1
+activities:1
+haiti:1
+based:1
+waterski:1

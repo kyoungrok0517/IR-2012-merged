@@ -1,0 +1,11 @@
+sex:1
+idea:1
+don:1
+choice:1
+made:1
+ve:1
+wrong:1
+good:1
+health:1
+protecting:1
+tested:1

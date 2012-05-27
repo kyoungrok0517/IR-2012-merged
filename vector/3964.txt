@@ -1,0 +1,4 @@
+put:1
+vinegar:1
+trash:1
+works:1

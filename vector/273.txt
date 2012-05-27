@@ -1,0 +1,10 @@
+work:1
+water:1
+lost:1
+weight:1
+days:1
+sunny:1
+answer:1
+fasting:1
+points:1
+helpful:1

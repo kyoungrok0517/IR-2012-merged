@@ -1,0 +1,10 @@
+car:1
+accident:1
+traffic:1
+officer:1
+told:1
+report:2
+will:1
+contest:1
+reporting:1
+happen:1

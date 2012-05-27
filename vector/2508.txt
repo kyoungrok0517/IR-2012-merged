@@ -1,0 +1,4 @@
+wrapped:1
+foil:1
+aluminum:1
+left:1

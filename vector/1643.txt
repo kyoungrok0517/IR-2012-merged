@@ -1,0 +1,13 @@
+cool:1
+serve:1
+person:2
+polly:1
+hated:1
+eminem:1
+apologies:1
+bloom:1
+kind:1
+servants:1
+wayne:1
+lil:1
+kurt:1

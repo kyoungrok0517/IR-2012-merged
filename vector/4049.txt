@@ -1,0 +1,17 @@
+water:1
+total:2
+warm:1
+hitting:1
+calculate:3
+wattage:2
+divide:1
+problem:1
+mcdeltat:1
+heat:2
+mass:1
+balance:1
+time:1
+area:1
+pool:3
+required:2
+energy:1

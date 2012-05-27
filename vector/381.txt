@@ -1,0 +1,9 @@
+assets:1
+protected:1
+mortgaged:1
+satisfaction:1
+foreclosure:1
+property:1
+meaning:1
+loan:1
+recourse:1

@@ -1,0 +1,17 @@
+need:1
+form:3
+thunderstorm:1
+moisture:2
+tornadoes:2
+miles:1
+struck:1
+rural:2
+city:1
+cities:1
+areas:2
+fuel:1
+tornado:1
+agree:1
+large:1
+crowded:1
+live:1

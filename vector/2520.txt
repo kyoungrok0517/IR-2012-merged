@@ -1,0 +1,5 @@
+power:1
+costume:1
+pink:1
+ranger:1
+favorite:1

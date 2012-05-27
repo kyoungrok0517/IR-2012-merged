@@ -1,0 +1,11 @@
+cans:1
+leave:1
+towns:1
+rights:1
+owner:1
+trash:1
+property:1
+mess:1
+garbage:3
+rules:1
+alley:1

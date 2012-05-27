@@ -1,0 +1,4 @@
+funny:2
+years:2
+ago:1
+cheek:1

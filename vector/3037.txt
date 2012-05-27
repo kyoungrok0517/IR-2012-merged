@@ -1,0 +1,17 @@
+pricey:1
+supposed:1
+expensive:1
+good:1
+scars:1
+painful:1
+fading:1
+works:1
+bit:1
+mederma:2
+rid:1
+times:1
+will:1
+laser:1
+end:1
+thing:1
+treatments:1

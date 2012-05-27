@@ -1,0 +1,5 @@
+hygiene:1
+provisions:1
+medical:1
+levels:1
+increased:1

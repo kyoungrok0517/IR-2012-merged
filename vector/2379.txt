@@ -1,0 +1,8 @@
+stop:1
+al:1
+gore:1
+company:1
+will:1
+overseas:1
+earthquakes:1
+sale:1

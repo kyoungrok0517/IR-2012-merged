@@ -1,0 +1,6 @@
+gas:1
+burner:1
+yep:1
+electric:1
+oven:1
+hot:1

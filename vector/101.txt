@@ -1,0 +1,7 @@
+suffering:1
+remedies:1
+parkinson:1
+answers:1
+disease:1
+required:1
+relative:1

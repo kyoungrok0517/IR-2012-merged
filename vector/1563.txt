@@ -1,0 +1,16 @@
+technology:1
+don:1
+carefully:2
+expectancy:1
+advances:1
+smoke:1
+retirement:2
+life:1
+survive:1
+planning:2
+will:1
+healthy:1
+year:1
+years:1
+inflation:1
+medicine:1

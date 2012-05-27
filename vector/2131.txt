@@ -1,0 +1,17 @@
+result:1
+immune:1
+loss:3
+areata:1
+disease:1
+type:1
+diseases:1
+young:1
+people:1
+considered:1
+alopecia:1
+concerned:1
+disorder:1
+effect:1
+auto:1
+childhood:1
+hair:3

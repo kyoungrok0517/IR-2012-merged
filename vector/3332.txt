@@ -1,0 +1,5 @@
+wereing:1
+good:1
+fun:1
+make:1
+thing:1

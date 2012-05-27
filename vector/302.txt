@@ -1,0 +1,4 @@
+priest:1
+preacher:1
+food:1
+pastor:1

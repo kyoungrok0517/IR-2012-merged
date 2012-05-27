@@ -1,0 +1,13 @@
+shore:1
+agents:1
+jersey:1
+agency:1
+beach:1
+interested:1
+invest:1
+point:1
+area:1
+deal:1
+diane:1
+pleasant:1
+turton:1

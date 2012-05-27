@@ -1,0 +1,5 @@
+body:1
+play:1
+role:1
+bad:1
+steroids:2

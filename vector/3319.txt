@@ -1,0 +1,7 @@
+idea:1
+schools:1
+schooluniforms:1
+longer:1
+good:1
+public:1
+obliged:1

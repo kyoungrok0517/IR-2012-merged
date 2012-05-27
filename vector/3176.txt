@@ -1,0 +1,17 @@
+peanut:2
+fell:1
+british:2
+horse:1
+kite:1
+booker:1
+shocked:1
+rode:1
+washington:1
+flying:1
+invented:1
+sitting:1
+tree:2
+butter:1
+coming:2
+discovered:1
+gravity:1

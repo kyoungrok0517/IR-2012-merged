@@ -1,0 +1,7 @@
+expression:1
+uniforms:1
+freedom:1
+stifle:1
+strip:1
+individuality:1
+creativity:1

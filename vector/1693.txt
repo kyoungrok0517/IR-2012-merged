@@ -1,0 +1,16 @@
+burger:1
+ll:1
+don:1
+mouth:1
+problem:1
+wide:1
+long:1
+open:1
+bites:1
+meat:1
+tough:1
+chewing:1
+big:1
+small:1
+fine:1
+make:1

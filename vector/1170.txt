@@ -1,0 +1,13 @@
+ntx:1
+beckett:1
+beta:1
+babe:1
+ruth:1
+mode:1
+default:1
+navview:1
+ntt:1
+nav:1
+matchall:1
+aspx:1
+ntk:1

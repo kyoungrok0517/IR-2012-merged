@@ -1,0 +1,13 @@
+grocery:1
+wisconsin:1
+parking:1
+recycling:2
+places:1
+suggested:1
+people:1
+center:2
+area:1
+lot:1
+town:1
+stores:1
+walmart:1

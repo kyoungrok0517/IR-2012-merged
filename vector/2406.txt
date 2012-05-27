@@ -1,0 +1,14 @@
+put:1
+withdrawal:1
+double:1
+taxed:2
+paid:1
+retirement:1
+charge:1
+plan:1
+tax:1
+money:1
+year:1
+penalty:1
+early:1
+end:1

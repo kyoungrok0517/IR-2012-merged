@@ -1,0 +1,8 @@
+ralph:1
+aeropostale:1
+moose:1
+horse:1
+lauren:1
+polo:1
+abercrombbie:1
+man:1

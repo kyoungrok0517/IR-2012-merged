@@ -1,0 +1,7 @@
+catch:1
+guessing:1
+back:1
+bring:1
+frogs:1
+hop:1
+swamp:1

@@ -1,0 +1,16 @@
+plant:1
+loss:1
+resistant:1
+feeding:1
+plants:1
+supposed:1
+haven:1
+prevent:1
+leave:1
+yucca:1
+darn:1
+eating:1
+eat:2
+daffodils:1
+deer:4
+thing:1

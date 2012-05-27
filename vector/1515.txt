@@ -1,0 +1,11 @@
+cashing:1
+huge:1
+tax:1
+income:1
+names:1
+pay:1
+bonds:2
+years:1
+savings:2
+fixed:1
+penalties:1

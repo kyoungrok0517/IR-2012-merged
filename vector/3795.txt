@@ -1,0 +1,9 @@
+software:1
+iwant:1
+student:1
+btech:1
+forecast:1
+program:1
+weather:1
+instrument:1
+make:1

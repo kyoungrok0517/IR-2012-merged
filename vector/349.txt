@@ -1,0 +1,16 @@
+send:1
+ll:1
+don:1
+payment:1
+foreclose:1
+process:1
+amount:1
+takes:1
+months:1
+awhile:1
+start:1
+full:1
+guess:1
+ve:1
+missed:1
+fine:1

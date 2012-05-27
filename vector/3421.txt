@@ -1,0 +1,6 @@
+donna:1
+love:1
+lace:1
+slightly:1
+chantilly:1
+prefer:1

@@ -1,0 +1,3 @@
+projects:1
+organizations:1
+charity:1

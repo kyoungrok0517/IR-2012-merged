@@ -1,0 +1,13 @@
+put:1
+maturity:1
+poor:1
+cds:1
+return:1
+yrs:1
+bonds:2
+cashed:1
+savings:2
+investment:1
+money:1
+mine:1
+year:1

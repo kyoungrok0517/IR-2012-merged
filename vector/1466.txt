@@ -1,0 +1,13 @@
+element:1
+lost:1
+stronger:1
+land:1
+usa:1
+continued:1
+landed:1
+believed:1
+believing:1
+assault:1
+force:1
+attack:1
+surprise:1

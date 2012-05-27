@@ -1,0 +1,5 @@
+apply:1
+understand:1
+don:1
+um:1
+pretty:1

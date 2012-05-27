@@ -1,0 +1,3 @@
+cover:1
+spare:1
+hair:1

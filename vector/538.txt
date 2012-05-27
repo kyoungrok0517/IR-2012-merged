@@ -1,0 +1,13 @@
+wrap:1
+handle:1
+put:1
+pan:2
+hurt:2
+foil:1
+metal:1
+oven:1
+aluminumn:1
+arround:1
+mine:1
+won:1
+didn:1

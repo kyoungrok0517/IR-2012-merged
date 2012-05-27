@@ -1,0 +1,8 @@
+rapidly:1
+outweighed:1
+prevent:1
+horror:1
+people:1
+diseases:2
+vaccinations:1
+fear:2

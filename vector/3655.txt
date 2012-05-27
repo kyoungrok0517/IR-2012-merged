@@ -1,0 +1,11 @@
+insurance:2
+pmi:1
+market:1
+roles:1
+play:1
+mortgage:1
+guarantees:1
+va:1
+fha:1
+exist:1
+private:1

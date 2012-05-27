@@ -1,0 +1,14 @@
+body:1
+remember:1
+weight:1
+bmi:1
+gorgeous:1
+muscles:1
+healthy:1
+ect:1
+doctors:1
+proud:1
+calculator:1
+depends:1
+ethnicity:1
+want:1

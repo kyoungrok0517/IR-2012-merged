@@ -1,0 +1,15 @@
+need:1
+dad:1
+information:1
+don:1
+extra:1
+answer:1
+sentence:1
+back:1
+disease:1
+bit:1
+curious:1
+parkinson:1
+distinguish:1
+mean:1
+want:1

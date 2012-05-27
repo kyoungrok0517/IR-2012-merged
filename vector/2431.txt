@@ -1,0 +1,15 @@
+wises:1
+percentage:1
+important:1
+deducting:1
+deduct:1
+factor:4
+risk:5
+balance:1
+invest:1
+retirement:1
+age:2
+care:1
+years:1
+commonly:1
+formula:1

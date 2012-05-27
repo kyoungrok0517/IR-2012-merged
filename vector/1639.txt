@@ -1,0 +1,17 @@
+music:1
+eminem:1
+songs:1
+weed:1
+rap:1
+past:1
+smoke:2
+love:2
+months:1
+band:1
+wayne:1
+nirvana:2
+ve:1
+lil:1
+high:1
+listen:2
+want:1

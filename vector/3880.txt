@@ -1,0 +1,6 @@
+exposed:1
+pin:1
+extra:1
+will:1
+wear:1
+radation:1

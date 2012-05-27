@@ -1,0 +1,7 @@
+fluorescent:1
+candelabra:1
+bulb:1
+base:1
+problem:1
+incandescent:1
+long:1

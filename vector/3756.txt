@@ -1,0 +1,7 @@
+control:1
+pranayam:1
+excersizes:1
+food:1
+ur:1
+kip:1
+daily:1

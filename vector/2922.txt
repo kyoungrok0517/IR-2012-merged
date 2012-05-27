@@ -1,0 +1,17 @@
+alot:1
+america:1
+happening:1
+luck:1
+true:1
+good:1
+bad:1
+tech:1
+people:2
+dicouraged:1
+massacre:1
+safety:2
+name:1
+virginia:1
+wouldn:1
+mind:1
+things:1

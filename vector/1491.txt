@@ -1,0 +1,15 @@
+animals:1
+issue:1
+global:1
+funny:1
+states:1
+kangaroo:1
+school:1
+shut:1
+peace:1
+mention:1
+documentary:1
+fellow:1
+citizens:1
+wouldn:1
+talk:1

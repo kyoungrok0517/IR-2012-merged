@@ -1,0 +1,6 @@
+plant:1
+lumberton:1
+recycle:1
+colorado:1
+contact:1
+mookie:1

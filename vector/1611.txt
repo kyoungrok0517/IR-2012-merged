@@ -1,0 +1,6 @@
+copies:1
+million:1
+wide:1
+fifty:1
+world:1
+sold:1

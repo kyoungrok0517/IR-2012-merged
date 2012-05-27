@@ -1,0 +1,12 @@
+need:1
+treating:1
+surgeon:1
+depend:1
+issue:1
+will:1
+correcting:1
+hopes:1
+pain:2
+won:1
+jaw:1
+doctor:1

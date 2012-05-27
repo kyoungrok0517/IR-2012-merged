@@ -1,0 +1,10 @@
+safe:1
+sprays:1
+periods:1
+time:1
+lotions:1
+beds:1
+tanning:2
+bad:1
+long:1
+sun:1

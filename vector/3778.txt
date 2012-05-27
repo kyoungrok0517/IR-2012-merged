@@ -1,0 +1,5 @@
+newscast:1
+technologies:1
+segment:1
+weather:1
+local:1

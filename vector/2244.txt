@@ -1,0 +1,10 @@
+member:1
+red:1
+communist:1
+wife:1
+loyalty:1
+question:1
+brought:1
+party:1
+scare:1
+oppenheimer:1

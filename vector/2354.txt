@@ -1,0 +1,6 @@
+cool:1
+collides:1
+rise:1
+formed:1
+air:2
+tornadoes:1

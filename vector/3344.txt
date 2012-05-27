@@ -1,0 +1,10 @@
+parents:1
+groomed:1
+dressed:1
+tend:1
+manner:1
+perspective:2
+suggest:1
+studies:1
+professional:1
+people:1

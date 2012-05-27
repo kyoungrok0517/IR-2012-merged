@@ -1,0 +1,15 @@
+don:1
+blooms:1
+luck:1
+plants:1
+good:1
+months:2
+environment:1
+happy:1
+grow:2
+approximately:2
+will:1
+stem:1
+cut:1
+won:1
+picky:1

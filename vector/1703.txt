@@ -1,0 +1,12 @@
+total:1
+paid:1
+medical:3
+standard:1
+gross:3
+income:3
+deduct:2
+deduction:1
+adjusted:3
+taking:1
+itemize:1
+expenses:4

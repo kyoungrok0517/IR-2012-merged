@@ -1,0 +1,15 @@
+defeated:1
+raided:1
+blood:1
+party:1
+king:1
+natives:1
+coast:1
+time:1
+orkney:1
+vikings:1
+led:1
+sons:1
+eric:1
+buchan:1
+axe:1

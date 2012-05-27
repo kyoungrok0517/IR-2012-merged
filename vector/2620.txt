@@ -1,0 +1,8 @@
+rose:1
+pissed:1
+jack:1
+kinda:1
+fat:1
+die:1
+ss:1
+wrong:1

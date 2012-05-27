@@ -1,0 +1,17 @@
+transplanted:1
+texture:1
+back:4
+chest:3
+wondering:1
+problem:1
+places:1
+follicules:2
+transplant:2
+heard:1
+differently:1
+side:1
+grow:1
+grade:1
+question:1
+head:3
+hair:5

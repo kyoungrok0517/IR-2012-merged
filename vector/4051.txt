@@ -1,0 +1,11 @@
+fl:1
+pool:1
+panels:1
+january:1
+inground:1
+orlando:1
+temp:1
+solar:1
+heat:1
+comfortable:1
+private:1

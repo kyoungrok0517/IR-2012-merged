@@ -1,0 +1,10 @@
+girl:1
+inge:1
+boys:1
+care:1
+waving:1
+mean:1
+flashes:1
+movie:1
+japanese:2
+people:1

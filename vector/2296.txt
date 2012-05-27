@@ -1,0 +1,4 @@
+lung:1
+emphysema:1
+disease:1
+cancers:1

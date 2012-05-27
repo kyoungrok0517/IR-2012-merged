@@ -1,0 +1,15 @@
+shes:1
+books:1
+offered:1
+buy:1
+test:1
+im:1
+mom:1
+dont:1
+pregnancy:1
+pregnant:1
+read:1
+ive:1
+weird:1
+situation:1
+want:1

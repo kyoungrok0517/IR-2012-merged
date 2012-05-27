@@ -1,0 +1,4 @@
+crime:1
+south:1
+africa:1
+wonderful:1

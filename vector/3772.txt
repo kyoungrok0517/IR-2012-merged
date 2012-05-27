@@ -1,0 +1,17 @@
+dad:1
+suffers:1
+interests:1
+easier:1
+obesity:1
+effort:1
+ptsd:1
+info:1
+project:1
+invest:1
+whichever:1
+time:1
+dig:1
+pick:1
+interesting:1
+childhood:1
+bias:1

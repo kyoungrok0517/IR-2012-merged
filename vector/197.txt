@@ -1,0 +1,13 @@
+person:1
+single:1
+cell:1
+stupid:1
+living:1
+skies:1
+clear:1
+category:1
+hoax:1
+will:1
+worry:1
+brain:1
+universetoday:1

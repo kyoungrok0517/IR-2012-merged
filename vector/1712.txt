@@ -1,0 +1,9 @@
+claims:1
+chances:1
+waiting:1
+company:1
+court:1
+lawyers:1
+won:1
+big:1
+make:1

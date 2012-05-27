@@ -1,0 +1,10 @@
+properly:1
+guide:1
+medical:1
+heart:1
+specialist:1
+advise:1
+matters:1
+records:1
+uncle:1
+consult:1

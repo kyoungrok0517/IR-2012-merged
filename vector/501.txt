@@ -1,0 +1,17 @@
+office:1
+work:1
+jersey:1
+luck:1
+realtors:1
+realtor:1
+intrested:1
+help:1
+great:2
+start:1
+weichert:2
+florida:1
+company:1
+will:1
+started:1
+place:1
+nj:1

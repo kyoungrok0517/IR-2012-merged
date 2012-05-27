@@ -1,0 +1,7 @@
+work:1
+heart:1
+mother:1
+attack:1
+day:1
+didn:1
+quit:1

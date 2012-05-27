@@ -1,0 +1,10 @@
+cells:1
+grow:1
+cell:2
+will:1
+bodies:1
+spread:1
+cancer:2
+copying:1
+copy:1
+mutated:2

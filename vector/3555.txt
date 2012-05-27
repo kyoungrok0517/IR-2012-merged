@@ -1,0 +1,14 @@
+exposure:1
+safe:1
+ll:1
+don:1
+kill:1
+good:1
+melanoma:1
+chance:1
+sun:1
+lights:1
+lucky:1
+tanning:1
+ve:1
+unsafe:1

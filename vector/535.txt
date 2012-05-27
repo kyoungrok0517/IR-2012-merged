@@ -1,0 +1,4 @@
+girl:1
+tart:1
+easy:1
+virtue:1

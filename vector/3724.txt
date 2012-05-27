@@ -1,0 +1,7 @@
+don:1
+spiritual:1
+possessions:1
+happy:1
+wisdom:1
+long:1
+material:1

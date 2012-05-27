@@ -1,0 +1,3 @@
+farmed:1
+mean:1
+tamed:1

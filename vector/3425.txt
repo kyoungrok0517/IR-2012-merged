@@ -1,0 +1,11 @@
+buddy:1
+lace:1
+sue:1
+peggy:1
+holly:1
+died:1
+chantilly:1
+night:1
+favorite:1
+bopper:2
+big:2

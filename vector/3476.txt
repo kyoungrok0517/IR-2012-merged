@@ -1,0 +1,5 @@
+exposed:1
+isn:1
+guess:1
+bacteria:1
+pasteurized:1

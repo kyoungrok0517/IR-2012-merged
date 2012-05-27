@@ -1,0 +1,16 @@
+scotland:2
+sweden:1
+europe:1
+scandinavia:1
+celts:1
+finland:1
+conquered:1
+norway:1
+traveled:1
+picts:1
+tribes:2
+england:1
+vikings:1
+including:1
+areas:1
+denmark:1

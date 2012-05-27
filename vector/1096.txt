@@ -1,0 +1,17 @@
+car:1
+need:1
+rds:1
+press:1
+don:1
+station:2
+task:1
+signal:1
+create:1
+needed:1
+sends:1
+works:1
+button:2
+will:1
+radio:1
+suports:1
+automate:1

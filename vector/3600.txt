@@ -1,0 +1,6 @@
+worse:1
+spray:1
+sunless:1
+tanning:1
+lotion:1
+safest:1

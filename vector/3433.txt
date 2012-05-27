@@ -1,0 +1,6 @@
+plague:1
+wasn:1
+perugino:1
+die:1
+young:1
+pietro:1

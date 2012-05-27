@@ -1,0 +1,12 @@
+havent:1
+love:2
+feel:1
+story:1
+heart:1
+titanic:1
+emotional:1
+awesome:1
+made:1
+movie:3
+part:1
+characters:1

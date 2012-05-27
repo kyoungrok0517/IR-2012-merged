@@ -1,0 +1,7 @@
+personally:1
+ll:1
+artic:1
+woman:1
+ship:1
+pay:1
+expenses:1

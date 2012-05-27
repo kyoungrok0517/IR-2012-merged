@@ -1,0 +1,6 @@
+information:1
+religous:1
+beliefs:1
+drink:1
+fasting:2
+wanted:1

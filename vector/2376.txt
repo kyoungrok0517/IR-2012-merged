@@ -1,0 +1,9 @@
+describe:1
+develops:1
+earthquake:1
+effects:1
+regions:1
+explain:1
+earthquakes:2
+world:1
+occur:2

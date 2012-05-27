@@ -1,0 +1,6 @@
+gas:1
+reiability:1
+price:1
+awesome:1
+features:1
+country:1

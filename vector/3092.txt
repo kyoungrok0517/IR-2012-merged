@@ -1,0 +1,10 @@
+car:1
+ride:1
+throw:1
+recycle:1
+electric:1
+cars:1
+ground:1
+trash:2
+walk:1
+throwing:1

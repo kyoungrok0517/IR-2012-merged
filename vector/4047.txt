@@ -1,0 +1,16 @@
+need:1
+footage:1
+degrees:1
+amount:1
+correct:1
+panels:2
+oriented:1
+depending:1
+facing:1
+south:1
+day:1
+square:1
+latitude:1
+shade:1
+live:1
+mininum:1

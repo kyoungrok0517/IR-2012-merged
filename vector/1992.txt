@@ -1,0 +1,9 @@
+hunters:1
+animals:1
+species:1
+hunt:1
+saving:1
+suggestion:1
+interesting:1
+interested:1
+works:1

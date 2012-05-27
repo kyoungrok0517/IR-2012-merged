@@ -1,0 +1,16 @@
+laugh:1
+put:1
+clothes:1
+dressed:1
+thought:1
+cute:1
+relative:1
+hat:1
+sister:1
+girlie:1
+neighbors:1
+candy:1
+visiting:1
+year:1
+years:1
+brother:1

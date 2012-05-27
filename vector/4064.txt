@@ -1,0 +1,8 @@
+gas:1
+dont:1
+pool:1
+company:1
+purpose:1
+want:1
+spend:1
+heaters:1

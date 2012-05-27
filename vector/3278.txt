@@ -1,0 +1,9 @@
+wih:1
+battle:1
+color:1
+platinum:1
+diamond:1
+game:1
+accuracy:1
+boy:1
+ds:1

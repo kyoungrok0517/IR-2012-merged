@@ -1,0 +1,5 @@
+donna:2
+sue:2
+peggy:2
+married:1
+prefer:2

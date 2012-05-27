@@ -1,0 +1,12 @@
+allowed:1
+resources:2
+planet:1
+don:1
+cleaner:1
+sucking:1
+will:1
+easily:1
+power:1
+solar:1
+bad:1
+population:1

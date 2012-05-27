@@ -1,0 +1,4 @@
+don:1
+place:1
+move:1
+live:1

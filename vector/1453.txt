@@ -1,0 +1,8 @@
+alot:1
+nodded:1
+japan:1
+experiences:1
+back:1
+head:1
+bowed:2
+bicycle:1

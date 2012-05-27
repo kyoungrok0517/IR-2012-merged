@@ -1,0 +1,11 @@
+peanuts:1
+months:1
+allergic:1
+reactions:1
+eating:1
+due:2
+peanutbutter:1
+son:1
+severe:1
+botulism:1
+honey:1

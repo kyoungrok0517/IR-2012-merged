@@ -1,0 +1,11 @@
+love:1
+buddy:1
+donna:2
+feb:1
+songs:1
+richie:1
+plenty:1
+valens:1
+loved:1
+rocks:1
+world:1

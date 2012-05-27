@@ -1,0 +1,13 @@
+christian:1
+christianity:2
+disregard:1
+recycled:1
+number:1
+show:1
+archeology:1
+history:1
+ancient:1
+cults:1
+facts:1
+ce:1
+agree:1

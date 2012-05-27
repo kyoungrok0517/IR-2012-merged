@@ -1,0 +1,9 @@
+risk:1
+waer:1
+clothing:1
+protective:1
+hell:1
+energize:1
+rules:1
+hospital:1
+follow:1

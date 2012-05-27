@@ -1,0 +1,17 @@
+reinvest:1
+don:1
+give:1
+socked:1
+college:1
+bonds:1
+savings:1
+kids:2
+taxed:1
+education:1
+graduated:1
+interest:1
+cash:1
+money:2
+gifts:1
+bought:1
+want:1

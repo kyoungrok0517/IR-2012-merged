@@ -1,0 +1,11 @@
+point:1
+don:1
+results:1
+thinks:1
+stressing:1
+pregnant:3
+mean:1
+wait:2
+positive:1
+talk:1
+thing:1

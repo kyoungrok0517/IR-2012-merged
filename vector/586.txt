@@ -1,0 +1,16 @@
+car:1
+opposing:1
+obliterate:1
+consideration:1
+road:1
+type:1
+calls:1
+conditions:1
+passengers:1
+traffic:2
+floor:1
+factors:1
+thinking:1
+rodent:1
+fast:1
+situation:1

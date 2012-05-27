@@ -1,0 +1,11 @@
+water:2
+present:1
+compound:1
+form:1
+oxygen:1
+hydrogen:2
+state:1
+lot:1
+atmosphere:2
+gaseous:1
+oxyegn:1

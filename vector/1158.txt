@@ -1,0 +1,11 @@
+beast:1
+dumb:1
+throw:1
+knock:1
+red:1
+sox:1
+bone:1
+will:1
+drops:1
+dog:1
+covered:1

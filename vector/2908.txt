@@ -1,0 +1,11 @@
+lol:1
+define:1
+urbandictionary:1
+area:1
+term:1
+php:1
+chav:1
+nice:1
+stourbridge:1
+town:2
+live:1

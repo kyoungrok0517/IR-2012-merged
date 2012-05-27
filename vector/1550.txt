@@ -1,0 +1,14 @@
+idea:1
+investments:1
+retired:1
+track:1
+retire:1
+good:1
+falling:1
+short:1
+amount:1
+retirement:1
+age:1
+will:1
+money:1
+specifically:1

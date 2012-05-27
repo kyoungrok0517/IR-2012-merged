@@ -1,0 +1,9 @@
+reproduce:1
+survive:1
+food:1
+starvation:1
+higher:1
+die:1
+fewer:1
+wolves:1
+population:1

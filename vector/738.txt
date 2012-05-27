@@ -1,0 +1,6 @@
+standard:1
+bulb:1
+socket:1
+long:1
+light:1
+end:1

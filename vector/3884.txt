@@ -1,0 +1,15 @@
+need:2
+radiation:1
+department:1
+humans:1
+type:1
+guys:1
+shielding:1
+pliz:1
+works:1
+risk:1
+reception:1
+radiography:1
+help:2
+find:1
+hospital:1

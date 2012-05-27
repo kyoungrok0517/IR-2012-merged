@@ -1,0 +1,17 @@
+body:1
+trust:1
+metabolism:1
+fat:1
+back:1
+gain:1
+youll:1
+time:1
+wont:1
+dont:1
+slows:1
+eat:2
+bodies:1
+stores:1
+fast:2
+burn:1
+workout:1

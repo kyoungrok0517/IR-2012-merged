@@ -1,0 +1,17 @@
+work:1
+hook:1
+church:1
+ocfoodbank:1
+charity:1
+favorite:1
+laundry:1
+rewarding:1
+interested:1
+kidding:1
+oc:2
+red:1
+food:1
+bank:1
+local:1
+working:1
+cross:1

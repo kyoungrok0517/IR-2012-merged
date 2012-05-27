@@ -1,0 +1,14 @@
+herbivores:1
+faces:1
+watch:1
+camels:2
+inflamed:1
+mouths:1
+people:1
+doctor:1
+works:1
+time:1
+spit:1
+clean:1
+making:1
+sick:1

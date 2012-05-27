@@ -1,0 +1,9 @@
+decide:1
+experiences:1
+burner:1
+wood:1
+panels:1
+pool:1
+opinions:1
+solar:1
+heats:1

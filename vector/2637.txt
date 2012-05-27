@@ -1,0 +1,12 @@
+love:1
+amount:2
+cuz:1
+beat:2
+price:1
+wont:1
+ticket:1
+sales:1
+money:1
+dark:2
+tickets:1
+knight:2

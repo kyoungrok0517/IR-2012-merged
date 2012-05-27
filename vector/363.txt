@@ -1,0 +1,13 @@
+home:1
+moving:1
+california:2
+property:1
+foreclosed:1
+ny:1
+amount:1
+thanks:1
+york:1
+mine:1
+lender:1
+exchange:1
+similar:1

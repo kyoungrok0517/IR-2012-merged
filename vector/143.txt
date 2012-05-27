@@ -1,0 +1,13 @@
+signs:1
+put:1
+return:1
+living:1
+fulfilled:1
+days:1
+times:1
+jesus:1
+christ:1
+will:2
+coming:1
+world:1
+end:3

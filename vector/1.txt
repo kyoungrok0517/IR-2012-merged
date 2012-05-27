@@ -1,0 +1,12 @@
+sit:1
+stop:1
+fetch:1
+thanks:1
+tricks:1
+hands:1
+shake:1
+train:1
+learning:1
+paws:1
+taught:1
+running:1

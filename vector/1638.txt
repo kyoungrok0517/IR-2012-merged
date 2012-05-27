@@ -1,0 +1,5 @@
+ecstasy:1
+nirvana:1
+lovely:1
+mythological:1
+place:1

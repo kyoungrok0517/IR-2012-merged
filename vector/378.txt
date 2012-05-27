@@ -1,0 +1,7 @@
+assets:1
+will:1
+money:1
+state:1
+pay:1
+long:1
+owe:1

@@ -1,0 +1,3 @@
+enlightenment:1
+spiritual:1
+wisdom:1

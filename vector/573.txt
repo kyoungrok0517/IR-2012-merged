@@ -1,0 +1,13 @@
+don:1
+drop:2
+wolves:3
+predators:1
+doesn:1
+wolf:1
+rise:3
+eat:1
+question:1
+make:1
+biology:1
+deer:4
+population:4

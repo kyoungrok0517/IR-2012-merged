@@ -1,0 +1,8 @@
+greater:1
+weight:1
+bmi:2
+overweight:1
+normal:1
+obesity:1
+categories:1
+underweight:1

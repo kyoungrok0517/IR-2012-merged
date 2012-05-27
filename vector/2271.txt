@@ -1,0 +1,6 @@
+muslim:1
+enslave:1
+american:1
+kenyan:1
+race:1
+wants:1

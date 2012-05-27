@@ -1,0 +1,13 @@
+glad:1
+god:1
+genius:1
+link:1
+tested:1
+nuclear:1
+side:1
+soviet:1
+union:1
+bomb:1
+dam:1
+years:1
+man:1

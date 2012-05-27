@@ -1,0 +1,10 @@
+ugly:1
+put:1
+yard:1
+cod:1
+cape:1
+rich:1
+money:1
+back:1
+power:1
+turbines:1

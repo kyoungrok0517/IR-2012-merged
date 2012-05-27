@@ -1,0 +1,12 @@
+yea:1
+alittle:1
+sex:1
+girl:1
+ill:1
+deal:1
+thinking:1
+doit:1
+good:1
+annoying:1
+big:1
+demand:1

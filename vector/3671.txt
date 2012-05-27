@@ -1,0 +1,8 @@
+logue:2
+moon:1
+md:1
+fly:1
+bipolar:1
+journey:1
+mania:1
+depression:1

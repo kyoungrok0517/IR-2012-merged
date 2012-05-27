@@ -1,0 +1,8 @@
+asleep:1
+hr:1
+fell:1
+hypnosis:2
+session:1
+long:2
+zone:1
+cd:1

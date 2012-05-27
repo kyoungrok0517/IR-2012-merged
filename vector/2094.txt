@@ -1,0 +1,10 @@
+trucks:1
+put:1
+truck:1
+isn:1
+owner:1
+mine:1
+dodge:1
+miles:1
+included:1
+transmission:1

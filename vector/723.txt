@@ -1,0 +1,15 @@
+problems:1
+dogs:2
+play:1
+back:1
+sooo:1
+personality:1
+cute:1
+heard:1
+wiener:1
+toys:1
+depending:1
+dog:1
+ive:1
+fine:1
+thing:1

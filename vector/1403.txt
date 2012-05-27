@@ -1,0 +1,6 @@
+glo:1
+trucks:1
+orange:1
+freight:1
+yellow:1
+day:1

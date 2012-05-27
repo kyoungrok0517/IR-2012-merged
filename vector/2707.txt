@@ -1,0 +1,6 @@
+limit:1
+statement:1
+details:1
+isn:1
+word:1
+wall:1

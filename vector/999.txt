@@ -1,0 +1,16 @@
+poker:1
+unable:1
+regular:1
+ship:1
+told:1
+tournaments:1
+carribeans:1
+board:1
+cruise:1
+liberty:1
+details:1
+seas:1
+wife:1
+royal:1
+august:1
+find:1

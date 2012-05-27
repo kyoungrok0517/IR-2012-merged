@@ -1,0 +1,7 @@
+shoes:1
+cham:1
+clothes:1
+dont:1
+baby:1
+bags:1
+deer:1

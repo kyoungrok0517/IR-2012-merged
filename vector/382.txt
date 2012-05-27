@@ -1,0 +1,8 @@
+status:1
+report:1
+official:1
+foreclosed:1
+properties:1
+receivership:1
+find:1
+want:1

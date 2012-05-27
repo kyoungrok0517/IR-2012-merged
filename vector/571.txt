@@ -1,0 +1,8 @@
+information:1
+fence:1
+differ:1
+put:1
+eat:1
+place:2
+find:1
+deer:1

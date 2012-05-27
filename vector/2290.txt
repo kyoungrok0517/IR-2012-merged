@@ -1,0 +1,14 @@
+coughing:1
+breathe:1
+emphysema:1
+determine:1
+breathing:1
+build:1
+trouble:1
+lung:1
+shortness:1
+trachea:1
+asthma:1
+mucous:1
+cancer:1
+dr:1

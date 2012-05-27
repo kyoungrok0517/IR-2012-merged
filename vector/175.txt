@@ -1,0 +1,6 @@
+don:1
+important:1
+things:1
+worry:1
+mayan:1
+average:1

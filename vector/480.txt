@@ -1,0 +1,13 @@
+sizes:1
+store:1
+bigger:1
+smaller:1
+discount:1
+size:2
+price:1
+chain:1
+spencers:1
+walmart:1
+depends:1
+average:1
+key:1

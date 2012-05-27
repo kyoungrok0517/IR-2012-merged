@@ -1,0 +1,13 @@
+burger:1
+plastic:1
+damage:1
+settlement:1
+nerve:1
+fair:1
+dentist:1
+bit:1
+wrapper:1
+bread:1
+hard:1
+piece:1
+tmj:1

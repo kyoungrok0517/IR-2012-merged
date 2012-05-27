@@ -1,0 +1,7 @@
+future:1
+luck:1
+money:1
+career:1
+lot:1
+ultrasound:1
+dear:1

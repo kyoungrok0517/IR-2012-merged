@@ -1,0 +1,7 @@
+car:1
+unit:1
+bandaids:1
+model:1
+bands:1
+rubber:1
+garmin:1

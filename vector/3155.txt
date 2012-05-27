@@ -1,0 +1,7 @@
+washington:1
+information:1
+easy:1
+haven:1
+booker:1
+find:1
+online:1

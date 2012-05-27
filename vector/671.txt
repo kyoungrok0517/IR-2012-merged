@@ -1,0 +1,3 @@
+george:1
+president:1
+bush:1

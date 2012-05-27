@@ -1,0 +1,5 @@
+hated:1
+died:1
+answer:1
+artist:1
+artwork:1

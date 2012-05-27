@@ -1,0 +1,8 @@
+cover:1
+cans:1
+plastic:1
+put:1
+soda:1
+sweetness:1
+rinse:1
+bags:1

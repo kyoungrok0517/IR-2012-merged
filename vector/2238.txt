@@ -1,0 +1,7 @@
+trouble:1
+paper:1
+finding:1
+due:1
+things:1
+war:1
+world:1

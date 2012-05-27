@@ -1,0 +1,6 @@
+relationship:2
+friends:1
+waving:1
+bowing:1
+business:1
+private:1

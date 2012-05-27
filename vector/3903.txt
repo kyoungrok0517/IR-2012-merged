@@ -1,0 +1,10 @@
+need:1
+face:1
+cycle:1
+months:1
+levels:1
+estrogen:2
+growing:1
+horrible:1
+low:1
+hair:1

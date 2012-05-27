@@ -1,0 +1,16 @@
+site:1
+charges:1
+radiation:1
+bill:1
+check:1
+suffer:1
+occurs:1
+radiology:2
+billing:1
+help:1
+school:1
+will:1
+pregnant:1
+radiologybillingcoding:1
+baby:1
+costly:1

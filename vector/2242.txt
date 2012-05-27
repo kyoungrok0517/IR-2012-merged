@@ -1,0 +1,15 @@
+clergy:1
+publicized:1
+provoking:1
+outspoken:1
+yellow:1
+vatican:1
+clearance:1
+revoked:1
+hearing:1
+ire:1
+politicized:1
+hoard:1
+opinions:1
+atheist:1
+scare:1

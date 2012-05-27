@@ -1,0 +1,11 @@
+love:1
+toilet:1
+authentic:1
+seat:1
+mexican:1
+belt:1
+bathroom:1
+restaurant:1
+spices:1
+zing:1
+taste:1

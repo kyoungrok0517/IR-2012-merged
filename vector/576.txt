@@ -1,0 +1,4 @@
+thrieve:1
+food:1
+eat:1
+predators:1

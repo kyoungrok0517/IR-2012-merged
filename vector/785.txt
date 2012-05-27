@@ -1,0 +1,15 @@
+happier:1
+single:1
+ll:1
+save:1
+beauty:1
+oif:1
+amazing:1
+real:1
+collector:1
+valuable:1
+mediocre:1
+buying:1
+lot:1
+year:1
+afford:1

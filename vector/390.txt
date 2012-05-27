@@ -1,0 +1,5 @@
+genesis:1
+exodus:1
+numbers:1
+leviticus:1
+dueteronomy:1

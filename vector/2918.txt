@@ -1,0 +1,15 @@
+music:1
+stop:1
+america:1
+mentality:1
+thumbing:1
+everthings:1
+true:1
+unfortunatly:1
+rap:1
+country:1
+love:1
+yo:1
+man:1
+killing:1
+black:1

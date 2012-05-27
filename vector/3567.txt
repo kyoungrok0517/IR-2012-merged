@@ -1,0 +1,12 @@
+pls:1
+spf:1
+lotions:1
+spray:1
+beds:1
+dont:1
+taning:1
+tanning:2
+bad:1
+sun:1
+tan:1
+skin:1

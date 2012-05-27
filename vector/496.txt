@@ -1,0 +1,6 @@
+individual:1
+experienced:1
+name:1
+determine:1
+agent:2
+ways:1

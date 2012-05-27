@@ -1,0 +1,4 @@
+uniforms:1
+schools:1
+gay:1
+pointless:1

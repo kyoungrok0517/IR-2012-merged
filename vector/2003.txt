@@ -1,0 +1,11 @@
+climb:1
+knowing:1
+great:1
+wether:1
+mtr:1
+bless:1
+true:1
+front:1
+adventurer:2
+zone:1
+man:1

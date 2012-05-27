@@ -1,0 +1,10 @@
+passengers:2
+entire:1
+titanic:1
+ship:1
+children:1
+class:3
+chance:1
+families:1
+women:1
+cared:1

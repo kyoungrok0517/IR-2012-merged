@@ -1,0 +1,12 @@
+hears:1
+need:1
+hunger:5
+books:1
+cupcakes:1
+food:1
+random:1
+ve:1
+word:1
+desires:1
+types:2
+kind:1

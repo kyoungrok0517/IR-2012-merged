@@ -1,0 +1,6 @@
+car:1
+understand:1
+importance:1
+purchase:1
+diligent:1
+research:1

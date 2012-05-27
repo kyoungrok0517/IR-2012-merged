@@ -1,0 +1,8 @@
+prayer:1
+catholic:1
+church:1
+mediation:1
+eating:1
+focusing:2
+fasting:1
+lent:1

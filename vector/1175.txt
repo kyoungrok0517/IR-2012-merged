@@ -1,0 +1,11 @@
+information:1
+details:1
+don:1
+season:1
+give:1
+mention:1
+year:3
+chose:1
+explain:1
+ruth:1
+babe:1

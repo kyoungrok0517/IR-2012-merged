@@ -1,0 +1,17 @@
+attracted:1
+emptying:1
+rests:1
+good:1
+insects:1
+pretty:1
+rinse:1
+wasps:1
+lid:1
+solid:1
+cover:1
+bees:1
+cans:2
+container:3
+trash:1
+empty:1
+wash:1

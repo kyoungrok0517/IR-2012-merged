@@ -1,0 +1,3 @@
+ll:2
+buy:1
+funny:1

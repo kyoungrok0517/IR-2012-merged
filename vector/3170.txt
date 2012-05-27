@@ -1,0 +1,10 @@
+segregation:1
+discouraged:1
+assimilation:1
+washington:1
+cultral:1
+encouraged:1
+booker:1
+speaking:1
+people:1
+black:1

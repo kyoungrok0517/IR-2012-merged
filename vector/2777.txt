@@ -1,0 +1,9 @@
+virulently:1
+times:1
+stopped:1
+naturally:1
+today:1
+centuries:1
+back:1
+outbreaks:1
+world:1

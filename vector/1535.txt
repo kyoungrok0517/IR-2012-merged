@@ -1,0 +1,9 @@
+love:1
+numbers:1
+makes:1
+ricky:1
+number:1
+henderson:1
+impressive:1
+legacy:1
+retiring:2

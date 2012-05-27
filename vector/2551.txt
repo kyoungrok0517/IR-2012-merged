@@ -1,0 +1,7 @@
+time:1
+sound:1
+dress:1
+learn:1
+dictionary:1
+bout:1
+spell:1

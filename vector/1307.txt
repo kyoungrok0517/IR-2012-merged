@@ -1,0 +1,15 @@
+medication:1
+medications:1
+diet:1
+clogging:2
+exercise:1
+opens:1
+helps:1
+surgery:1
+open:1
+avoid:1
+angioplasty:1
+coronary:1
+current:1
+artery:1
+arteries:1

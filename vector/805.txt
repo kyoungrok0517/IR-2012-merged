@@ -1,0 +1,7 @@
+mistletoe:2
+examination:1
+tree:2
+deposited:1
+part:1
+birds:1
+assumed:1

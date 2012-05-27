@@ -1,0 +1,6 @@
+heard:1
+isn:1
+platinum:1
+dunno:1
+game:1
+accuracy:1

@@ -1,0 +1,11 @@
+risk:1
+invest:1
+don:1
+skillet:1
+cast:1
+proof:1
+won:1
+wouldn:1
+big:1
+fool:1
+iron:1

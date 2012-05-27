@@ -1,0 +1,12 @@
+programs:1
+situations:1
+democrats:1
+support:1
+social:1
+healthier:1
+liberal:1
+lead:1
+welfare:1
+tend:2
+republicans:1
+environmental:1

@@ -1,0 +1,9 @@
+need:1
+stranded:1
+shells:1
+ll:1
+desert:1
+coconut:1
+couple:1
+castaways:1
+island:1

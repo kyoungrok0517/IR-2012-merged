@@ -1,0 +1,16 @@
+put:1
+wal:1
+expensive:1
+good:1
+glow:1
+broke:1
+lamps:1
+mart:1
+gave:1
+color:1
+lava:3
+recently:1
+lamp:1
+quality:1
+want:1
+sobs:1

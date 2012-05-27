@@ -1,0 +1,12 @@
+snazzy:1
+weight:1
+price:1
+range:1
+pool:2
+manufacturer:1
+producer:1
+good:1
+purchase:1
+recommend:1
+cue:2
+want:1

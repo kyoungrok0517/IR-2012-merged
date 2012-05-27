@@ -1,0 +1,8 @@
+named:1
+cares:1
+mountain:1
+stands:1
+stupid:1
+focus:1
+climber:1
+lie:1

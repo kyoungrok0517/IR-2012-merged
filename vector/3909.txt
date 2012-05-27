@@ -1,0 +1,10 @@
+aspirin:1
+life:1
+ob:1
+buy:1
+threatening:1
+walgreens:1
+effects:1
+gyn:1
+hormones:1
+hormone:1

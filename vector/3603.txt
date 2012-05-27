@@ -1,0 +1,7 @@
+personally:1
+worse:2
+paid:1
+wouldn:1
+sun:1
+skin:1
+ages:1

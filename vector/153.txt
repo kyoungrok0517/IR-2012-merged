@@ -1,0 +1,4 @@
+behold:1
+night:1
+thief:1
+man:1

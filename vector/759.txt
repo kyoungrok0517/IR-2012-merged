@@ -1,0 +1,4 @@
+equivalent:1
+lmgtfy:1
+cfl:1
+watt:1

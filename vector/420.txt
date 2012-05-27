@@ -1,0 +1,16 @@
+faith:1
+people:1
+leaders:1
+wicked:1
+attitude:1
+camp:1
+persuaded:1
+spreading:1
+atheism:1
+mixture:1
+weak:1
+things:1
+minded:1
+spread:1
+cancer:2
+idolatry:1

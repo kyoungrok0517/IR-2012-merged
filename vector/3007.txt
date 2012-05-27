@@ -1,0 +1,7 @@
+pharmacy:1
+stuff:1
+buy:1
+tube:1
+name:1
+forgot:1
+works:1

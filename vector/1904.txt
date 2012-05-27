@@ -1,0 +1,10 @@
+need:1
+prime:1
+factors:1
+numbers:1
+common:1
+greatest:1
+divide:1
+factor:1
+group:1
+find:1

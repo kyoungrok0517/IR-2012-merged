@@ -1,0 +1,11 @@
+short:1
+turn:1
+ll:1
+nonnoticable:1
+warm:1
+clothes:1
+back:1
+aay:1
+wait:1
+walk:1
+mintues:1

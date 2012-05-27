@@ -1,0 +1,13 @@
+plant:1
+supposed:1
+werewolves:1
+lethal:1
+wolfsbane:1
+aconitum:1
+recommend:1
+mistletoe:1
+poisonous:1
+effect:1
+joke:1
+special:1
+eat:1

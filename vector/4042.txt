@@ -1,0 +1,11 @@
+water:1
+gallon:1
+separate:1
+system:1
+store:1
+pool:1
+heater:1
+heating:1
+totally:1
+house:1
+solar:2

@@ -1,0 +1,10 @@
+statement:2
+inductive:2
+remember:1
+basically:1
+scenario:1
+specific:2
+broad:2
+correctly:1
+hypothesis:2
+deductive:2

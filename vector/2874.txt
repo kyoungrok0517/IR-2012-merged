@@ -1,0 +1,4 @@
+worst:1
+thought:1
+neighbour:1
+place:1

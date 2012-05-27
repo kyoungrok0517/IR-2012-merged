@@ -1,0 +1,9 @@
+countryside:1
+need:1
+thanks:1
+help:2
+moving:1
+confused:1
+friendly:1
+cheating:1
+people:1

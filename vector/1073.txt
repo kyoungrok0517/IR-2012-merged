@@ -1,0 +1,16 @@
+min:1
+parking:1
+spots:1
+tops:1
+minutes:1
+baltimore:2
+helped:1
+fun:1
+enjoy:1
+cruise:2
+leaving:1
+time:1
+easy:1
+will:1
+live:1
+hope:1

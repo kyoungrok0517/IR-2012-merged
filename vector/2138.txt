@@ -1,0 +1,13 @@
+watch:1
+btw:1
+heavy:1
+house:1
+humans:1
+shed:1
+stuff:1
+dont:1
+metals:1
+poisoning:1
+mean:1
+scare:1
+radioactive:1

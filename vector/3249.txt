@@ -1,0 +1,11 @@
+need:1
+magic:1
+store:1
+check:1
+interest:1
+shown:1
+pheromones:2
+good:1
+heighten:1
+personality:1
+studies:1

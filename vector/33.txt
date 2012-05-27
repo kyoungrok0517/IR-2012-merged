@@ -1,0 +1,14 @@
+causing:1
+limited:1
+individual:1
+airborne:1
+dries:1
+breeds:1
+prone:1
+cats:1
+detergent:1
+saliva:3
+fur:1
+depends:1
+allergies:1
+allergy:1

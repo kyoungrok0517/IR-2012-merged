@@ -1,0 +1,16 @@
+cells:1
+stop:1
+test:2
+mouth:1
+back:1
+intended:1
+fool:1
+cheek:1
+dirtier:1
+tests:1
+dna:3
+inside:2
+typing:1
+negative:1
+man:2
+sample:2

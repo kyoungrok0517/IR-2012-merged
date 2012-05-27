@@ -1,0 +1,10 @@
+politicians:1
+ducking:1
+experienced:1
+answers:1
+bachman:1
+jumbo:1
+mumbo:1
+question:1
+doesnt:1
+romneycare:1

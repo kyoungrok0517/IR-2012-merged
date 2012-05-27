@@ -1,0 +1,14 @@
+home:1
+manager:1
+loss:1
+baltimore:1
+win:1
+whats:1
+orioles:1
+record:1
+thanks:1
+hired:1
+ratio:1
+buck:1
+showalter:1
+mngmnt:1

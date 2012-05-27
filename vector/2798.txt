@@ -1,0 +1,7 @@
+plague:1
+killed:1
+ran:1
+spreading:1
+fleas:1
+freeze:1
+years:1

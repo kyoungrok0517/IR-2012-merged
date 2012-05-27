@@ -1,0 +1,16 @@
+need:1
+body:1
+weight:2
+diet:1
+matter:1
+faith:1
+needs:1
+fasting:2
+dangerous:2
+doctor:2
+depriving:1
+nutrients:1
+religion:1
+lose:2
+story:1
+talk:1

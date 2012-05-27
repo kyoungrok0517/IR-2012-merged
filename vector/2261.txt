@@ -1,0 +1,12 @@
+need:1
+information:1
+hmmm:1
+stronger:1
+standpoint:1
+state:1
+ur:1
+conclusion:1
+good:1
+bad:1
+blurry:1
+whther:1

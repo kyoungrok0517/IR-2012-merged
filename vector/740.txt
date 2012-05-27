@@ -1,0 +1,15 @@
+fixture:2
+problems:1
+bright:1
+watts:2
+boxes:1
+hold:1
+higher:2
+lumens:2
+bulbs:2
+incandescent:1
+comapre:1
+bulb:1
+will:1
+flourescent:1
+major:1

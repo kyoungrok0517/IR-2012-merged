@@ -1,0 +1,10 @@
+infested:1
+help:1
+wooden:1
+great:1
+slums:1
+clean:1
+london:1
+thought:1
+rat:1
+fire:1

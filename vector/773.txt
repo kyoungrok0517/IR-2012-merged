@@ -1,0 +1,10 @@
+inefficient:1
+consumed:1
+fact:1
+generates:1
+half:1
+mention:1
+light:2
+heat:1
+sources:1
+energy:1

@@ -1,0 +1,4 @@
+distance:1
+school:1
+travelling:1
+house:1

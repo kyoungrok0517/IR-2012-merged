@@ -1,0 +1,7 @@
+ball:1
+rod:1
+tie:1
+union:1
+made:1
+stud:1
+workers:1

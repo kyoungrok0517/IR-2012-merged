@@ -1,0 +1,10 @@
+olds:1
+claire:1
+wish:1
+lies:1
+dark:1
+scared:1
+answer:1
+helped:1
+year:1
+im:1

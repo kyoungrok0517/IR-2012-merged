@@ -1,0 +1,7 @@
+stop:1
+life:1
+fact:1
+complaining:1
+eat:1
+cure:1
+found:1

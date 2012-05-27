@@ -1,0 +1,8 @@
+record:1
+call:1
+phone:1
+played:1
+phonograph:1
+made:1
+spite:1
+deaf:1

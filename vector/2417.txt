@@ -1,0 +1,10 @@
+amount:1
+time:1
+paid:1
+percentage:1
+interest:1
+set:1
+age:1
+money:1
+depending:1
+period:1

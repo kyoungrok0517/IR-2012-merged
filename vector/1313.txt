@@ -1,0 +1,9 @@
+clear:1
+cardiologist:1
+asked:1
+person:1
+doubts:1
+questions:1
+visit:1
+technical:1
+doctor:1

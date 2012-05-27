@@ -1,0 +1,13 @@
+plague:2
+stop:1
+death:1
+knew:1
+wondering:1
+people:3
+thanxx:1
+project:1
+school:1
+village:1
+called:1
+eyam:1
+black:1

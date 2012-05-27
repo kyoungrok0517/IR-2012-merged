@@ -1,0 +1,10 @@
+politicians:1
+george:1
+priests:1
+republican:1
+crime:1
+stinking:1
+bush:1
+bad:1
+party:1
+corrupt:1

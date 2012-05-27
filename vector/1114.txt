@@ -1,0 +1,12 @@
+sosa:1
+sammy:1
+hit:1
+players:1
+willie:1
+hank:1
+aaron:1
+league:1
+mays:1
+ruth:1
+babe:1
+major:1

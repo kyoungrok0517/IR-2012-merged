@@ -1,0 +1,15 @@
+stay:1
+luck:1
+thailand:4
+nice:1
+good:1
+places:1
+enjoy:1
+people:1
+great:1
+times:1
+lot:1
+cheaper:1
+activities:1
+philippines:1
+wonderful:1

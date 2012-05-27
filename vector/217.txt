@@ -1,0 +1,5 @@
+feel:1
+reading:1
+smarter:1
+lot:1
+question:1

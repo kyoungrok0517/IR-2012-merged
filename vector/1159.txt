@@ -1,0 +1,10 @@
+playing:1
+ring:1
+valuable:1
+ball:2
+chews:1
+dogs:1
+doorbell:1
+retrieve:1
+ethical:1
+asap:1

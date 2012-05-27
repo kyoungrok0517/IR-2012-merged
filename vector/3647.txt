@@ -1,0 +1,8 @@
+loans:1
+lol:1
+home:1
+agriculture:1
+usda:1
+guarantee:1
+finance:1
+dept:1

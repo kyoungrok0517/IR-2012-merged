@@ -1,0 +1,14 @@
+breed:1
+alot:1
+carefully:1
+male:1
+possibly:1
+vet:1
+smaller:1
+section:1
+puppies:1
+breeding:1
+female:1
+deliver:1
+big:1
+advice:1

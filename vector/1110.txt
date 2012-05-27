@@ -1,0 +1,10 @@
+record:1
+story:1
+accident:1
+check:1
+ticket:1
+driving:1
+will:1
+received:1
+won:1
+want:1

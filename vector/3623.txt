@@ -1,0 +1,16 @@
+need:2
+water:1
+lots:1
+dry:1
+single:1
+drinking:1
+bed:1
+threats:1
+skin:2
+tanning:1
+lotion:1
+will:1
+day:1
+make:1
+tons:1
+cancer:1

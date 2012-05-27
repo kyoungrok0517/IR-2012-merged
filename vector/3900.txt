@@ -1,0 +1,5 @@
+level:1
+physics:1
+maths:1
+psycology:1
+hard:1

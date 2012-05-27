@@ -1,0 +1,9 @@
+knocked:1
+will:1
+children:1
+fittest:1
+baby:1
+survival:1
+situation:1
+women:1
+hope:1

@@ -1,0 +1,10 @@
+commanded:1
+life:1
+jesus:1
+made:1
+doctrine:1
+join:1
+man:1
+everlasting:1
+world:1
+doctrines:1

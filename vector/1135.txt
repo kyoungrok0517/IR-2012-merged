@@ -1,0 +1,5 @@
+beer:1
+dogs:1
+incredible:1
+consumption:1
+hot:1

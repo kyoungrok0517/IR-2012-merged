@@ -1,0 +1,6 @@
+work:1
+words:1
+thinks:1
+misspelled:1
+good:1
+pretty:1

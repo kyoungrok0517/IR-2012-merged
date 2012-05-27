@@ -1,0 +1,16 @@
+scentlok:1
+lok:1
+odor:1
+spray:1
+steps:1
+tech:1
+skin:1
+colorblind:1
+scent:1
+human:1
+camo:1
+rid:1
+dress:1
+showing:1
+success:1
+deer:1

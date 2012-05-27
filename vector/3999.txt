@@ -1,0 +1,9 @@
+domesticated:1
+resources:1
+help:1
+camel:2
+killed:1
+food:1
+meat:1
+mean:2
+points:1

@@ -1,0 +1,7 @@
+bright:1
+driving:1
+pink:1
+mohawk:1
+yellow:1
+helmet:1
+people:1

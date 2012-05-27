@@ -1,0 +1,5 @@
+prime:2
+factors:2
+multiply:1
+question:1
+answered:1

@@ -1,0 +1,14 @@
+check:1
+looots:1
+back:1
+neighbor:1
+living:1
+loose:1
+skin:1
+allergic:1
+fleas:1
+years:1
+dog:2
+hair:1
+allergies:1
+rents:1

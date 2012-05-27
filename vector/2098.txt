@@ -1,0 +1,12 @@
+trucks:1
+joint:1
+ball:1
+dakota:1
+check:1
+durango:1
+recall:1
+good:1
+wrong:1
+locate:1
+thing:1
+mechanic:1

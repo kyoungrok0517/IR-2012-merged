@@ -1,0 +1,3 @@
+smoking:1
+diseases:1
+caused:1

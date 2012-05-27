@@ -1,0 +1,7 @@
+apply:1
+hide:1
+makeup:1
+scars:1
+want:1
+spot:1
+thing:1

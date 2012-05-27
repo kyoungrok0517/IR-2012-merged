@@ -1,0 +1,10 @@
+satellite:1
+displayed:1
+forecast:1
+common:1
+map:1
+weather:1
+radar:1
+high:1
+low:1
+shows:1

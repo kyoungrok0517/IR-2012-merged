@@ -1,0 +1,14 @@
+feel:1
+numb:1
+male:1
+son:1
+didnt:1
+cry:1
+doctor:1
+noise:1
+days:1
+will:1
+lot:1
+baby:1
+circumcise:1
+make:1

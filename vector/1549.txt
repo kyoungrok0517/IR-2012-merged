@@ -1,0 +1,17 @@
+job:1
+security:1
+long:1
+talking:1
+time:1
+exceeds:1
+effect:1
+reduced:1
+income:6
+social:1
+age:1
+passive:1
+earned:3
+ss:1
+pension:1
+earn:1
+checked:1

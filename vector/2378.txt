@@ -1,0 +1,11 @@
+stop:3
+buy:1
+warming:1
+green:1
+global:5
+humans:1
+government:1
+products:1
+dangerous:1
+earthquakes:4
+blame:1

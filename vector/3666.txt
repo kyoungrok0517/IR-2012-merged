@@ -1,0 +1,15 @@
+control:1
+physical:1
+send:1
+overcome:1
+list:1
+lack:3
+depression:1
+people:1
+orderliness:1
+help:1
+mental:1
+social:1
+will:1
+due:1
+discipline:1

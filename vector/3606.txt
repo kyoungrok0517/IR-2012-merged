@@ -1,0 +1,4 @@
+worse:1
+safe:1
+spray:1
+tan:1

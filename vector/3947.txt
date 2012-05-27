@@ -1,0 +1,3 @@
+theft:1
+don:1
+permission:1

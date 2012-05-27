@@ -1,0 +1,8 @@
+november:1
+season:1
+don:1
+dendrobium:1
+orchids:2
+wedding:1
+emphasize:1
+wanted:1

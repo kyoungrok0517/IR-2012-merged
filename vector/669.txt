@@ -1,0 +1,5 @@
+wrap:1
+bun:1
+hot:2
+big:1
+dog:2

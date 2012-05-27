@@ -1,0 +1,10 @@
+safe:1
+harm:1
+put:1
+tax:1
+dont:1
+recently:1
+doesnt:1
+people:1
+want:1
+obama:1

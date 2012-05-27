@@ -1,0 +1,12 @@
+strive:1
+height:1
+don:1
+nutritionist:1
+bmi:2
+truth:1
+age:1
+care:2
+healthy:1
+pediatrician:1
+points:1
+doctor:1

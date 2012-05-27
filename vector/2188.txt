@@ -1,0 +1,5 @@
+flair:1
+ric:1
+year:1
+man:1
+wrestle:1

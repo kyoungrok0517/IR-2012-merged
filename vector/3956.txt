@@ -1,0 +1,13 @@
+give:1
+makes:1
+impossible:1
+suggestions:1
+throw:1
+open:1
+bees:2
+recycle:3
+cans:4
+aluminum:2
+container:1
+trash:1
+stung:1

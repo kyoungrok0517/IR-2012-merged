@@ -1,0 +1,5 @@
+sunbed:1
+minutes:1
+hours:1
+equivilent:1
+sun:1

@@ -1,0 +1,5 @@
+thank:1
+books:1
+heard:1
+moses:1
+copy:1

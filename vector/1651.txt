@@ -1,0 +1,3 @@
+shotgun:1
+blow:1
+brains:1

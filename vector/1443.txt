@@ -1,0 +1,14 @@
+physics:1
+connect:1
+change:1
+acceleration:1
+class:1
+chance:1
+section:1
+studying:1
+help:1
+rate:1
+homework:1
+clue:1
+dots:1
+intelligence:1

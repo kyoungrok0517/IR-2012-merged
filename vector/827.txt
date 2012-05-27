@@ -1,0 +1,5 @@
+work:1
+stand:1
+run:1
+didnt:1
+people:1

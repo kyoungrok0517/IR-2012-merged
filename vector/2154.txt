@@ -1,0 +1,15 @@
+bumps:1
+thinning:1
+don:1
+treatment:1
+normal:1
+vet:1
+asap:1
+red:1
+mange:1
+rash:1
+completly:1
+shedding:1
+coming:1
+wouldn:1
+sounds:1

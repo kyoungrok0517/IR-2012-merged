@@ -1,0 +1,9 @@
+plague:1
+infecting:1
+visible:1
+stopped:1
+centuries:1
+ended:1
+alive:1
+people:1
+pretty:1

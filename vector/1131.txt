@@ -1,0 +1,7 @@
+valued:1
+twenties:1
+made:1
+roaring:1
+people:1
+ruth:1
+babe:1

@@ -1,0 +1,17 @@
+ship:1
+centrum:1
+class:3
+caribbean:1
+serenade:1
+passenger:1
+atrium:1
+explorer:1
+earlier:1
+seas:1
+royal:1
+glass:3
+voyager:1
+ships:3
+radiance:1
+wall:1
+elevators:2

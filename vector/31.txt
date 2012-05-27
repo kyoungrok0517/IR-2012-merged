@@ -1,0 +1,16 @@
+breed:3
+cat:2
+support:1
+strangers:1
+breeders:1
+answers:2
+questions:1
+good:1
+switching:1
+beloved:1
+touch:1
+food:1
+feed:2
+group:1
+groups:1
+yahoo:2

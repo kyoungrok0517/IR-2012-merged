@@ -1,0 +1,5 @@
+ban:1
+beds:1
+australia:1
+dangerous:1
+tan:1

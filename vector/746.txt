@@ -1,0 +1,8 @@
+love:1
+work:1
+blue:1
+bulbs:2
+house:1
+light:2
+straight:1
+soft:1

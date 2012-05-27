@@ -1,0 +1,5 @@
+guard:1
+mouth:1
+bottom:1
+trick:1
+teeth:1

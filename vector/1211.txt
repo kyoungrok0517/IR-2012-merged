@@ -1,0 +1,2 @@
+news:1
+channel:1

@@ -1,0 +1,4 @@
+music:1
+cobain:1
+died:1
+kurt:1

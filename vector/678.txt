@@ -1,0 +1,2 @@
+pencil:1
+hotdog:1

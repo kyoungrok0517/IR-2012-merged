@@ -1,0 +1,13 @@
+check:1
+registrar:2
+click:1
+links:1
+describing:1
+symptoms:1
+sedoparking:1
+search:1
+ne:2
+php:1
+domain:1
+sedopark:1
+healthcare:2

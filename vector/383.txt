@@ -1,0 +1,14 @@
+status:1
+buy:1
+chance:1
+info:2
+process:1
+record:1
+months:1
+foreclosure:4
+will:1
+owner:1
+saving:1
+public:1
+published:1
+completed:3

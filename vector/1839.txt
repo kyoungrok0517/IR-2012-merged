@@ -1,0 +1,17 @@
+work:1
+stamp:1
+strand:1
+true:2
+scientist:2
+portrait:1
+incomplete:1
+lick:1
+forty:1
+dna:3
+complete:1
+gather:1
+testing:1
+years:1
+hair:1
+forensic:1
+profile:1

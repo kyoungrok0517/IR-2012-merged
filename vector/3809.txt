@@ -1,0 +1,5 @@
+wind:1
+farms:1
+opposed:1
+kennedy:1
+ted:1

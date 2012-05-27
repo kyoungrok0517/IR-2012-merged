@@ -1,0 +1,17 @@
+mushroom:1
+jacket:1
+tartin:2
+mario:1
+emo:1
+buy:2
+zipped:1
+wondering:1
+game:1
+thanks:1
+tarting:1
+red:1
+hoodie:1
+ethier:1
+men:1
+black:2
+styleish:1

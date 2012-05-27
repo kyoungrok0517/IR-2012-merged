@@ -1,0 +1,13 @@
+final:1
+plague:1
+god:1
+egyptian:1
+death:1
+set:1
+kill:1
+angel:1
+free:1
+happened:1
+refused:1
+firstborn:1
+jews:1

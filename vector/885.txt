@@ -1,0 +1,10 @@
+share:1
+gobble:1
+times:1
+mexican:1
+important:1
+poor:1
+month:1
+nino:1
+pretty:1
+fear:1

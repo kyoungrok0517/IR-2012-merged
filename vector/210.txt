@@ -1,0 +1,10 @@
+god:2
+heaven:1
+will:1
+answer:1
+listen:2
+end:1
+gonna:1
+world:1
+friend:1
+closely:1

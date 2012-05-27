@@ -1,0 +1,10 @@
+beds:2
+truth:1
+tanning:3
+lotion:1
+healthy:1
+unhealthy:1
+bad:1
+equally:2
+sun:2
+works:1

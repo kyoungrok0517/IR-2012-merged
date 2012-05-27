@@ -1,0 +1,5 @@
+dachshund:1
+dog:1
+tzu:1
+shih:1
+wonderful:1

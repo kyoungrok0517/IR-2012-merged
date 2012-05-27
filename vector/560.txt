@@ -1,0 +1,13 @@
+plants:1
+beauty:1
+human:1
+throw:1
+shops:1
+will:2
+eat:1
+barber:1
+things:1
+cut:1
+hair:2
+friend:1
+deer:1

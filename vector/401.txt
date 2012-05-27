@@ -1,0 +1,5 @@
+god:1
+mysterious:1
+friend:1
+ways:1
+works:1

@@ -1,0 +1,4 @@
+shame:1
+plastic:1
+prettier:1
+surgery:1

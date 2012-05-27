@@ -1,0 +1,11 @@
+palmer:1
+fade:1
+marks:1
+butter:1
+cocoa:1
+luck:1
+stretch:1
+good:1
+scars:1
+clinically:1
+proved:1

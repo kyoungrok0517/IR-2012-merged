@@ -1,0 +1,7 @@
+cracks:1
+ear:1
+quicker:1
+kilometers:1
+squid:1
+hygrometer:1
+eye:1

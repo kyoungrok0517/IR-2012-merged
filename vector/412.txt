@@ -1,0 +1,11 @@
+girl:1
+save:1
+numbers:1
+woman:1
+boys:1
+slept:2
+kill:2
+moses:1
+holy:1
+orders:1
+man:2

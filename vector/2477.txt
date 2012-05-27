@@ -1,0 +1,13 @@
+phone:1
+bag:1
+poop:1
+elisha:1
+flaming:1
+invent:1
+july:1
+left:1
+grey:2
+st:1
+dog:1
+doorstep:1
+man:1

@@ -1,0 +1,13 @@
+need:1
+animals:1
+dogs:1
+pack:2
+potty:1
+throw:1
+cold:1
+family:1
+inside:2
+left:1
+backyard:1
+housbreak:1
+dog:2

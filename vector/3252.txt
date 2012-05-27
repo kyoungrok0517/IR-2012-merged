@@ -1,0 +1,10 @@
+smell:1
+thanks:1
+person:1
+sex:1
+attracts:1
+give:1
+opposite:1
+pheromones:1
+products:1
+scent:1

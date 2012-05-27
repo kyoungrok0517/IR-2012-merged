@@ -1,0 +1,9 @@
+harold:1
+don:1
+camping:1
+yesterday:1
+supposed:1
+thought:1
+date:1
+bs:1
+happen:1

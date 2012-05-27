@@ -1,0 +1,13 @@
+office:2
+united:1
+eleemosynary:1
+mayor:1
+community:1
+headquartered:1
+contact:1
+contacts:1
+city:1
+organization:1
+relations:1
+local:1
+major:1

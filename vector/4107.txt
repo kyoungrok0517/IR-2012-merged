@@ -1,0 +1,11 @@
+work:1
+don:1
+collar:1
+dark:1
+white:1
+caucasians:1
+epa:1
+objects:1
+people:1
+large:1
+confrontation:1

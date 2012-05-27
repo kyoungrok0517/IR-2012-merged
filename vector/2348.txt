@@ -1,0 +1,13 @@
+houses:1
+barely:1
+form:2
+wondering:1
+tornadoes:2
+pretty:1
+city:1
+wont:1
+buildings:1
+areas:1
+mean:1
+live:1
+crowded:1

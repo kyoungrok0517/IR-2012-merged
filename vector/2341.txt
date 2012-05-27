@@ -1,0 +1,6 @@
+cold:1
+hot:1
+swoosh:1
+air:1
+tornado:1
+mix:1

@@ -1,0 +1,10 @@
+need:1
+thank:1
+entitled:1
+retirement:2
+medical:1
+money:1
+air:1
+steps:1
+force:1
+pretty:1

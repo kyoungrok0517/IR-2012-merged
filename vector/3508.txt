@@ -1,0 +1,7 @@
+effect:1
+bottulisim:1
+infant:1
+aware:1
+bottulisum:1
+pasterized:1
+honey:1

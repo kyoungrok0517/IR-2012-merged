@@ -1,0 +1,5 @@
+water:2
+enlightenment:2
+wood:2
+chop:2
+carry:2

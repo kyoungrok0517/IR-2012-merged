@@ -1,0 +1,10 @@
+col:1
+everest:1
+correct:1
+rgs:1
+south:1
+html:1
+imagingeverest:1
+imaging:1
+concepts:1
+memory:1

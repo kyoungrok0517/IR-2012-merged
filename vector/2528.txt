@@ -1,0 +1,9 @@
+cool:1
+prep:1
+girl:2
+monster:1
+funny:1
+fairy:1
+maid:1
+bride:1
+country:1

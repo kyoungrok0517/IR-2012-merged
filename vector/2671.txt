@@ -1,0 +1,3 @@
+parents:1
+friend:1
+talk:1

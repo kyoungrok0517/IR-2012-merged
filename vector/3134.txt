@@ -1,0 +1,13 @@
+don:1
+bmi:3
+answer:1
+goal:1
+teenage:1
+girl:1
+great:1
+will:1
+mean:1
+healthy:1
+perfect:1
+choose:1
+skinny:1

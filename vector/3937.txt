@@ -1,0 +1,8 @@
+michigan:1
+cans:1
+area:1
+recycling:1
+grand:1
+money:1
+rapids:1
+pop:1

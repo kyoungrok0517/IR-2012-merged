@@ -1,0 +1,6 @@
+invention:1
+wondered:1
+engineer:1
+scientist:1
+inventor:1
+telephone:1

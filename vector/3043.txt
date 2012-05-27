@@ -1,0 +1,7 @@
+untill:1
+wounds:1
+time:3
+heal:1
+ahead:1
+travel:1
+works:1

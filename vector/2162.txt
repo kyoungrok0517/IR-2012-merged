@@ -1,0 +1,9 @@
+stop:1
+don:1
+guillain:1
+answers:1
+chronic:1
+syndrome:1
+barre:1
+fatigue:1
+doctor:1

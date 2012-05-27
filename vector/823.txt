@@ -1,0 +1,7 @@
+mistletoe:2
+stood:1
+kiss:2
+lips:1
+kissed:1
+receive:1
+cheek:1

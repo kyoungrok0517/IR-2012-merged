@@ -1,0 +1,5 @@
+flu:1
+viruses:1
+infectious:2
+infections:1
+diseases:1

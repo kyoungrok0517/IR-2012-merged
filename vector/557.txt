@@ -1,0 +1,6 @@
+poisonous:1
+avoid:1
+lots:1
+tend:1
+bulbs:1
+deer:1

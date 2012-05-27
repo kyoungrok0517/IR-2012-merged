@@ -1,0 +1,11 @@
+school:1
+wikipedia:1
+thocp:1
+en:1
+bye:1
+net:1
+wiki:1
+biographies:1
+htm:1
+robert:2
+oppenheimer:2

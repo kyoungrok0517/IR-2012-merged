@@ -1,0 +1,15 @@
+resources:1
+plague:2
+stop:1
+wiped:1
+million:1
+midevil:1
+treatment:1
+bubonic:2
+time:1
+leave:1
+spreading:1
+lives:1
+eradicated:1
+world:1
+found:1

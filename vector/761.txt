@@ -1,0 +1,8 @@
+slightly:1
+bright:1
+fluorescent:1
+bulb:4
+watt:2
+dimmer:1
+incandescent:1
+light:4

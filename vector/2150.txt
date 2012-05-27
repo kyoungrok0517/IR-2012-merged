@@ -1,0 +1,12 @@
+itched:1
+red:1
+check:1
+mange:1
+green:1
+puffy:1
+yellow:1
+glowed:1
+blacklight:2
+dog:1
+ringworm:1
+friend:1

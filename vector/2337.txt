@@ -1,0 +1,5 @@
+real:1
+spins:1
+air:1
+circle:1
+fast:1

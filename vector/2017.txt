@@ -1,0 +1,7 @@
+edmund:1
+mountain:1
+peak:1
+highest:1
+hillary:1
+himalayas:1
+conquered:1

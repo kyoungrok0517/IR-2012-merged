@@ -1,0 +1,6 @@
+proven:1
+facts:1
+faith:2
+longer:1
+lack:1
+exist:1

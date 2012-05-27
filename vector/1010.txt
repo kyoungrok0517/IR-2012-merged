@@ -1,0 +1,7 @@
+seas:1
+buy:1
+rent:1
+summer:1
+helped:1
+oasis:1
+hope:1

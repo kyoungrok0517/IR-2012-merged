@@ -1,0 +1,7 @@
+great:1
+stress:1
+eating:1
+due:2
+stressed:1
+doctor:1
+thing:1

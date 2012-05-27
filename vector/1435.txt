@@ -1,0 +1,8 @@
+protection:2
+figure:1
+missouri:1
+illinois:1
+helmet:2
+required:1
+requires:1
+eye:2

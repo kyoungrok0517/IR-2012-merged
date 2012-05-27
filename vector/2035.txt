@@ -1,0 +1,16 @@
+nitpicking:1
+put:1
+mistaken:1
+vote:1
+trivial:1
+backlash:1
+votes:1
+hampshire:1
+misogynism:1
+gave:1
+hillary:2
+base:1
+boost:1
+bashing:1
+giving:1
+top:1

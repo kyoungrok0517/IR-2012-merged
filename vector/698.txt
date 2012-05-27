@@ -1,0 +1,12 @@
+breed:2
+dogs:2
+shelter:1
+shouldn:1
+freedom:1
+waiting:1
+funniest:1
+familys:1
+ve:1
+answer:1
+mixed:1
+geeze:1

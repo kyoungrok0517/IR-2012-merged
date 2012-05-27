@@ -1,0 +1,8 @@
+symptoms:1
+help:1
+designed:1
+remain:1
+active:1
+meds:1
+rest:1
+therapy:1

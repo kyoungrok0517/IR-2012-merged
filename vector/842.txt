@@ -1,0 +1,12 @@
+nutrients:1
+mistletoe:1
+steal:1
+maturity:1
+hickory:1
+hickories:1
+grow:1
+pobably:1
+nuts:1
+developing:1
+trees:1
+abort:1

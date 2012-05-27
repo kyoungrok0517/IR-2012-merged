@@ -1,0 +1,14 @@
+safe:1
+mph:1
+hitting:1
+ditch:1
+told:1
+state:1
+avoid:2
+slower:1
+hit:1
+drive:1
+ve:1
+will:1
+trooper:1
+deer:1

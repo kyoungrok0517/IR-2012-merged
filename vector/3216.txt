@@ -1,0 +1,7 @@
+rouge:1
+pol:1
+wikipedia:2
+en:2
+khmer:1
+wiki:2
+pot:1

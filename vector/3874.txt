@@ -1,0 +1,14 @@
+safe:1
+radiation:1
+problems:1
+choice:1
+career:1
+effects:1
+long:1
+prone:1
+radiography:2
+term:1
+worried:1
+will:1
+day:2
+nursing:1

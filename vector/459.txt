@@ -1,0 +1,9 @@
+lamps:1
+necessarily:1
+cool:1
+pendents:1
+store:1
+lava:1
+lines:1
+sells:1
+things:1

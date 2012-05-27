@@ -1,0 +1,4 @@
+stay:1
+drugs:1
+influence:1
+bad:1

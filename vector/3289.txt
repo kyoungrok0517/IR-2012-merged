@@ -1,0 +1,12 @@
+hand:1
+loud:1
+breaths:1
+minor:1
+simple:1
+hold:1
+die:1
+happen:1
+deep:1
+surgery:1
+breath:1
+thing:1

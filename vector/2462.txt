@@ -1,0 +1,8 @@
+thank:1
+bell:1
+invented:1
+graham:1
+location:1
+alexander:1
+telephone:1
+info:1

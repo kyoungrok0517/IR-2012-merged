@@ -1,0 +1,10 @@
+home:1
+domesticated:3
+cat:2
+camel:1
+tidy:1
+heard:1
+neat:1
+means:1
+stays:1
+doesnt:1

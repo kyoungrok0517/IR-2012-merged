@@ -1,0 +1,15 @@
+dad:4
+grandfather:3
+half:5
+mom:6
+grandmother:1
+clear:1
+mitochondria:1
+chromosomes:1
+copies:1
+yep:1
+dna:4
+side:1
+ve:1
+rest:1
+hope:1

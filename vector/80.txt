@@ -1,0 +1,6 @@
+hunger:1
+difference:1
+lost:2
+terms:1
+appetite:1
+thing:1

@@ -1,0 +1,9 @@
+brad:2
+jennifer:1
+future:1
+jen:1
+pitt:1
+will:2
+win:2
+aniston:1
+oscar:1

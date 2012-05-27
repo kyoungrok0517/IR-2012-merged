@@ -1,0 +1,14 @@
+legal:1
+allowed:1
+holder:2
+person:2
+documents:1
+signed:1
+mortgage:3
+lien:2
+property:3
+foreclose:1
+record:1
+title:1
+owner:1
+holds:1

@@ -1,0 +1,11 @@
+deers:1
+rising:2
+source:1
+effect:1
+grass:1
+wolf:1
+food:1
+rise:1
+wolves:1
+population:3
+deer:2

@@ -1,0 +1,5 @@
+food:2
+eat:1
+alive:1
+make:1
+live:1

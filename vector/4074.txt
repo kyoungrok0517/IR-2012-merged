@@ -1,0 +1,12 @@
+reproduce:2
+lose:1
+cells:3
+rate:1
+normal:1
+regulation:1
+abnormally:1
+divide:1
+high:1
+dividing:1
+cancer:1
+regulate:1

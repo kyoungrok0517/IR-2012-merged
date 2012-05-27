@@ -1,0 +1,10 @@
+love:1
+wild:1
+canopy:1
+orchids:1
+grow:1
+epiphytes:1
+trees:1
+place:1
+rainforest:1
+bromeliads:1

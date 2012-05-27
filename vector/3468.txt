@@ -1,0 +1,10 @@
+picture:1
+need:1
+sticky:1
+dont:1
+thick:1
+decagon:1
+answer:1
+lines:1
+symmetry:1
+question:1

@@ -1,0 +1,14 @@
+trigger:1
+reactions:1
+good:1
+honey:3
+upprocessed:1
+allergic:1
+simply:1
+age:1
+bacteria:1
+pollens:1
+year:1
+infections:1
+natural:1
+parenting:1

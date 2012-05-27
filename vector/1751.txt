@@ -1,0 +1,9 @@
+short:1
+transplant:1
+results:1
+style:1
+thinking:1
+good:1
+bald:1
+hair:4
+miss:1

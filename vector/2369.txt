@@ -1,0 +1,16 @@
+currents:2
+moving:2
+earthquake:1
+plate:1
+mantle:3
+convection:2
+float:2
+plates:2
+hit:1
+movement:1
+core:1
+slide:1
+tectonics:1
+slow:1
+dense:1
+earthquakes:1

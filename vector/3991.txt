@@ -1,0 +1,5 @@
+domesticated:1
+told:1
+camels:1
+wrong:1
+bce:1

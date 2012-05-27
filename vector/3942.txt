@@ -1,0 +1,11 @@
+center:1
+grocery:2
+cans:1
+recycle:3
+area:1
+fails:1
+supposed:1
+pop:1
+stores:2
+straight:1
+want:1

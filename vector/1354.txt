@@ -1,0 +1,5 @@
+eggs:1
+green:1
+vegetables:1
+dark:1
+cheese:1

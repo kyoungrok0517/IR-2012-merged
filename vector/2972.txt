@@ -1,0 +1,7 @@
+religion:1
+real:1
+proofs:2
+facts:1
+impossible:1
+technically:1
+talk:2

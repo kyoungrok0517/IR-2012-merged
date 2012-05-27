@@ -1,0 +1,10 @@
+mass:1
+difference:1
+body:2
+squeeze:1
+hands:1
+scales:1
+fat:2
+tool:1
+supposed:1
+calculator:2

@@ -1,0 +1,14 @@
+lots:1
+cruises:1
+haven:1
+line:1
+fun:1
+cruise:2
+caribbean:1
+baja:1
+love:1
+staff:1
+great:2
+royal:1
+things:1
+rccl:1

@@ -1,0 +1,7 @@
+parents:1
+responsible:1
+guy:1
+pregnant:1
+hes:1
+recommend:1
+talk:1

@@ -1,0 +1,4 @@
+great:1
+pressure:1
+role:1
+temperature:1

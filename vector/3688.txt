@@ -1,0 +1,5 @@
+wind:1
+trapped:1
+suffering:1
+gerry:1
+smirking:1

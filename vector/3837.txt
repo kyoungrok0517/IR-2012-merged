@@ -1,0 +1,10 @@
+manager:1
+save:1
+start:1
+give:1
+write:2
+writing:1
+butt:1
+long:1
+depends:1
+ups:2

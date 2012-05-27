@@ -1,0 +1,7 @@
+god:1
+souls:1
+died:1
+bless:1
+innocent:1
+plz:1
+respect:1

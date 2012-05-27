@@ -1,0 +1,17 @@
+plant:1
+hate:1
+potted:1
+maintenance:1
+beautiful:1
+plants:1
+alive:1
+pot:1
+florist:1
+boyfriend:1
+orchid:1
+terrible:1
+die:1
+called:1
+flowers:1
+low:1
+bought:1

@@ -1,0 +1,9 @@
+doesn:1
+wasted:1
+sailing:1
+feasible:1
+money:1
+sea:1
+lot:1
+ships:1
+cruise:1

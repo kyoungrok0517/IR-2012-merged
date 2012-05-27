@@ -1,0 +1,10 @@
+huge:1
+point:1
+political:1
+wont:1
+will:1
+making:1
+bible:1
+world:1
+shift:1
+scholar:1

@@ -1,0 +1,11 @@
+shop:1
+neighbors:1
+squat:1
+plenty:1
+barber:1
+copping:1
+catching:1
+urine:1
+hair:1
+want:1
+human:2

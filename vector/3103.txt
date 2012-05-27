@@ -1,0 +1,3 @@
+range:1
+normal:1
+underweight:1

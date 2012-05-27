@@ -1,0 +1,6 @@
+history:1
+temple:1
+angkor:1
+years:1
+wat:1
+betwwen:1

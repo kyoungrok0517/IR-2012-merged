@@ -1,0 +1,12 @@
+faster:1
+travels:1
+sound:1
+crack:1
+makes:1
+answer:1
+atmosphere:1
+kilometers:1
+light:1
+rocks:1
+squid:1
+hygrometer:1

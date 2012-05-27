@@ -1,0 +1,10 @@
+buy:3
+located:1
+conviently:1
+easily:1
+bank:2
+bonds:2
+savings:2
+wanna:1
+internet:1
+mailed:1

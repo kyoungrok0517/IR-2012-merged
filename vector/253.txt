@@ -1,0 +1,6 @@
+diesel:1
+cab:1
+blazer:1
+standerd:1
+chevy:1
+thing:1

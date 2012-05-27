@@ -1,0 +1,8 @@
+detect:1
+ideas:1
+icebergs:1
+crazy:1
+money:1
+equipped:1
+breeds:1
+hope:1

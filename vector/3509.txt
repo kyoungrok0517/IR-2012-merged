@@ -1,0 +1,12 @@
+spores:1
+system:1
+immune:1
+fight:1
+strong:1
+isn:1
+infant:1
+infection:1
+possibility:1
+happen:1
+botulism:1
+honey:1

@@ -1,0 +1,6 @@
+december:1
+comet:1
+hit:1
+supposed:1
+st:1
+big:1

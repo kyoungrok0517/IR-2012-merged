@@ -1,0 +1,13 @@
+need:1
+diet:2
+areota:1
+change:1
+poor:1
+stress:1
+doctor:1
+combined:1
+alopecia:2
+protein:2
+guess:1
+weather:2
+low:2

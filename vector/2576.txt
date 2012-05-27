@@ -1,0 +1,10 @@
+iceberg:1
+reported:1
+lookout:1
+holed:1
+path:1
+knew:1
+andrews:1
+watertight:1
+compartments:1
+captain:1

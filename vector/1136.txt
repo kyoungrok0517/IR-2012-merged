@@ -1,0 +1,2 @@
+charisma:1
+style:1

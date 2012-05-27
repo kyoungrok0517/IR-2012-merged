@@ -1,0 +1,16 @@
+bowl:1
+microwave:1
+cheese:1
+add:1
+log:1
+mix:2
+completely:1
+dip:1
+beer:3
+melting:1
+continue:1
+glass:1
+velveeta:2
+melted:1
+big:1
+melt:1

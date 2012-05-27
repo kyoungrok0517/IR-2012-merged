@@ -1,0 +1,11 @@
+spawn:1
+put:1
+pool:1
+grow:1
+return:1
+will:1
+birthing:1
+frogs:2
+mate:1
+garden:1
+pond:1

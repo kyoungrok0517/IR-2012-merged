@@ -1,0 +1,15 @@
+resources:1
+lacked:1
+failed:1
+sea:1
+thought:1
+pacific:1
+goal:1
+conveniently:1
+destroy:1
+fleet:1
+pearl:1
+carriers:2
+hunt:1
+natural:1
+maneuvers:1

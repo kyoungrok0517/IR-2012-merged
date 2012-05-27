@@ -1,0 +1,7 @@
+shouldn:1
+happy:1
+speak:1
+left:1
+portugal:1
+place:1
+moments:1

@@ -1,0 +1,9 @@
+typical:1
+volcano:1
+materials:1
+sadly:1
+description:1
+made:1
+formed:1
+composite:1
+step:2

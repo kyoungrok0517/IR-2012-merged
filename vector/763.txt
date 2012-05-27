@@ -1,0 +1,17 @@
+plant:1
+overnight:1
+stimulate:1
+type:1
+incandescent:1
+fair:1
+science:2
+difference:1
+project:1
+fluorescent:1
+bulb:2
+lamp:1
+question:1
+artificial:1
+light:3
+want:2
+growth:1

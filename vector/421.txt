@@ -1,0 +1,4 @@
+juicy:1
+nice:1
+hungry:1
+beefstake:1

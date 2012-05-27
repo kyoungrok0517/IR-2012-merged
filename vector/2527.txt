@@ -1,0 +1,17 @@
+remember:1
+lots:1
+don:1
+clothes:1
+tails:1
+simple:1
+fat:1
+jewelry:1
+cute:1
+tacky:2
+pig:1
+throw:1
+easy:2
+lot:1
+year:1
+hair:1
+wear:1

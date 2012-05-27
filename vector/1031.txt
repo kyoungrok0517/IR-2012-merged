@@ -1,0 +1,14 @@
+give:1
+issue:1
+baltimore:1
+problem:1
+definitly:1
+traffic:1
+words:1
+cities:1
+money:1
+lived:1
+big:1
+advice:1
+note:1
+move:1

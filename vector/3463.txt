@@ -1,0 +1,3 @@
+missing:1
+skilled:1
+labour:1

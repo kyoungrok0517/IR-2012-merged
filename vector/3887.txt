@@ -1,0 +1,6 @@
+lower:1
+children:1
+ammunity:1
+bexcause:1
+vaccinations:1
+dose:1

@@ -1,0 +1,7 @@
+carved:1
+position:1
+time:1
+wounds:1
+remain:1
+heal:1
+scars:1

@@ -1,0 +1,14 @@
+hilton:2
+work:2
+alot:1
+don:2
+makes:1
+attract:1
+guys:1
+scent:1
+paris:2
+perfume:2
+called:1
+pheromones:2
+perfumes:1
+instance:1

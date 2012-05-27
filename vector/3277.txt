@@ -1,0 +1,14 @@
+hypnosis:4
+person:2
+gamefaqs:1
+answered:1
+smogon:1
+pokemon:4
+bubepeida:1
+platinum:3
+diamond:2
+will:1
+question:1
+accuracy:4
+battles:1
+found:1

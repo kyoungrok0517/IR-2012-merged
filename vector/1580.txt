@@ -1,0 +1,6 @@
+call:1
+realize:1
+rank:1
+duty:1
+play:1
+people:2

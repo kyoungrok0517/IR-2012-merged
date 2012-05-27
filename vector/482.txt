@@ -1,0 +1,7 @@
+work:1
+ve:1
+crappy:1
+long:1
+didn:1
+working:1
+quit:1

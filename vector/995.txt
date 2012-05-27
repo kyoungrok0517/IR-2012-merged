@@ -1,0 +1,16 @@
+check:1
+watch:1
+curl:2
+taylor:1
+taught:1
+url:1
+tri:1
+page:1
+xivdzo:1
+youtube:2
+feature:1
+bebop:1
+channel:1
+hair:2
+straightner:2
+video:1

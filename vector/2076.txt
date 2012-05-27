@@ -1,0 +1,15 @@
+alot:1
+model:1
+don:1
+recalled:1
+truck:1
+told:1
+dodge:1
+fixed:2
+research:1
+free:1
+recalls:2
+money:1
+ve:1
+lot:1
+find:1

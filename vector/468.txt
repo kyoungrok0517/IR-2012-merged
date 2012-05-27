@@ -1,0 +1,5 @@
+lamps:1
+real:1
+lava:2
+wax:1
+represent:1

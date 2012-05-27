@@ -1,0 +1,6 @@
+law:1
+doesn:1
+nfl:1
+sticker:1
+helmet:1
+dot:1

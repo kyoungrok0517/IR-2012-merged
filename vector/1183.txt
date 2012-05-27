@@ -1,0 +1,15 @@
+plant:1
+pines:1
+species:1
+wish:1
+planted:1
+property:1
+disease:1
+past:1
+mix:1
+summers:1
+help:1
+spreading:1
+bunch:1
+dying:1
+want:1

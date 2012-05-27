@@ -1,0 +1,16 @@
+site:1
+limited:1
+information:1
+knowledge:1
+ants:2
+links:1
+fire:2
+general:1
+hymenoptera:1
+order:1
+family:1
+wikipedia:2
+formicidae:1
+lot:2
+en:1
+wiki:1

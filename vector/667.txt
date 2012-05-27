@@ -1,0 +1,8 @@
+ideas:1
+missile:1
+easy:1
+costume:1
+hot:1
+good:1
+dog:1
+make:1

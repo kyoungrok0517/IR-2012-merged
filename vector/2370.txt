@@ -1,0 +1,15 @@
+need:1
+surface:1
+earthquake:1
+affect:1
+science:1
+prone:1
+project:1
+help:2
+safety:1
+cities:1
+name:1
+describe:1
+earth:1
+earthquakes:3
+occur:1

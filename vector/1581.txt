@@ -1,0 +1,6 @@
+serve:2
+retirement:1
+retire:1
+qualify:1
+years:1
+military:1

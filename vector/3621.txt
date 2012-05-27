@@ -1,0 +1,6 @@
+safe:1
+radiation:1
+answer:1
+burn:1
+tan:1
+sun:1

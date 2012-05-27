@@ -1,0 +1,4 @@
+ireland:1
+wealthy:1
+south:1
+africa:1

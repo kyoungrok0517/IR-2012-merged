@@ -1,0 +1,9 @@
+gas:1
+moved:1
+emit:1
+tracking:1
+careful:1
+will:1
+device:1
+poison:1
+improperly:1

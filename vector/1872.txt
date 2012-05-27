@@ -1,0 +1,12 @@
+assuming:1
+statement:1
+inductive:1
+confused:1
+yr:1
+statements:1
+dark:3
+scared:3
+yrs:1
+conclusion:1
+sally:3
+general:1

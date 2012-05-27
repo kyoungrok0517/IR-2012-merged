@@ -1,0 +1,10 @@
+replace:1
+time:1
+expired:1
+bill:1
+luck:1
+length:1
+pay:1
+good:1
+repair:1
+bad:2

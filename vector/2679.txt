@@ -1,0 +1,7 @@
+feel:1
+time:1
+understand:1
+don:1
+trusts:1
+situation:1
+friend:1

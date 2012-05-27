@@ -1,0 +1,12 @@
+calculation:1
+satellite:1
+information:2
+time:1
+distance:1
+transmitted:1
+receiver:1
+simple:1
+conducts:1
+gps:1
+packets:1
+synchronize:1

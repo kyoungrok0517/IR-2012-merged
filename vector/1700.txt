@@ -1,0 +1,13 @@
+back:1
+problem:1
+doctor:1
+pocket:1
+cover:1
+ve:1
+money:1
+claim:1
+spent:1
+visits:1
+taxes:1
+treatments:1
+tmj:1

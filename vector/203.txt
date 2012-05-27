@@ -1,0 +1,6 @@
+fence:1
+fell:1
+sitting:1
+pete:2
+left:1
+repeat:1

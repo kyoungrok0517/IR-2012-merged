@@ -1,0 +1,9 @@
+acquaintances:1
+neighbors:1
+friends:1
+superior:1
+common:1
+waving:1
+teacher:1
+bowing:1
+close:1

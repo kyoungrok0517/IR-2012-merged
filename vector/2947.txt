@@ -1,0 +1,14 @@
+clouds:4
+cumulus:2
+thunderstorm:1
+altitude:1
+cirrus:1
+stratus:1
+blanket:1
+towering:1
+cloud:1
+due:1
+updraft:1
+nimbo:1
+high:1
+rain:1

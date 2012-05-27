@@ -1,0 +1,8 @@
+finish:1
+died:1
+predicted:1
+didn:1
+mayans:1
+world:1
+end:1
+calendar:1

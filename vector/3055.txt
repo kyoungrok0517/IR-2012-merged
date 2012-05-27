@@ -1,0 +1,11 @@
+time:1
+wounded:1
+forgive:1
+careful:1
+aches:1
+scars:1
+fully:1
+bother:1
+wound:1
+healed:2
+remind:1

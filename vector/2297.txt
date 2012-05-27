@@ -1,0 +1,7 @@
+heart:1
+tongue:1
+mouth:1
+throat:1
+disease:1
+strokes:1
+cancer:3

@@ -1,0 +1,8 @@
+romans:1
+warrior:1
+franks:1
+scotland:2
+vikings:1
+saxons:1
+fighting:1
+grup:1

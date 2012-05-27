@@ -1,0 +1,5 @@
+exponenent:1
+prime:1
+factors:1
+common:1
+smaller:1

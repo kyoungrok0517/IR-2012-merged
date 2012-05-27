@@ -1,0 +1,16 @@
+calcium:4
+xo:1
+becuase:1
+extended:1
+thought:1
+im:3
+project:1
+help:2
+words:1
+wouldnt:1
+write:1
+will:2
+assignmnet:1
+word:1
+stuck:2
+thing:1

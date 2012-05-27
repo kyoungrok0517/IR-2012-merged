@@ -1,0 +1,15 @@
+congenital:1
+regular:1
+treatment:1
+determine:1
+contact:1
+vet:1
+appointment:1
+experiencing:1
+trouble:1
+disorder:1
+guess:1
+shedding:1
+dog:2
+make:1
+immediately:1

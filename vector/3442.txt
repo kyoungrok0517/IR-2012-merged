@@ -1,0 +1,6 @@
+building:1
+check:1
+count:1
+identical:1
+want:1
+similar:1

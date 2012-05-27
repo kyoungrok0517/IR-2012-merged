@@ -1,0 +1,7 @@
+agreed:1
+wounds:1
+heal:2
+trace:1
+ve:1
+leaving:1
+completely:1

@@ -1,0 +1,16 @@
+itemized:1
+total:1
+form:1
+instructions:1
+gross:1
+deductions:1
+exceed:1
+itemize:1
+expenses:2
+schedule:1
+medical:1
+exceeds:1
+income:1
+deduction:1
+adjusted:1
+part:1

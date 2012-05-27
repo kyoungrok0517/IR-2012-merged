@@ -1,0 +1,10 @@
+sincerely:1
+lying:1
+heart:1
+peace:1
+state:1
+floyd:1
+uncle:1
+evil:1
+speaking:3
+spiritually:2

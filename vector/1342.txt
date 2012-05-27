@@ -1,0 +1,5 @@
+guesses:1
+opps:1
+plane:1
+estimated:1
+ment:1

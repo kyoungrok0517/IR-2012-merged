@@ -1,0 +1,10 @@
+work:1
+med:1
+patient:1
+treatment:1
+parkinson:2
+will:1
+line:1
+sinemet:1
+medicine:1
+main:1

@@ -1,0 +1,3 @@
+thick:1
+oven:1
+gloves:1

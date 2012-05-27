@@ -1,0 +1,14 @@
+allowed:1
+slowly:1
+don:3
+happening:1
+bad:1
+humans:1
+mayans:1
+ending:1
+personally:1
+destroy:1
+starting:1
+mean:1
+world:3
+end:2

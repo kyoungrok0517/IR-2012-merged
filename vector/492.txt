@@ -1,0 +1,13 @@
+don:2
+agent:1
+jump:1
+hearing:1
+real:1
+money:1
+won:1
+low:1
+license:1
+make:1
+worth:1
+want:2
+estate:1

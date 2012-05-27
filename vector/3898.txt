@@ -1,0 +1,10 @@
+simpler:1
+passed:1
+physics:3
+failed:1
+maths:4
+experience:1
+rarely:1
+recommend:1
+taking:1
+cross:1

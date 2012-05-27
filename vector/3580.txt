@@ -1,0 +1,8 @@
+remember:1
+environment:1
+bed:1
+tanning:1
+safer:1
+controlled:1
+bad:1
+sun:1

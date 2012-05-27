@@ -1,0 +1,15 @@
+happening:1
+magnitude:1
+everyday:1
+haha:1
+colorado:1
+earthquake:2
+aware:1
+problem:1
+meaning:1
+time:1
+happened:1
+felt:2
+denver:1
+earthquakes:3
+strongly:1

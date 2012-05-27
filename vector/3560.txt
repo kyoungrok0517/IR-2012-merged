@@ -1,0 +1,6 @@
+safe:1
+tanning:1
+pale:2
+beads:1
+im:1
+pretty:1

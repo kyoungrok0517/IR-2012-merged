@@ -1,0 +1,10 @@
+information:1
+breed:1
+cat:1
+marble:1
+days:1
+ve:1
+mine:1
+inquired:1
+friend:1
+found:1

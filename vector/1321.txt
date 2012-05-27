@@ -1,0 +1,10 @@
+surfs:1
+time:1
+apartment:1
+lot:1
+expensive:1
+good:1
+cottages:1
+deals:1
+people:1
+live:1

@@ -1,0 +1,14 @@
+housing:2
+department:1
+mortgage:4
+purchase:1
+fha:2
+guaranteed:1
+insured:1
+rate:1
+veteran:1
+interest:1
+finance:1
+regulated:2
+va:2
+administration:1

@@ -1,0 +1,7 @@
+store:1
+happy:1
+christmas:1
+holidays:1
+trees:1
+sells:1
+nursery:1

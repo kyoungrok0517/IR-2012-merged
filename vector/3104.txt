@@ -1,0 +1,14 @@
+fruit:1
+index:1
+lots:1
+avocado:1
+good:1
+cheese:1
+sugars:1
+foods:1
+fats:1
+carbohydrates:1
+eat:1
+low:1
+glysemic:1
+natural:1

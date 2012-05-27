@@ -1,0 +1,15 @@
+tie:1
+bag:1
+luck:1
+hold:1
+good:1
+soda:1
+rinse:1
+putting:1
+talking:1
+cans:3
+aluminum:1
+trash:1
+left:1
+make:1
+sugar:1

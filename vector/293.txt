@@ -1,0 +1,9 @@
+understand:1
+god:2
+food:1
+stupid:1
+xp:1
+fasting:1
+focus:1
+people:1
+kind:1

@@ -1,0 +1,4 @@
+hardware:1
+remotely:1
+needed:1
+close:1

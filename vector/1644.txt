@@ -1,0 +1,4 @@
+stop:1
+drugs:2
+pugs:1
+bad:1

@@ -1,0 +1,7 @@
+bit:1
+genealogy:1
+scotland:1
+yea:1
+japan:1
+fascination:1
+france:1

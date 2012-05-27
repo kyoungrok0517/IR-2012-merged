@@ -1,0 +1,5 @@
+smell:1
+wind:1
+make:1
+sensitive:1
+deer:1

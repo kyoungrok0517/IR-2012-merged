@@ -1,0 +1,16 @@
+face:2
+applies:1
+rock:1
+jaw:1
+dot:1
+impact:1
+huge:1
+difference:1
+point:1
+safety:1
+correct:1
+hit:2
+riding:1
+square:1
+rating:1
+head:1

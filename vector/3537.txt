@@ -1,0 +1,6 @@
+huge:1
+peanuts:1
+culprit:1
+botulism:1
+choking:1
+honey:1

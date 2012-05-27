@@ -1,0 +1,8 @@
+singularity:2
+facts:1
+explosion:1
+proof:1
+explain:1
+big:1
+bang:1
+caused:1

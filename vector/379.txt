@@ -1,0 +1,4 @@
+sit:1
+assets:1
+loss:1
+lender:1

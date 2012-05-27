@@ -1,0 +1,6 @@
+lamps:1
+stuff:2
+lava:1
+bloby:1
+inside:1
+whats:1

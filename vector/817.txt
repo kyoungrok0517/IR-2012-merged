@@ -1,0 +1,7 @@
+regrowth:1
+tree:1
+remove:1
+watch:1
+ground:1
+seeds:1
+prevent:1

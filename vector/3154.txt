@@ -1,0 +1,8 @@
+washington:1
+society:1
+american:1
+slaves:1
+booker:1
+freed:1
+proper:1
+place:1

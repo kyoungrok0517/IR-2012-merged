@@ -1,0 +1,14 @@
+muslim:1
+ends:1
+hours:1
+hold:1
+fasting:1
+anymore:1
+sun:1
+wanted:1
+hunger:1
+felt:1
+rise:1
+month:2
+train:1
+tips:1

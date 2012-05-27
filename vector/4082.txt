@@ -1,0 +1,6 @@
+atm:1
+talking:1
+test:1
+stuck:1
+im:1
+science:1

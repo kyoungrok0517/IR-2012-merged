@@ -1,0 +1,16 @@
+alot:1
+heart:1
+drugs:1
+fat:1
+offence:1
+ur:1
+clog:1
+frozen:1
+smoke:1
+mth:1
+mad:1
+survive:1
+year:1
+eat:1
+attack:1
+uncle:1

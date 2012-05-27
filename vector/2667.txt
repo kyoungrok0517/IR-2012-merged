@@ -1,0 +1,14 @@
+parents:1
+hug:1
+tells:1
+noce:1
+offer:1
+wants:2
+cry:1
+rite:1
+dont:1
+hard:1
+friend:1
+sounds:1
+thing:1
+responsibility:1

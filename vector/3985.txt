@@ -1,0 +1,9 @@
+cans:1
+aluminum:1
+failed:1
+higher:1
+summer:1
+prices:1
+tin:1
+banks:1
+pound:2

@@ -1,0 +1,9 @@
+water:1
+presnt:1
+form:1
+oxygen:2
+compunds:1
+hydrogen:2
+combine:1
+atmosphere:1
+molecular:2

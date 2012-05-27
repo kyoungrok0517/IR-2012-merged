@@ -1,0 +1,8 @@
+phone:1
+cans:1
+check:1
+kinds:1
+book:1
+glass:1
+recycler:1
+scrap:1

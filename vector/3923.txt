@@ -1,0 +1,6 @@
+versa:1
+put:1
+check:1
+vice:1
+answer:1
+reality:1

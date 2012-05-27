@@ -1,0 +1,15 @@
+mtdna:1
+test:1
+grandpa:1
+children:1
+son:1
+im:2
+chromosone:1
+fater:1
+child:1
+curious:1
+mother:1
+moms:1
+dna:3
+side:1
+boys:1

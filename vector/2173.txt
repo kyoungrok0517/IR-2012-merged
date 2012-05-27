@@ -1,0 +1,6 @@
+stop:1
+levels:1
+normal:1
+will:1
+falling:1
+hair:1

@@ -1,0 +1,8 @@
+ocd:1
+risk:1
+anxiety:1
+stress:1
+obesity:1
+factor:1
+depression:1
+want:1

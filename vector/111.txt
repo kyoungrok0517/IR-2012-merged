@@ -1,0 +1,8 @@
+physical:1
+times:1
+grandpa:1
+ton:1
+meds:1
+parkinsons:1
+therapy:1
+week:1

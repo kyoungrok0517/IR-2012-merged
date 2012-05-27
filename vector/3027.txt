@@ -1,0 +1,5 @@
+lasered:1
+heard:1
+stuff:1
+rite:1
+aide:1

@@ -1,0 +1,15 @@
+position:1
+car:1
+receiver:1
+physics:1
+speed:1
+clock:1
+airplane:1
+affect:1
+sources:1
+atomic:1
+equation:1
+determining:1
+gps:3
+light:1
+accuracy:1

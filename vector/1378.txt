@@ -1,0 +1,9 @@
+generally:1
+foundation:1
+snell:1
+rating:2
+lowest:1
+material:1
+dot:1
+ratings:1
+kevlar:1

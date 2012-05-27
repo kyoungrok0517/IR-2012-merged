@@ -1,0 +1,11 @@
+amount:1
+body:1
+beds:1
+speed:1
+uv:1
+tanning:1
+will:1
+effects:1
+vitamin:1
+giving:1
+sun:1

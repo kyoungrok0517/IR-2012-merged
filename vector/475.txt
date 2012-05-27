@@ -1,0 +1,3 @@
+lamps:1
+lava:1
+cost:1

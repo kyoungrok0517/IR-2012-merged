@@ -1,0 +1,6 @@
+books:1
+powers:1
+girls:1
+comic:1
+special:1
+heriorens:1

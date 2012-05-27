@@ -1,0 +1,15 @@
+ride:1
+put:1
+deposit:1
+nest:1
+wait:1
+egg:1
+storm:1
+retirement:1
+mutual:1
+funds:1
+sell:1
+fied:1
+money:1
+shrink:1
+hope:1

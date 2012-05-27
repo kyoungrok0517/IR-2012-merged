@@ -1,0 +1,11 @@
+scooby:1
+love:1
+daphne:1
+groovy:1
+doo:1
+great:1
+costume:1
+holidays:1
+favorite:1
+boots:1
+halloween:1

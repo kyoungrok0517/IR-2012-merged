@@ -1,0 +1,4 @@
+prime:1
+common:1
+highest:1
+factor:1

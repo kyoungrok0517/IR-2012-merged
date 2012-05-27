@@ -1,0 +1,6 @@
+realtor:2
+home:1
+help:1
+state:2
+purchase:1
+license:1

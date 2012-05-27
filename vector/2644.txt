@@ -1,0 +1,3 @@
+forgive:1
+stupidness:1
+zealander:1

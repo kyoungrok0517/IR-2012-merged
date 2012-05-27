@@ -1,0 +1,13 @@
+cat:1
+made:1
+hairballs:2
+bengal:2
+haired:1
+short:1
+generally:1
+called:1
+longer:1
+won:1
+hair:1
+coat:2
+produce:1

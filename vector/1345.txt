@@ -1,0 +1,8 @@
+ride:1
+car:1
+days:2
+give:1
+hours:1
+airplane:1
+enjoy:1
+hard:1

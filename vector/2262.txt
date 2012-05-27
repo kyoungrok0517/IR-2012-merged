@@ -1,0 +1,5 @@
+give:1
+doubt:1
+will:1
+sense:1
+make:1

@@ -1,0 +1,14 @@
+lost:1
+spikes:1
+visible:1
+orchids:1
+growing:1
+orchid:1
+start:1
+read:1
+cut:1
+stem:1
+ago:1
+flower:1
+week:1
+september:1

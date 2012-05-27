@@ -1,0 +1,13 @@
+ll:2
+someplace:1
+accept:2
+machines:1
+smaller:1
+cans:1
+clean:1
+meijer:1
+claim:1
+won:1
+stores:1
+picky:1
+kroger:1

@@ -1,0 +1,7 @@
+heaven:1
+social:1
+depend:1
+will:1
+security:1
+foolish:1
+changed:1

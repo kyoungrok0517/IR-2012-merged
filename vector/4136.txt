@@ -1,0 +1,7 @@
+doesn:1
+god:1
+sin:1
+drunk:2
+bad:1
+mind:1
+want:1

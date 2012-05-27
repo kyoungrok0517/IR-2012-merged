@@ -1,0 +1,12 @@
+sort:1
+victims:1
+recipients:1
+future:1
+trust:1
+social:2
+current:1
+crisis:1
+security:2
+directly:1
+small:1
+portion:1

@@ -1,0 +1,12 @@
+months:1
+building:2
+reseach:1
+nova:1
+canada:1
+email:1
+codes:1
+scotia:1
+house:1
+find:1
+online:1
+copy:2

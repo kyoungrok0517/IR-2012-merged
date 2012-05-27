@@ -1,0 +1,7 @@
+thank:2
+paid:1
+collecting:1
+start:1
+contribution:1
+years:2
+working:1

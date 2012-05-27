@@ -1,0 +1,12 @@
+reaction:1
+talking:1
+allergic:1
+fall:1
+advise:1
+will:1
+incase:1
+whats:1
+stressed:1
+hair:1
+supplements:1
+doctor:2

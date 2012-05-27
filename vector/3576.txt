@@ -1,0 +1,16 @@
+exposure:1
+safe:1
+radiation:1
+don:1
+bed:1
+normal:1
+intense:1
+sun:2
+love:1
+beds:1
+summer:1
+sunbathe:1
+sunshine:2
+evolved:1
+tan:1
+live:1

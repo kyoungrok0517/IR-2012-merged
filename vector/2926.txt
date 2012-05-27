@@ -1,0 +1,4 @@
+president:1
+don:1
+america:1
+honest:1

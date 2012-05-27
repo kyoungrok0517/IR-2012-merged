@@ -1,0 +1,6 @@
+doesn:1
+synthroid:1
+hair:1
+affect:1
+doctor:1
+talk:1

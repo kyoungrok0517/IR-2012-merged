@@ -1,0 +1,8 @@
+time:1
+aren:1
+freak:1
+true:1
+things:1
+people:1
+end:1
+world:1

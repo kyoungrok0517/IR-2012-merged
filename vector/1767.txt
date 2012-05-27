@@ -1,0 +1,13 @@
+site:1
+luck:1
+click:1
+half:1
+good:1
+helps:1
+transforminglives:1
+costs:1
+starts:1
+full:1
+grand:1
+description:1
+hope:1

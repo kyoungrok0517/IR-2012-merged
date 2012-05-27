@@ -1,0 +1,4 @@
+faster:1
+damage:1
+sun:1
+skin:1

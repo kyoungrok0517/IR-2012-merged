@@ -1,0 +1,14 @@
+plague:1
+fight:1
+travel:1
+people:2
+running:1
+eventually:1
+hindered:1
+ran:1
+simply:2
+strong:1
+illness:1
+survived:1
+spread:1
+didn:1

@@ -1,0 +1,12 @@
+index:1
+source:1
+regionid:1
+mexico:1
+regional:2
+php:2
+earthquake:2
+excellent:1
+historical:1
+world:2
+country:1
+usgs:3

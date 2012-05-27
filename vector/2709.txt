@@ -1,0 +1,5 @@
+alot:1
+errors:1
+spelling:1
+good:1
+grammar:1

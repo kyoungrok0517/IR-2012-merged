@@ -1,0 +1,13 @@
+problems:1
+thailand:1
+enviroment:1
+expensive:1
+amount:1
+life:1
+predict:1
+guess:1
+will:2
+due:1
+years:1
+situation:1
+philippines:1

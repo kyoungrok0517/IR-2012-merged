@@ -1,0 +1,6 @@
+guy:1
+will:1
+settle:1
+wants:1
+find:1
+treat:1

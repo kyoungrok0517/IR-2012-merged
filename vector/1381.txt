@@ -1,0 +1,4 @@
+approved:1
+safety:1
+long:1
+dot:1

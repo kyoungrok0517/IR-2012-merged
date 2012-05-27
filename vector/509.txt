@@ -1,0 +1,6 @@
+real:1
+salesperson:1
+jersey:1
+wondering:1
+exam:1
+estate:1

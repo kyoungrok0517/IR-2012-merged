@@ -1,0 +1,14 @@
+work:3
+home:1
+decide:1
+don:1
+check:1
+website:1
+hours:1
+boss:1
+asuccessfultomorrow:1
+love:2
+help:1
+money:1
+make:1
+want:2

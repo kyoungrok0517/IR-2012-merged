@@ -1,0 +1,7 @@
+person:1
+icebergs:1
+truth:1
+supposed:1
+needed:1
+key:1
+room:1

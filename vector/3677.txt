@@ -1,0 +1,5 @@
+need:1
+real:1
+girlfriend:1
+friend:1
+talk:1

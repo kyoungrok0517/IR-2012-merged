@@ -1,0 +1,5 @@
+lovable:1
+beautiful:1
+baby:1
+beagator:1
+animal:1

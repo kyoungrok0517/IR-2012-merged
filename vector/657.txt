@@ -1,0 +1,9 @@
+clouds:1
+stormy:1
+smokey:1
+dogs:1
+sky:1
+tht:1
+rainy:1
+names:1
+grayish:1

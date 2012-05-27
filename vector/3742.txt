@@ -1,0 +1,16 @@
+need:2
+person:1
+anil:1
+stress:1
+yrs:1
+reduce:1
+help:1
+height:1
+basically:1
+cm:1
+wahi:1
+spouse:1
+mental:1
+companion:1
+age:2
+friend:1

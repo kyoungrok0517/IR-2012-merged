@@ -1,0 +1,17 @@
+work:1
+companies:1
+class:1
+taking:2
+pass:1
+sign:1
+real:3
+order:2
+company:1
+undergo:1
+will:1
+mean:1
+require:1
+license:1
+sponsored:1
+exam:4
+estate:3

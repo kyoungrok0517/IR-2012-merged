@@ -1,0 +1,9 @@
+work:1
+sex:1
+hear:1
+opposite:1
+pheromones:1
+perfumes:1
+attract:1
+natural:1
+scented:1

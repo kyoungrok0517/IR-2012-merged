@@ -1,0 +1,5 @@
+plague:1
+wikipedia:2
+en:1
+wiki:1
+black:1

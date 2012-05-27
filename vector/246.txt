@@ -1,0 +1,7 @@
+turn:1
+easy:1
+dont:1
+metn:1
+adjust:1
+switch:1
+likey:1

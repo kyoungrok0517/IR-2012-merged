@@ -1,0 +1,6 @@
+wounds:1
+time:1
+heal:1
+mean:1
+healing:1
+forgiveness:1

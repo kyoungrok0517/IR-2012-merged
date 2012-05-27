@@ -1,0 +1,6 @@
+drink:1
+fsm:1
+will:1
+stripper:1
+factory:1
+paradise:1

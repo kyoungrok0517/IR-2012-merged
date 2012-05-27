@@ -1,0 +1,12 @@
+free:1
+market:1
+needs:1
+continue:1
+propped:1
+will:1
+bail:1
+punished:1
+mismanagement:1
+outs:1
+needing:1
+businesses:1

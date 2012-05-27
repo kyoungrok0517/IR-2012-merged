@@ -1,0 +1,13 @@
+music:1
+drugs:1
+isn:1
+sad:1
+choices:1
+talent:1
+artists:1
+throw:1
+judge:1
+lifestyle:1
+place:1
+make:1
+respect:1

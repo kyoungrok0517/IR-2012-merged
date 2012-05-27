@@ -1,0 +1,3 @@
+sympathizer:1
+communist:1
+accused:1

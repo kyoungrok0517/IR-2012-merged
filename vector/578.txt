@@ -1,0 +1,14 @@
+breed:1
+screwed:1
+larger:1
+means:2
+pack:1
+long:1
+reproduce:1
+food:1
+hunt:1
+feed:1
+decrease:1
+energy:1
+deer:2
+population:1

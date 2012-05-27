@@ -1,0 +1,7 @@
+personal:1
+matter:1
+makes:1
+special:1
+rates:1
+opinion:1
+places:1

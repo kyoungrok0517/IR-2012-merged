@@ -1,0 +1,14 @@
+put:1
+generate:1
+aren:1
+choices:1
+solar:1
+heat:2
+rays:1
+sun:1
+help:1
+cover:2
+pool:1
+will:2
+retain:1
+cloudy:1

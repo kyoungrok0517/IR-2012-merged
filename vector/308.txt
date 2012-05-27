@@ -1,0 +1,17 @@
+body:2
+don:1
+matter:1
+needs:1
+focuses:1
+lent:1
+depression:1
+energize:1
+toll:1
+solve:1
+takes:1
+sacrificing:1
+heard:1
+spiritual:1
+food:2
+things:1
+attention:1

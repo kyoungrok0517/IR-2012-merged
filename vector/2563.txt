@@ -1,0 +1,3 @@
+lights:1
+started:1
+shaking:1

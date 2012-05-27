@@ -1,0 +1,6 @@
+love:1
+met:1
+japan:1
+food:1
+mexican:2
+people:1

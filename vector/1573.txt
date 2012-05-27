@@ -1,0 +1,13 @@
+born:1
+increased:1
+partial:2
+long:1
+planned:1
+reach:1
+time:1
+full:2
+thinking:1
+age:2
+will:1
+increase:1
+benefits:4

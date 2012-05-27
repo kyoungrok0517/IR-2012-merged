@@ -1,0 +1,10 @@
+car:1
+hurt:1
+heard:1
+couldn:1
+ve:2
+swap:1
+loan:1
+surprise:1
+agree:1
+lender:2

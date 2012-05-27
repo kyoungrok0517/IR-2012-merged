@@ -1,0 +1,6 @@
+americans:1
+fought:1
+french:1
+saigon:1
+invaders:1
+raft:1

@@ -1,0 +1,14 @@
+loss:1
+don:1
+status:1
+change:1
+penalties:2
+earning:1
+retirement:1
+paid:1
+money:1
+pay:2
+account:1
+supposedly:1
+paying:1
+taxes:3

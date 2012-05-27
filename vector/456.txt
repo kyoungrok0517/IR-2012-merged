@@ -1,0 +1,17 @@
+apply:1
+america:1
+watt:1
+writing:1
+bulbs:2
+past:1
+idk:1
+owned:1
+lamps:1
+lava:1
+bulb:1
+worked:1
+years:1
+trick:1
+ive:1
+perfect:1
+appliance:2

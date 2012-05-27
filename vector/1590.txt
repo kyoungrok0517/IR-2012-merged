@@ -1,0 +1,5 @@
+world:1
+move:1
+friend:1
+live:1
+country:1

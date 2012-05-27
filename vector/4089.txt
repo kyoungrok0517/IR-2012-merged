@@ -1,0 +1,16 @@
+moving:1
+makes:1
+magma:1
+made:2
+erupt:1
+tectonic:2
+long:1
+push:1
+plates:2
+maga:1
+volcanoes:2
+pushed:1
+hot:2
+earth:1
+built:1
+crust:1

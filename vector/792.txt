@@ -1,0 +1,9 @@
+plant:1
+laws:1
+impossible:1
+encounter:1
+regions:1
+make:1
+agricultural:1
+parasitic:1
+find:1

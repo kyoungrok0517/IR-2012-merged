@@ -1,0 +1,4 @@
+history:1
+real:1
+people:1
+country:1

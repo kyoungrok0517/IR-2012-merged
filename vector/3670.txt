@@ -1,0 +1,6 @@
+author:1
+remember:1
+moon:1
+suffering:1
+depression:1
+wicked:1

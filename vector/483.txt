@@ -1,0 +1,12 @@
+paraffin:1
+water:1
+lamps:1
+mineral:2
+consist:1
+lava:1
+carbon:1
+wax:1
+suggestions:1
+tetrachloride:1
+find:1
+oil:2

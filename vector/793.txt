@@ -1,0 +1,4 @@
+christmas:1
+trees:1
+sells:1
+place:1

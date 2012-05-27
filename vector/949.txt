@@ -1,0 +1,5 @@
+don:2
+care:1
+cheater:1
+material:1
+oscar:1

@@ -1,0 +1,10 @@
+life:2
+guy:1
+phillipinnes:1
+thailand:2
+retired:1
+lot:1
+cheaper:1
+chance:1
+settle:1
+comfortable:1

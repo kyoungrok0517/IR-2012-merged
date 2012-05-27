@@ -1,0 +1,10 @@
+janis:1
+safe:1
+famous:1
+cobain:1
+jimmi:1
+hendrix:1
+joplin:1
+musician:1
+kurt:1
+main:1

@@ -1,0 +1,11 @@
+position:1
+satellite:1
+principle:1
+receiver:1
+clock:1
+needs:1
+actual:1
+gps:1
+synchronise:1
+triangulation:1
+relative:1

@@ -1,0 +1,9 @@
+temple:1
+born:2
+fight:1
+preahvihear:1
+thailand:1
+century:3
+funun:1
+built:1
+cambodia:1

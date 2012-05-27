@@ -1,0 +1,8 @@
+symptoms:1
+hypothyroid:1
+loss:2
+isn:1
+meds:1
+years:1
+disease:1
+hair:2

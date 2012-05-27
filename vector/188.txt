@@ -1,0 +1,10 @@
+explode:1
+met:1
+guy:1
+will:2
+nice:1
+earth:1
+wanna:1
+date:2
+end:1
+world:1

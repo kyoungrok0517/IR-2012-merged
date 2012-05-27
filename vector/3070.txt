@@ -1,0 +1,7 @@
+respiration:1
+precipiation:1
+photosynthesis:1
+evaporation:1
+removes:2
+transpiration:1
+returns:3

@@ -1,0 +1,5 @@
+prime:1
+common:1
+greatest:1
+factor:3
+end:1

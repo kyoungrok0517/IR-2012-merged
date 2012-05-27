@@ -1,0 +1,13 @@
+processes:2
+water:2
+cycle:1
+state:1
+atmosphere:2
+process:1
+precipiation:1
+evaporation:1
+removes:1
+name:1
+transpiration:1
+fromthe:1
+returns:1

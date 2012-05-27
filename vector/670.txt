@@ -1,0 +1,4 @@
+dressing:1
+abuse:1
+dog:1
+animal:1

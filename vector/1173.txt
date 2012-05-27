@@ -1,0 +1,4 @@
+authenticaed:1
+worth:1
+ruth:1
+piece:1

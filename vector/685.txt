@@ -1,0 +1,16 @@
+need:1
+dogs:1
+dachshund:1
+set:1
+makes:1
+dwafs:1
+back:1
+technically:1
+long:1
+backs:1
+short:1
+length:2
+dachshunds:2
+legs:1
+dog:1
+find:1

@@ -1,0 +1,5 @@
+mother:1
+dna:2
+mitochondra:1
+men:1
+females:1

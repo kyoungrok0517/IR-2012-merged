@@ -1,0 +1,17 @@
+final:1
+stay:1
+bed:2
+scared:1
+mins:1
+long:1
+im:1
+sun:1
+destination:1
+beds:1
+dont:1
+tanning:3
+will:1
+ve:1
+day:1
+knda:1
+happen:1

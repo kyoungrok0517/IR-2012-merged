@@ -1,0 +1,12 @@
+genetics:1
+girls:1
+lost:1
+weight:1
+bmi:1
+healthily:1
+case:1
+period:1
+low:1
+depends:1
+natural:1
+size:1

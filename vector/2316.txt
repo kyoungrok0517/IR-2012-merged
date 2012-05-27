@@ -1,0 +1,15 @@
+person:1
+makes:1
+stronger:1
+answer:2
+tornadoes:1
+factual:1
+thank:1
+help:1
+accurate:1
+complete:1
+thourough:1
+will:1
+formed:1
+thoughtful:1
+advance:1

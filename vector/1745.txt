@@ -1,0 +1,17 @@
+climb:1
+wind:1
+passed:1
+lianas:1
+fruits:1
+ground:1
+easily:1
+germinate:1
+birds:1
+bromeliads:1
+orchid:1
+grow:1
+eaten:1
+trees:1
+seeds:2
+blown:1
+small:1

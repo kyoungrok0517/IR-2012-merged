@@ -1,0 +1,14 @@
+person:1
+television:1
+movie:2
+bad:1
+kind:1
+emotion:1
+depressed:1
+time:1
+felt:1
+inside:1
+year:1
+mind:1
+cried:1
+week:1

@@ -1,0 +1,15 @@
+wasnt:1
+cleanup:1
+hitter:1
+retired:1
+back:1
+number:2
+team:1
+yankees:1
+babe:1
+ruth:1
+spot:1
+batting:2
+power:1
+wore:1
+lineup:1

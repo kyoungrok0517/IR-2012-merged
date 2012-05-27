@@ -1,0 +1,5 @@
+camel:1
+gift:1
+future:1
+humped:1
+eye:1

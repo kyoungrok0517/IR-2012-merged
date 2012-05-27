@@ -1,0 +1,3 @@
+breed:1
+dollars:1
+yorkies:1

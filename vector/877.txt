@@ -1,0 +1,17 @@
+million:1
+coasts:1
+descent:1
+japanese:1
+north:1
+people:2
+section:1
+silly:1
+brazil:1
+japan:1
+mexicans:1
+american:1
+popular:1
+generalizing:1
+lot:1
+south:1
+west:1

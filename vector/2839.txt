@@ -1,0 +1,7 @@
+work:1
+japan:1
+mexico:1
+wouldn:1
+italy:1
+live:1
+austrailia:1

@@ -1,0 +1,9 @@
+labor:1
+excellence:1
+moral:1
+god:1
+commitment:1
+cafe:1
+worship:2
+worshipping:1
+golden:1

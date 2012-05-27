@@ -1,0 +1,12 @@
+breed:1
+breeding:1
+ppl:1
+dont:1
+shelters:1
+pets:1
+die:1
+bcuz:2
+plz:1
+long:1
+helpless:1
+fixed:1

@@ -1,0 +1,10 @@
+behalf:1
+god:1
+intentions:2
+will:1
+bargaining:1
+pray:1
+special:1
+purpose:1
+fast:1
+friend:1

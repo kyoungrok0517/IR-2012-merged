@@ -1,0 +1,13 @@
+law:1
+enforcement:1
+drivers:1
+bright:1
+cop:1
+white:2
+helmet:2
+officers:1
+fact:1
+color:1
+motorcycle:1
+assume:1
+slow:1

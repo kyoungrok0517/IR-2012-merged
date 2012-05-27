@@ -1,0 +1,12 @@
+paid:1
+area:1
+test:1
+dna:1
+specific:1
+dont:1
+luck:1
+told:1
+breeder:1
+prices:1
+good:1
+ny:1

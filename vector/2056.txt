@@ -1,0 +1,10 @@
+need:1
+information:1
+help:2
+written:1
+write:1
+lot:1
+essay:2
+things:1
+im:1
+powerpoin:1

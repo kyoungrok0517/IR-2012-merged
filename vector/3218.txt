@@ -1,0 +1,5 @@
+narrow:1
+time:1
+question:1
+period:1
+helpful:1

@@ -1,0 +1,11 @@
+parents:1
+common:1
+older:1
+boss:1
+casual:1
+wave:1
+gender:1
+people:2
+friend:1
+acquittances:1
+vow:1

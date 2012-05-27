@@ -1,0 +1,3 @@
+secure:1
+bonds:1
+gold:1

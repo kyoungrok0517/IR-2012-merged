@@ -1,0 +1,8 @@
+violate:1
+parents:1
+students:1
+attire:1
+school:1
+standard:1
+rights:1
+enforcing:1

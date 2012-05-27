@@ -1,0 +1,15 @@
+region:1
+sweden:1
+scotland:1
+uk:1
+scandinavia:2
+celts:1
+made:1
+scottish:1
+people:1
+norway:1
+modern:1
+vikings:1
+ancestors:1
+east:1
+denmark:1

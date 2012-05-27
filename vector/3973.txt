@@ -1,0 +1,2 @@
+center:1
+recycle:1
