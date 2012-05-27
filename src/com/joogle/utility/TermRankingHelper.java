@@ -14,6 +14,8 @@ public class TermRankingHelper {
 	private List<Map<String, Integer>> corpus_vectors;
 	private Map<String, Integer> corpus_vector_merged;
 
+	private static PorterStemmer stemmer = new PorterStemmer();
+	
 	public TermRankingHelper() {
 
 	}
