@@ -13,7 +13,7 @@ public class TermRankingHelper {
 
 	private List<Map<String, Integer>> corpus_vectors;
 	private Map<String, Integer> corpus_vector_merged;
-	
+
 	public TermRankingHelper() {
 
 	}
@@ -91,6 +91,9 @@ public class TermRankingHelper {
 				tf += vector.get(term);
 			}
 		}
+		
+		System.out.println("Document lenght: " + doc_length);
+		System.out.println(vocabulary.size());
 
 		int B = vocabulary.size();
 		return (tf + 1) / (doc_length + B);
