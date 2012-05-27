@@ -10,8 +10,26 @@ import java.util.StringTokenizer;
 public class Tokenizer {
 	private static List<String> stopwords;
 
+	public static List<String> tokenizeWithoutStemming(String text) {
+		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
+		String pattern = "(?i)[^A-Z]";
+		String strippedString = text.replaceAll(pattern, " ");
+		StringTokenizer tokenizer = new StringTokenizer(strippedString,
+				" \t\r\n");
+
+		List<String> tokens = new ArrayList<String>();
+		while (tokenizer.hasMoreTokens()) {
+			String token = tokenizer.nextToken().toLowerCase();
+
+			if (!stopwords.contains(token)) {
+				tokens.add(token);
+			}
+		}
+
+		return tokens;
+	}
+	
 	public static List<String> tokenize(String text) {
-		// TODO: 여기서 stopword 제거, 소문자화, stemming 등을 모두 처리
 		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
 		String pattern = "(?i)[^A-Z]";
 		String strippedString = text.replaceAll(pattern, " ");

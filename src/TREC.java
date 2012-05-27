@@ -79,7 +79,9 @@ public class TREC {
 		// trec.search("E:/석사2_1/IR/proj/IR_Proj/dat/trec_index_stem_stop",
 		// "dat/query.txt", "dat/bing/");
 
-		trec.makeEvaluateFile("dat/basic/", "dat/result.txt");
+//		trec.makeEvaluateFile("dat/basic/", "dat/result.txt");
+		
+		trec.search("dat/trec_index_stem_stop");
 	}
 
 	private static List<Map<String, Integer>> populateCorpusVectors(String dir) {
@@ -317,7 +319,7 @@ public class TREC {
 
 	private static String getNormalizedQuery(String query,
 			List<String> stopwords) {
-		List<String> query_tokens = Tokenizer.tokenize(query);
+		List<String> query_tokens = Tokenizer.tokenizeWithoutStemming(query);
 		String query_modified = "";
 
 		for (String term : query_tokens) {
