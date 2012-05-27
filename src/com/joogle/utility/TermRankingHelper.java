@@ -13,8 +13,6 @@ public class TermRankingHelper {
 
 	private List<Map<String, Integer>> corpus_vectors;
 	private Map<String, Integer> corpus_vector_merged;
-
-	private static PorterStemmer stemmer = new PorterStemmer();
 	
 	public TermRankingHelper() {
 
@@ -28,6 +26,7 @@ public class TermRankingHelper {
 		this.corpus_vector_merged = corpus_vector_merged;
 		this.prf_docs = prf_docs;
 
+		// dynamically generate term vectors from PRF documents
 		for (String doc : prf_docs) {
 			Map<String, Integer> doc_vector = getTermVector(doc);
 			prf_doc_vectors.add(doc_vector);
