@@ -1,1 +1,9 @@
-condolences:1
+need:1
+peopl:1
+cheat:1
+thank:1
+help:2
+countrysid:1
+friendli:1
+confus:1
+move:1

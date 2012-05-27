@@ -1,6 +1,4 @@
-dachshund:1
-spifffffffff:1
-hamster:1
-dead:1
-want:1
-ifr:1
+stai:1
+influenc:1
+bad:1
+drug:1

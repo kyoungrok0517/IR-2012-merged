@@ -1,7 +1,2 @@
-ot:1
-books:1
-written:1
-wrote:1
-moses:1
-bible:1
-included:1
+soi:1
+milk:1

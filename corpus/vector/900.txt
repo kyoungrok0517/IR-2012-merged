@@ -1,9 +1,0 @@
-price:1
-iifa:1
-buy:1
-awards:1
-seats:1
-ticketfront:1
-reasonable:1
-tickets:1
-online:1

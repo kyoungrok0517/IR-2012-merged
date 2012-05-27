@@ -1,8 +1,3 @@
-source:1
-don:1
-wikipedia:1
-dromedary:1
-en:1
-wiki:1
-rolls:1
-eyes:1
+cultur:1
+mexican:1
+food:1

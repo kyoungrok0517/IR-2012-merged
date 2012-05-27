@@ -1,9 +1,3 @@
-prophecy:1
-heaven:1
-movie:1
-son:1
-mark:1
-hour:1
-day:1
-angels:1
-father:1
+help:1
+homework:1
+hope:1

@@ -1,6 +1,2 @@
-transplant:2
-hairt:1
-doctors:1
-teens:1
-hair:1
-young:1
+don:1
+heard:1

@@ -1,10 +1,7 @@
-replace:1
-pool:1
-buy:1
-screw:1
-christmas:1
-tips:2
-hubby:1
-wanna:1
-leather:1
-cue:1
+god:1
+di:1
+bless:1
+plz:1
+soul:1
+respect:1
+innoc:1

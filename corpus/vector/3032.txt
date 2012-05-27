@@ -1,4 +1,10 @@
-great:1
-luck:1
-good:1
-vitamin:1
+depress:1
+buddhism:2
+dont:1
+answer:1
+buddhist:1
+dai:1
+show:1
+im:1
+ask:1
+user:1

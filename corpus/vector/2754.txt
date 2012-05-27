@@ -1,5 +1,1 @@
-wild:1
-food:1
-will:1
-eat:1
-live:1
+sweet:1

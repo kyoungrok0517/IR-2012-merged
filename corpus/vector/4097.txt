@@ -1,9 +1,9 @@
-moutain:1
 need:1
-project:1
-school:1
-made:1
-ranges:1
-volcanoes:2
-conclusion:1
-im:1
+deelei:1
+animos:1
+pregnant:1
+jennif:1
+bad:1
+didnt:1
+aniston:1
+ask:2

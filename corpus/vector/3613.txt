@@ -1,9 +1,8 @@
-risk:1
-expose:1
-uv:1
-high:1
-skinned:1
-light:1
-fair:1
-cancer:1
-skin:1
+heard:1
+slang:1
+ve:1
+mean:1
+word:1
+virgin:1
+nativ:1
+island:1

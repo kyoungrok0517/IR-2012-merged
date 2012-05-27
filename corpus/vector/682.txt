@@ -1,8 +1,6 @@
-dachshund:1
-dressed:1
-ate:1
-costume:2
-wizard:1
-navy:1
-halloween:1
-sale:1
+million:1
+wide:1
+fifti:1
+world:1
+copi:1
+sold:1

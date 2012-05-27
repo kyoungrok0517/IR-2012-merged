@@ -1,2 +1,5 @@
-horse:1
-fair:1
+kavel:1
+answer:1
+past:1
+spammer:1
+copi:1

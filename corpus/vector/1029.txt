@@ -1,11 +1,6 @@
-snappy:1
-commericals:1
-song:1
-television:1
-understand:1
-happy:1
-sound:1
-play:1
-word:1
-unrecognizable:1
-pretty:1
+scotland:1
+inhabit:1
+come:1
+year:1
+thousand:1
+vike:1

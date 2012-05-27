@@ -1,4 +1,3 @@
-need:1
-spelling:1
-grammar:1
-repetition:1
+heard:1
+rubbish:1
+talk:1

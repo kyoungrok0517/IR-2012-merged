@@ -1,5 +1,12 @@
-member:1
-woman:1
-family:1
-children:1
-man:1
+futur:1
+school:2
+sort:2
+don:1
+student:1
+skill:1
+employe:1
+dress:2
+busi:1
+learn:1
+polici:2
+prepar:1

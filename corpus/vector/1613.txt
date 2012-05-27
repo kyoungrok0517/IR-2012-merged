@@ -1,4 +1,0 @@
-cobain:1
-song:1
-nirvana:1
-dead:1

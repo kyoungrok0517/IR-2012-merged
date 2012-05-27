@@ -1,10 +1,2 @@
-jim:1
-janis:1
-cobain:1
-hendrix:1
-morrison:1
-joplin:1
-johnson:1
-jimi:1
-kurt:1
-robert:1
+easi:1
+answer:1

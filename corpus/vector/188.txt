@@ -1,10 +1,7 @@
-explode:1
-met:1
-guy:1
-will:2
-nice:1
-earth:1
-wanna:1
-date:2
-end:1
-world:1
+collector:1
+autograph:1
+jack:1
+check:1
+year:1
+basebal:1
+heir:1

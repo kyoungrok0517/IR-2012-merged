@@ -1,5 +1,4 @@
-rutgers:1
-will:1
-alabama:1
-graduates:2
-hire:1
+born:1
+guess:1
+coincid:1
+idk:1

@@ -1,9 +1,2 @@
-fact:1
-yep:1
-czars:1
-high:2
-communists:1
-people:1
-ranking:2
-obama:1
-acorn:1
+butter:1
+coco:1

@@ -1,8 +1,9 @@
-fashion:2
-stuff:1
-outdoors:1
-lot:1
-theater:2
-people:1
-mall:1
-island:2
+need:2
+steroid:2
+don:2
+shouldn:1
+care:1
+hobbi:1
+ag:1
+want:2
+find:1

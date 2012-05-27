@@ -1,5 +1,7 @@
-time:1
-free:1
-woman:1
-slaves:1
-man:1
+memori:1
+help:1
+transport:1
+search:1
+snell:1
+dept:1
+foundat:1

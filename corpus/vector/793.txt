@@ -1,4 +1,6 @@
-christmas:1
-trees:1
-sells:1
-place:1
+damag:1
+prove:1
+caus:1
+plastic:1
+piec:1
+jaw:1

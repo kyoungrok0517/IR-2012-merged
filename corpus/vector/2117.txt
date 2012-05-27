@@ -1,2 +1,7 @@
-unions:1
-word:1
+inappropri:1
+terribl:1
+bore:1
+horrend:1
+situat:1
+live:1
+congrat:1

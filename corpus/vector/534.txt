@@ -1,0 +1,4 @@
+japanes:1
+choic:1
+wouldn:1
+immigr:1

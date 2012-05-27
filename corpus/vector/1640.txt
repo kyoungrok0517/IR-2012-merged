@@ -1,4 +1,9 @@
-stay:1
-drugs:1
-influence:1
-bad:1
+phone:1
+kite:1
+aeronaut:1
+hydrofoil:1
+figur:1
+photo:1
+microscop:1
+er:1
+triangular:1

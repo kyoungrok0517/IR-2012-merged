@@ -1,8 +1,2 @@
-bearer:1
-michaels:1
-paul:1
-shawn:1
-batista:1
-clean:1
-taker:1
-cena:1
+bias:1
+cnn:1

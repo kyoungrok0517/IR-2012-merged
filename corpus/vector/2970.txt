@@ -1,4 +1,8 @@
-belief:1
-nope:1
-faith:1
-proof:1
+depress:1
+moon:1
+fly:1
+md:1
+bipolar:1
+mania:1
+logu:2
+journei:1

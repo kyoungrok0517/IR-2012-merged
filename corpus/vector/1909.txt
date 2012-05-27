@@ -1,1 +1,14 @@
-majorly:1
+water:1
+fbt:1
+toxin:1
+speci:1
+kill:1
+smaller:1
+skin:1
+point:1
+requir:1
+toxic:1
+seper:1
+will:1
+toad:3
+lunch:1

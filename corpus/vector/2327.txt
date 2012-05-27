@@ -1,2 +1,8 @@
-easy:1
-aren:1
+ride:1
+car:2
+recycl:1
+throw:2
+trash:2
+ground:1
+electr:1
+walk:1

@@ -1,5 +1,8 @@
-plague:1
-wikipedia:2
-en:1
-wiki:1
-black:1
+give:1
+infant:1
+month:1
+ag:1
+recommend:1
+honei:1
+botul:1
+doctor:1

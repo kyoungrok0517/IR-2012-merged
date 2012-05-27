@@ -1,4 +1,8 @@
-james:1
-earl:1
-jones:1
-dog:1
+mountain:1
+focu:1
+stand:1
+name:1
+stupid:1
+care:1
+climber:1
+lie:1

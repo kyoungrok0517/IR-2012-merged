@@ -1,3 +1,14 @@
-pelosi:1
-reid:1
-obama:1
+purchas:1
+depart:1
+mortgag:4
+guarante:1
+regul:2
+hous:2
+fha:2
+financ:1
+rate:1
+veteran:1
+insur:1
+interest:1
+administr:1
+va:2

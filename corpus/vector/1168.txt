@@ -1,7 +1,3 @@
-real:1
-gave:1
-great:1
-boston:1
-grandfather:1
-ruth:1
-babe:1
+dogtown:1
+watch:1
+lord:1

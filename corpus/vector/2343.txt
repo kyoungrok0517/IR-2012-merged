@@ -1,2 +1,5 @@
-god:1
-sneezes:1
+weigh:1
+bmi:1
+pb:1
+wonder:1
+im:2

@@ -1,0 +1,6 @@
+doppler:1
+system:1
+poor:1
+almanac:1
+richard:1
+radar:1

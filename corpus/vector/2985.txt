@@ -1,10 +1,4 @@
-jobs:1
-bacteria:1
-wealth:1
-eating:1
-keeping:1
-capitalists:1
-run:1
-taking:1
-world:2
-main:1
+jacket:1
+face:1
+north:1
+wear:1

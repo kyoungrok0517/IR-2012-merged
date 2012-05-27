@@ -1,11 +1,2 @@
-destroy:1
-labor:1
-stop:1
 don:1
-wasteful:1
-economy:1
-money:1
-liberal:1
-manage:1
-party:1
-spending:1
+pippl:1

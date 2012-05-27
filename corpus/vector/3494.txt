@@ -1,0 +1,11 @@
+bit:1
+cat:2
+put:1
+don:1
+fight:1
+ey:1
+late:1
+will:1
+dai:1
+hour:1
+room:1

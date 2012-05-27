@@ -1,0 +1,12 @@
+amount:1
+short:1
+invest:1
+specif:1
+idea:1
+fall:1
+will:1
+track:1
+good:1
+retir:3
+ag:1
+monei:1

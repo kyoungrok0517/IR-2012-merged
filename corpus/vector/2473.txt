@@ -1,5 +1,6 @@
-hearing:1
-impaired:1
-helping:1
-recall:1
-interested:1
+histori:1
+year:1
+angkor:1
+templ:1
+wat:1
+betwwen:1

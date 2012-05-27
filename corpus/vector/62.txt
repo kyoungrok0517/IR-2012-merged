@@ -1,4 +1,1 @@
-body:1
-food:1
-needs:1
-energy:1
+thelocalsfavorit:1

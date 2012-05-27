@@ -1,0 +1,15 @@
+safe:1
+don:1
+bed:2
+normal:1
+exposur:1
+radiat:1
+intens:1
+sun:2
+love:1
+evolv:1
+sunbath:1
+summer:1
+sunshin:2
+tan:1
+live:1

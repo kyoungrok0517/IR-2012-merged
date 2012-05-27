@@ -1,8 +1,2 @@
-product:1
-fence:1
-liquid:1
-called:1
-will:1
-eat:1
-hungry:1
-deer:1
+calcul:1
+savingsbond:1

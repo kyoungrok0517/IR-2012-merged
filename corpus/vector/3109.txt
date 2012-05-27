@@ -1,6 +1,0 @@
-check:1
-fitness:1
-bmi:1
-fitnessmagazine:1
-calculators:1
-shape:1

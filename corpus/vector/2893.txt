@@ -1,6 +1,11 @@
-love:1
-define:1
-urbandictionary:1
-term:1
-texas:2
-php:1
+amount:1
+bodi:1
+effect:1
+give:1
+speed:1
+uv:1
+bed:1
+will:1
+vitamin:1
+sun:1
+tan:1

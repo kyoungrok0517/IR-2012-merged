@@ -1,2 +1,4 @@
-derailed:1
-pretty:1
+prime:1
+common:1
+highest:1
+factor:1

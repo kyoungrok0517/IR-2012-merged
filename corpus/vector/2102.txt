@@ -1,2 +1,10 @@
-crime:1
-perfect:1
+elect:1
+mp:1
+shut:1
+mayor:1
+wreck:1
+mouth:1
+train:1
+ass:1
+big:1
+lopsid:1

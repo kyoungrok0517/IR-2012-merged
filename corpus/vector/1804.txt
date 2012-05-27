@@ -1,14 +1,3 @@
-need:1
-selling:1
-cues:1
-made:1
-comps:1
-number:1
-win:1
-cue:1
-market:1
-dont:1
-quality:1
-saving:1
-lucasi:2
-custom:1
+lol:1
+alert:1
+douch:1

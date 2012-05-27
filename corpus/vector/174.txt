@@ -1,10 +1,4 @@
-onyl:1
-doesn:1
-calander:2
-reason:1
-will:1
-year:1
-runs:2
-mayans:1
-end:2
-world:2
+earl:1
+jame:1
+jone:1
+dog:1

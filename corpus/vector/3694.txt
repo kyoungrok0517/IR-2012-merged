@@ -1,2 +1,13 @@
-tv:1
-good:1
+ugh:1
+weight:1
+don:2
+fat:1
+suck:1
+hungri:1
+worri:1
+gain:1
+twig:1
+eat:1
+wrong:1
+want:2
+thing:1

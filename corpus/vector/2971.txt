@@ -1,9 +1,2 @@
-spiritual:1
-facts:1
-perseverance:1
-faith:1
-proof:1
-problem:1
-require:1
-matters:1
-science:1
+search:1
+amazon:1

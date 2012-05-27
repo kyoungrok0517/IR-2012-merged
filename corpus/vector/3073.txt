@@ -1,9 +1,8 @@
-water:1
-presnt:1
-form:1
-oxygen:2
-compunds:1
-hydrogen:2
-combine:1
-atmosphere:1
-molecular:2
+statement:1
+gui:1
+idea:1
+give:1
+obes:1
+stress:1
+number:1
+thesi:1

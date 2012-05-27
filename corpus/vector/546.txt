@@ -1,2 +1,10 @@
-topic:1
-hot:1
+reach:1
+bibl:1
+fact:1
+gospel:1
+check:1
+will:1
+return:1
+mark:1
+nation:1
+jesu:2

@@ -1,8 +1,5 @@
-phone:1
-cans:1
-check:1
-kinds:1
-book:1
-glass:1
-recycler:1
-scrap:1
+kiss:1
+lip:3
+don:1
+care:1
+want:1

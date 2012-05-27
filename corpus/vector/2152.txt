@@ -1,5 +1,2 @@
-call:1
-problems:1
-thyroid:1
-dog:1
-vet:1
+bush:2
+administr:1

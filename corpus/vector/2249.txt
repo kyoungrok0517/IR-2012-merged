@@ -1,2 +1,2 @@
-homework:1
-pretty:1
+scar:1
+perman:1

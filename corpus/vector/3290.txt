@@ -1,4 +1,6 @@
-hypnosis:1
-hypnotherapist:1
-organised:1
-solution:1
+theer:1
+discuss:1
+job:1
+possibl:1
+vers:1
+deuteronomi:1

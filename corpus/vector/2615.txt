@@ -1,1 +1,3 @@
-time:1
+cool:1
+take:1
+drug:1

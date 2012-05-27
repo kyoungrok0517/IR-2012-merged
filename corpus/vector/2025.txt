@@ -1,3 +1,6 @@
-everest:1
-climbed:1
-becasue:1
+work:1
+gener:1
+wors:1
+code:1
+viru:1
+microsoft:1

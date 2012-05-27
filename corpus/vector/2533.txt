@@ -1,5 +1,9 @@
-home:1
-candy:1
-stayed:1
-nice:1
-halloween:1
+wih:1
+color:1
+platinum:1
+diamond:1
+boi:1
+battl:1
+game:1
+accuraci:1
+ds:1

@@ -1,11 +1,5 @@
-love:1
-plans:1
-school:1
-japan:2
-graduate:1
-college:1
-ve:1
-high:1
-move:1
-culture:1
-country:1
+expert:1
+person:1
+dematolog:1
+opinion:1
+listen:1

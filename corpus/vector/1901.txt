@@ -1,7 +1,5 @@
-prime:1
-factored:1
-correct:1
-split:1
-primes:1
-composite:1
-composites:1
+alot:1
+error:1
+good:1
+spell:1
+grammar:1

@@ -1,2 +1,6 @@
-greek:1
-greece:1
+safe:1
+sunless:1
+bed:1
+pale:1
+skin:1
+tan:2

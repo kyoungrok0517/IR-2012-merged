@@ -1,5 +1,11 @@
-newscast:1
-technologies:1
-segment:1
-weather:1
-local:1
+lol:1
+color:1
+peni:1
+flesh:1
+weiner:1
+peach:1
+dog:1
+head:1
+make:1
+foam:1
+hat:1

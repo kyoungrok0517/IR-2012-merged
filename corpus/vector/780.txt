@@ -1,0 +1,10 @@
+red:1
+billion:1
+will:1
+year:1
+earth:1
+bunch:1
+bull:1
+end:1
+sun:1
+giant:1

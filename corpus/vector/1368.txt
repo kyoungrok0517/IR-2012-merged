@@ -1,12 +1,4 @@
-gas:1
-reaction:7
-calcium:6
-solid:5
-added:1
-lithium:6
-aqueous:6
-will:1
-sulfate:6
-nitrate:6
-products:6
-occurs:1
+help:1
+harm:1
+steroid:1
+don:1

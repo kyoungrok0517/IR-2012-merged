@@ -1,3 +1,8 @@
-famous:1
-doesn:1
-matter:1
+prime:3
+thank:1
+number:3
+factor:3
+find:3
+want:1
+quickest:1
+largest:3

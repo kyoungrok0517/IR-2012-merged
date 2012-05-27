@@ -1,0 +1,15 @@
+breed:1
+crisi:1
+million:1
+don:1
+puppi:1
+mill:1
+contribut:1
+shelter:1
+pet:2
+breeder:1
+will:1
+die:1
+needlessli:1
+dog:1
+overpopul:1

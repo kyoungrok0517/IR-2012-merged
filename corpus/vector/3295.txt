@@ -1,6 +1,4 @@
-uniforms:1
-colleges:1
-school:2
-districts:1
-public:1
-notice:1
+work:1
+put:1
+vinegar:1
+trash:1

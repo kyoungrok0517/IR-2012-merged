@@ -1,10 +1,7 @@
-mushroom:1
-responsible:1
-felt:1
-created:1
-death:1
-bomb:1
-thought:1
-cloud:1
-viewing:1
-evil:1
+dry:1
+butter:1
+scar:3
+arm:1
+big:2
+coco:1
+skin:1

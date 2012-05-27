@@ -1,6 +1,11 @@
-realtor:2
-home:1
-help:1
-state:2
-purchase:1
-license:1
+thank:1
+don:1
+sell:1
+california:1
+newport:1
+beach:1
+bui:1
+postcard:2
+websit:2
+want:1
+kind:1

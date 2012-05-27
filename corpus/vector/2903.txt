@@ -1,7 +1,4 @@
-congrats:1
-terrible:1
-boring:1
-horrendously:1
-situation:1
-inappropriate:1
-live:1
+whach:1
+final:1
+feel:1
+destin:1

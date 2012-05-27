@@ -1,4 +1,2 @@
-cells:1
-reproduces:1
-kind:1
-cancer:1
+bet:1
+vancouv:1

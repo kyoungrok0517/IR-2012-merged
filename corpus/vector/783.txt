@@ -1,0 +1,10 @@
+amount:1
+subject:1
+item:1
+agi:1
+deduct:2
+expens:1
+equal:1
+claim:1
+exclus:1
+medic:2

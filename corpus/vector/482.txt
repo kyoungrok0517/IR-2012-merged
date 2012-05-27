@@ -1,7 +1,9 @@
-work:1
-ve:1
-crappy:1
-long:1
-didn:1
-working:1
-quit:1
+arguabl:1
+offens:1
+pa:1
+matter:1
+ey:2
+seper:1
+helmet:1
+protect:2
+wear:1

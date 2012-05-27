@@ -1,8 +1,4 @@
-bell:1
-reis:1
-officially:1
-watson:1
-invent:1
-alexander:1
-telephone:1
-phillip:1
+peopl:1
+real:1
+histori:1
+countri:1

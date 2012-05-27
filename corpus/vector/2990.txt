@@ -1,7 +1,6 @@
-apply:1
-hide:1
-makeup:1
-scars:1
-want:1
-spot:1
-thing:1
+sign:1
+foreclosur:1
+deed:1
+lieu:1
+long:1
+run:1

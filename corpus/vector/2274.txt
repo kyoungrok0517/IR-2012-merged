@@ -1,4 +1,7 @@
-funds:1
-study:3
-requires:1
-quest:2
+heal:2
+agre:1
+trace:1
+leav:1
+ve:1
+wound:1
+complet:1

@@ -1,6 +1,10 @@
-guy:1
-will:1
-settle:1
-wants:1
-find:1
-treat:1
+statement:2
+conclus:1
+assum:1
+gener:1
+yr:2
+dark:3
+induct:1
+salli:3
+scare:3
+confus:1

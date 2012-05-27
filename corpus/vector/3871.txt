@@ -1,2 +1,7 @@
-radiation:1
-blind:1
+water:2
+hunger:1
+crap:1
+help:1
+temporarili:1
+load:1
+reliev:1

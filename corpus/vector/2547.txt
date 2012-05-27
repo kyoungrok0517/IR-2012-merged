@@ -1,6 +1,4 @@
-books:1
-powers:1
-girls:1
-comic:1
-special:1
-heriorens:1
+solut:1
+organis:1
+hypnosi:1
+hypnotherapist:1

@@ -1,3 +1,14 @@
-missing:1
-skilled:1
-labour:1
+wasn:1
+pollut:2
+dioxin:1
+easier:1
+land:1
+natur:1
+pump:1
+surfac:1
+volcano:1
+atmospher:1
+event:1
+lot:1
+wouldn:1
+river:1

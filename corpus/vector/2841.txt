@@ -1,1 +1,14 @@
-japan:1
+lucki:1
+safe:1
+ll:1
+don:1
+exposur:1
+kill:1
+good:1
+melanoma:1
+sun:1
+unsaf:1
+ve:1
+light:1
+tan:1
+chanc:1

@@ -1,5 +1,4 @@
-hygiene:1
-provisions:1
-medical:1
-levels:1
-increased:1
+crap:1
+ditto:1
+blockag:1
+botul:1

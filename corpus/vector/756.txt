@@ -1,11 +1,5 @@
-properly:1
-reading:1
-equivalent:1
-fluorescent:1
-goo:1
-bulb:1
-job:1
-lumens:1
-computing:1
-incandescent:1
-find:1
+link:1
+art:1
+pop:1
+googl:1
+follow:1

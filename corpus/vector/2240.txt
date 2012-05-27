@@ -1,0 +1,11 @@
+de:1
+med:1
+water:1
+mny:1
+iz:1
+acni:1
+rest:1
+lkng:1
+oder:1
+salt:1
+jst:1

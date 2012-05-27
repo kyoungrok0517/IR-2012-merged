@@ -1,2 +1,11 @@
-realtor:1
-check:1
+peopl:2
+common:1
+older:1
+casual:1
+boss:1
+wave:1
+acquitt:1
+gender:1
+parent:1
+friend:1
+vow:1

@@ -1,7 +1,8 @@
-rouge:1
-pol:1
-wikipedia:2
-en:2
-khmer:1
-wiki:2
-pot:1
+peopl:1
+diseas:2
+prevent:1
+outweigh:1
+horror:1
+vaccin:1
+fear:2
+rapidli:1

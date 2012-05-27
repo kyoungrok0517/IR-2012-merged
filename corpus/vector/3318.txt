@@ -1,1 +1,9 @@
-common:1
+price:1
+fail:1
+can:1
+aluminum:1
+higher:1
+summer:1
+bank:1
+tin:1
+pound:2

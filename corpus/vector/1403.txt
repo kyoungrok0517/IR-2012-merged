@@ -1,6 +1,3 @@
-glo:1
-trucks:1
-orange:1
-freight:1
-yellow:1
-day:1
+deserv:1
+wow:1
+inspir:1

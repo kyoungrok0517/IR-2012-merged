@@ -1,4 +1,0 @@
-pin:1
-peice:1
-wool:1
-drawing:1

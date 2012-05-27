@@ -1,6 +1,2 @@
-time:2
-form:1
-common:1
-aren:1
-colorado:1
-hem:1
+bodi:1
+fat:1

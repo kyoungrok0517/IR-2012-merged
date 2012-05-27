@@ -1,11 +1,6 @@
-difference:1
-huge:1
-motors:1
-greater:1
-gmc:1
-quality:1
-wouldn:1
-group:1
-part:1
-chevy:1
-general:1
+prsentat:1
+cuz:1
+encor:1
+nvm:1
+travel:1
+channel:1

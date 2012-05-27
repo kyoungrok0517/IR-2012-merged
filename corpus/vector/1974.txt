@@ -1,3 +1,14 @@
-governator:1
-fort:1
-sutter:1
+transmit:1
+wasn:2
+stop:1
+immun:1
+understand:1
+folk:1
+treatment:1
+kill:2
+peopl:2
+diseas:1
+left:1
+didn:1
+pretti:1
+spread:1

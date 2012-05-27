@@ -1,7 +1,6 @@
-doesn:1
-cleanup:2
-batting:1
-bat:1
-lou:1
-gehrig:1
-pujols:1
+sit:1
+fell:1
+pete:2
+fenc:1
+left:1
+repeat:1

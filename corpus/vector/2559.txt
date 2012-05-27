@@ -1,8 +1,9 @@
-detect:1
-ideas:1
-icebergs:1
-crazy:1
-money:1
-equipped:1
-breeds:1
-hope:1
+manditori:1
+thank:1
+school:3
+post:1
+matter:1
+uniform:1
+opinion:1
+public:1
+debat:2

@@ -1,5 +1,2 @@
-outsie:1
-family:1
-inside:1
-treat:1
-loves:1
+cobain:1
+curt:1

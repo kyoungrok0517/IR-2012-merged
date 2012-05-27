@@ -1,3 +1,13 @@
-don:1
-good:1
-mix:1
+person:1
+watch:1
+overr:1
+king:1
+smoke:1
+eh:1
+search:1
+nirvana:1
+leon:1
+night:1
+listen:1
+video:1
+youtub:1

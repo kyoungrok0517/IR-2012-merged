@@ -1,6 +1,8 @@
-real:1
-wood:2
-frog:2
-pond:1
-swampy:1
-friend:1
+law:2
+doesn:1
+consent:1
+pierc:1
+state:1
+maryland:1
+parent:1
+afaik:1

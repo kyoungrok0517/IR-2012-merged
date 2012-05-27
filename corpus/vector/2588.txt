@@ -1,1 +1,15 @@
-sunk:1
+eu:1
+reason:1
+uniform:2
+provid:1
+pathet:1
+hmmm:1
+free:1
+school:1
+student:2
+order:1
+presid:1
+mention:1
+public:1
+wear:1
+excus:1

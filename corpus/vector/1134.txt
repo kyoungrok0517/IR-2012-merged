@@ -1,3 +1,7 @@
-homework:1
-helps:1
-hope:1
+fg:1
+cgi:2
+page:1
+findagrav:1
+grid:1
+bin:1
+gr:1

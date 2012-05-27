@@ -1,9 +1,8 @@
-band:1
-metal:1
-nirvana:1
-made:1
-mean:1
-fake:1
-ended:1
-hasn:1
-thing:1
+love:1
+time:1
+watch:1
+year:1
+kgotct:1
+halloween:1
+ha:1
+youtub:1

@@ -1,4 +1,1 @@
-janis:1
-edith:1
-joplin:1
-piaf:1
+guess:2

@@ -1,6 +1,6 @@
-dioxide:1
-dry:1
-carbon:1
-ice:1
-frozen:1
-specifically:1
+invest:1
+foreclos:1
+addit:1
+will:2
+properti:2
+lender:1

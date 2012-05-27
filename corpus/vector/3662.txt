@@ -1,2 +1,8 @@
-matter:1
-worry:1
+differ:1
+inform:1
+put:1
+fenc:1
+eat:1
+place:2
+find:1
+deer:1

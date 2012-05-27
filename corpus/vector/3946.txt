@@ -1,11 +1,5 @@
-person:1
-facility:1
-recycling:1
-intention:1
-trash:1
-pick:1
-night:1
-day:1
-offense:1
-make:1
-taking:1
+work:1
+peopl:1
+stand:1
+didnt:1
+run:1

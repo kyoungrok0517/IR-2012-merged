@@ -1,2 +1,13 @@
-juice:1
-masters:1
+don:1
+watch:1
+onlin:1
+typic:1
+research:1
+new:2
+ap:1
+articl:1
+precis:1
+wikipedia:1
+read:1
+reuter:1
+follow:1

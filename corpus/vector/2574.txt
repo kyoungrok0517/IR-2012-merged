@@ -1,9 +1,7 @@
-life:1
-safety:1
-titanic:1
-rowing:1
-rich:1
-boats:1
-empty:1
-half:1
-people:1
+free:1
+freedom:1
+agre:1
+dress:1
+part:1
+express:2
+countri:1

@@ -1,12 +1,1 @@
-abbott:1
-majority:1
-answer:1
-reply:1
-excellent:1
-disagree:1
-fortunately:1
-australians:1
-qs:1
-people:1
-cc:1
-shout:1
+eat:1

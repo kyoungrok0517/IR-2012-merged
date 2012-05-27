@@ -1,5 +1,3 @@
-copied:1
-kavel:1
-answer:1
-pasted:1
-spammer:1
+isn:1
+fatal:1
+botul:1

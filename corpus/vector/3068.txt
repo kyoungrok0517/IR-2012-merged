@@ -1,5 +1,0 @@
-lower:1
-pressure:1
-container:1
-atmosphere:1
-vacuum:1

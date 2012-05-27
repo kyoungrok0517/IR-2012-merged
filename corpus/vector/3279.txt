@@ -1,6 +1,7 @@
-heard:1
-isn:1
-platinum:1
-dunno:1
-game:1
-accuracy:1
+peopl:1
+agre:1
+iya:1
+thought:1
+question:1
+osun:1
+mi:1

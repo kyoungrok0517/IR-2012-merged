@@ -1,8 +1,7 @@
-site:1
-reliable:1
-times:1
-news:1
-york:1
-trick:1
-cnn:1
-msnbc:1
+punch:1
+freez:2
+juic:1
+put:1
+green:1
+latex:1
+glove:1

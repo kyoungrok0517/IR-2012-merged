@@ -1,2 +1,8 @@
-meter:1
-ph:1
+costum:2
+dachshund:1
+dress:1
+at:1
+navi:1
+wizard:1
+sale:1
+halloween:1

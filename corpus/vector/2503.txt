@@ -1,1 +1,16 @@
-nude:1
+smell:1
+scratch:2
+face:1
+cat:1
+dai:1
+mimick:1
+cheek:1
+scent:1
+skeptic:1
+wont:1
+rub:1
+proce:1
+friendli:1
+read:1
+box:1
+pheromon:1

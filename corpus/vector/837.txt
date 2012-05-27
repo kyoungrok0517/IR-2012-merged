@@ -1,7 +1,9 @@
-lol:1
-mistletoe:1
-real:1
-suppose:1
-lemme:1
-ve:1
-umm:1
+short:1
+result:1
+transplant:1
+think:1
+style:1
+bald:1
+good:1
+hair:4
+miss:1

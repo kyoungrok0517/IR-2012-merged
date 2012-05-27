@@ -1,0 +1,14 @@
+wine:1
+smell:1
+glad:1
+don:1
+rememb:1
+made:1
+doubli:1
+jesu:1
+close:1
+beer:2
+volcano:1
+enjoi:1
+funni:1
+live:1

@@ -1,4 +1,7 @@
-babies:1
-good:1
-honey:1
-sugar:1
+doesn:1
+god:1
+sin:1
+drunk:2
+mind:1
+bad:1
+want:1

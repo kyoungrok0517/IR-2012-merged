@@ -1,2 +1,8 @@
-ikea:1
-dekko:1
+passeng:1
+requir:2
+novic:2
+ey:1
+helmet:1
+ag:1
+protect:1
+thing:1

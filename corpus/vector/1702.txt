@@ -1,10 +1,6 @@
-amount:1
-expense:1
-medical:2
-deductions:2
-exclusion:1
-subject:1
-agi:1
-equal:1
-claim:1
-itemize:1
+cab:1
+diesel:1
+blazer:1
+standerd:1
+chevi:1
+thing:1

@@ -1,7 +1,9 @@
-dart:1
-canada:1
-plane:2
-fly:1
-silver:1
-called:1
-built:1
+bottl:1
+sex:1
+purchas:1
+experi:1
+truth:1
+easili:1
+claim:1
+attract:1
+opposit:1

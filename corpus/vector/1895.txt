@@ -1,4 +1,4 @@
-prime:1
-common:1
-highest:1
-factor:1
+pressur:1
+test:1
+import:1
+thing:1

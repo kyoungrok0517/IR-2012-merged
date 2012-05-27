@@ -1,9 +1,6 @@
-define:1
-urbandictionary:1
-yeah:1
-term:1
-miami:1
-php:1
-true:1
-pretty:1
-xd:1
+sprai:1
+sunless:1
+safest:1
+lotion:1
+wors:1
+tan:1

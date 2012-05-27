@@ -1,1 +1,5 @@
-norway:1
+aliv:1
+food:2
+eat:1
+make:1
+live:1

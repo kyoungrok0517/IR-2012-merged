@@ -1,5 +1,1 @@
-school:1
-spanish:1
-mexico:1
-ve:1
-taking:1
+safe:1

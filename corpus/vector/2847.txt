@@ -1,2 +1,6 @@
-south:1
-korea:1
+safe:1
+bead:1
+pale:2
+pretti:1
+im:1
+tan:1

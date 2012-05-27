@@ -1,5 +1,5 @@
-thank:1
-stop:1
-curious:1
-formed:1
-tornadoes:1
+col:1
+pole:1
+atmospher:1
+frik:1
+mar:1

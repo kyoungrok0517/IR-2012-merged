@@ -1,5 +1,7 @@
-need:1
-surgeon:1
-will:1
-cost:1
-cosmetic:1
+spiritu:1
+don:1
+happi:1
+materi:1
+wisdom:1
+possess:1
+long:1

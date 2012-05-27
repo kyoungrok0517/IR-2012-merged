@@ -1,4 +1,12 @@
-tolerate:1
-infant:1
-bacteria:1
-pasteurized:1
+love:1
+peopl:1
+fond:1
+hurrican:1
+term:1
+proof:1
+describ:1
+smite:1
+toss:1
+wouldn:1
+worship:1
+tornado:1

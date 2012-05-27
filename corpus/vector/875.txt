@@ -1,2 +1,12 @@
-spicy:1
-hot:1
+snazzi:1
+price:1
+weight:1
+purchas:1
+pool:2
+rang:1
+manufactur:1
+good:1
+produc:1
+cue:2
+recommend:1
+want:1

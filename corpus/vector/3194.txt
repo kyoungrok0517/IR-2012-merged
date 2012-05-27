@@ -1,0 +1,4 @@
+wow:1
+misinform:1
+blind:1
+incred:1

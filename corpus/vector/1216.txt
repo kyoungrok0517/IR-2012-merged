@@ -1,6 +1,2 @@
-cold:1
-flu:1
-sick:1
-year:1
-im:1
-shot:1
+level:1
+type:1

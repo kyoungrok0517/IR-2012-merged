@@ -1,11 +1,5 @@
-work:1
-don:1
-collar:1
-dark:1
-white:1
-caucasians:1
-epa:1
-objects:1
-people:1
-large:1
-confrontation:1
+real:1
+life:1
+good:1
+actress:1
+ch:1

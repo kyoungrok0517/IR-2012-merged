@@ -1,0 +1,14 @@
+bob:1
+watch:2
+candi:1
+bring:1
+appl:1
+scari:1
+costum:2
+food:1
+drink:1
+movi:2
+pick:1
+make:1
+wear:1
+parti:1

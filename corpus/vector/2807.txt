@@ -1,7 +1,9 @@
-ranked:1
-times:1
-worst:1
-place:1
-agree:1
-live:1
-city:1
+safe:1
+heard:1
+told:1
+pregnant:1
+ve:1
+eat:1
+honei:1
+week:1
+honestli:1

@@ -1,11 +1,5 @@
-donna:1
-buddy:1
-holly:1
-timeless:1
-songs:2
-richie:1
-melody:1
-valens:1
-tune:1
-fan:1
-find:1
+mose:1
+god:1
+kill:1
+case:1
+firstborn:1

@@ -1,3 +1,4 @@
-heh:2
-government:1
-regulate:1
+doesn:1
+privat:1
+matter:1
+want:1

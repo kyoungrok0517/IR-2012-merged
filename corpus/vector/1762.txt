@@ -1,7 +1,7 @@
-reliable:1
-surgeon:1
-will:1
-dunno:1
-longer:1
-bald:1
-natural:1
+need:1
+iceberg:1
+person:1
+truth:1
+suppos:1
+room:1
+kei:1

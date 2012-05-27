@@ -1,10 +1,2 @@
-sign:1
-process:1
-body:1
-spiritual:1
-guessing:1
-show:1
-health:1
-im:1
-cleansing:1
-devotedness:1
+wors:1
+lot:1

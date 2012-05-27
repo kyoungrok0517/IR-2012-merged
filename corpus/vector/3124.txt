@@ -1,8 +1,9 @@
-greater:1
-weight:1
-bmi:2
-overweight:1
-normal:1
-obesity:1
-categories:1
-underweight:1
+foreclosur:1
+asset:1
+mortgag:1
+recours:1
+mean:1
+properti:1
+satisfact:1
+protect:1
+loan:1

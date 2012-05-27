@@ -1,1 +1,13 @@
-ebay:1
+treatment:1
+back:1
+problem:1
+visit:1
+doctor:1
+monei:1
+pocket:1
+cover:1
+tax:1
+ve:1
+claim:1
+spent:1
+tmj:1

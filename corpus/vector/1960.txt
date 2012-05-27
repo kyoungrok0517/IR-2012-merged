@@ -1,4 +1,9 @@
-americas:1
-left:1
-fathers:1
-pilgrim:1
+peopl:2
+diseas:1
+crush:1
+kill:1
+economi:1
+travel:1
+didn:2
+spread:1
+burn:1

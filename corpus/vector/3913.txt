@@ -1,2 +1,3 @@
-gay:1
-men:1
+don:1
+eat:1
+poison:1

@@ -1,3 +1,12 @@
-asked:1
-choice:1
-make:1
+stai:1
+bodi:2
+straighten:1
+japanes:1
+wave:2
+will:1
+year:1
+chang:1
+hair:2
+ago:1
+straight:1
+readi:1

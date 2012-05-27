@@ -1,7 +1,5 @@
-commanders:1
-pearl:1
-attcks:1
-call:1
-harbor:1
-wave:1
-japanese:1
+infecti:2
+diseas:1
+infect:1
+virus:1
+flu:1

@@ -1,2 +1,3 @@
-made:1
-boards:1
+stai:1
+australia:1
+live:1

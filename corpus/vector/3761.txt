@@ -1,2 +1,4 @@
-lol:1
-false:1
+cuti:1
+suit:1
+cooki:1
+babi:1

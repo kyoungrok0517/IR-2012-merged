@@ -1,4 +1,4 @@
-love:1
-beer:1
-drinking:1
-people:1
+brightest:1
+chandeli:1
+bulb:1
+she:1

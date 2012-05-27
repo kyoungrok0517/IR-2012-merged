@@ -1,3 +1,13 @@
-donna:1
-choice:1
-tough:1
+stori:1
+emancip:1
+egyptian:1
+isn:1
+physic:1
+hebrew:2
+proof:1
+true:1
+poison:1
+kind:1
+canaanit:2
+make:1
+live:1

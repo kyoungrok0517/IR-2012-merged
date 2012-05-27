@@ -1,4 +1,9 @@
-invented:1
-couple:1
-years:1
-guys:1
+born:2
+fight:1
+preahvihear:1
+funun:1
+thailand:1
+centuri:3
+templ:1
+built:1
+cambodia:1

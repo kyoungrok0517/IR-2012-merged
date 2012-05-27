@@ -1,6 +1,5 @@
-gas:1
-reiability:1
-price:1
-awesome:1
-features:1
-country:1
+engin:1
+month:1
+dealership:1
+agon:1
+broke:1

@@ -1,1 +1,5 @@
-bracken:1
+oblig:1
+stock:1
+depend:1
+articl:1
+lifestyl:1

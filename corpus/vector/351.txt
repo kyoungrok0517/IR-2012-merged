@@ -1,0 +1,9 @@
+cardiologist:1
+clear:1
+person:1
+technic:1
+doubt:1
+visit:1
+question:1
+ask:1
+doctor:1

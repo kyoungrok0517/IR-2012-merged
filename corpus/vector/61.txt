@@ -1,7 +1,6 @@
-stop:1
-life:1
-fact:1
-complaining:1
-eat:1
-cure:1
-found:1
+restaur:1
+softbal:1
+menu:1
+eaten:1
+googl:1
+size:1

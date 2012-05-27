@@ -1,3 +1,9 @@
-sue:1
-peggy:1
-february:1
+abnorm:1
+properli:1
+don:1
+death:1
+cell:2
+die:1
+reproduc:1
+cancer:1
+occur:1

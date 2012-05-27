@@ -1,2 +1,5 @@
-means:1
-honey:2
+real:1
+repres:1
+lava:2
+wax:1
+lamp:1

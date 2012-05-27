@@ -1,2 +1,14 @@
-paul:1
-gaugin:1
+panel:4
+januari:1
+learn:1
+averag:1
+solar:4
+temperatur:3
+heat:1
+research:1
+expect:1
+degre:3
+warmer:1
+rais:1
+pool:4
+will:1

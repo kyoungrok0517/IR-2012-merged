@@ -1,6 +1,4 @@
-wont:1
-cali:1
-mean:1
-im:1
-bother:1
-nah:1
+joint:1
+ball:1
+stuff:1
+recal:1

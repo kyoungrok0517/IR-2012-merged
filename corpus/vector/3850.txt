@@ -1,1 +1,14 @@
-idk:1
+bright:1
+hold:1
+watt:2
+higher:2
+problem:1
+lumen:2
+fixtur:2
+flouresc:1
+incandesc:1
+bulb:3
+comapr:1
+will:1
+box:1
+major:1

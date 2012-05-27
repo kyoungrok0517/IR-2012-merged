@@ -1,7 +1,8 @@
-cans:1
-recycle:1
-plastic:1
-flagstaff:1
-arizona:1
-cash:1
-want:1
+peopl:1
+present:1
+spice:1
+food:2
+manner:1
+attract:1
+main:1
+thing:1

@@ -1,6 +1,10 @@
-serve:2
-retirement:1
-retire:1
-qualify:1
-years:1
-military:1
+need:1
+entitl:1
+thank:1
+air:1
+retir:2
+pretti:1
+forc:1
+step:1
+monei:1
+medic:1

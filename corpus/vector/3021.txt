@@ -1,2 +1,3 @@
-permanent:1
-scars:1
+spiritu:1
+wisdom:1
+enlighten:1

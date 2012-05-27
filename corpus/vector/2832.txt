@@ -1,3 +1,2 @@
-map:1
-compass:1
-big:1
+mean:1
+honei:2

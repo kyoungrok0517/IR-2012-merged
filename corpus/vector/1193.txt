@@ -1,4 +1,9 @@
-hmmm:1
-ill:1
-watch:1
-tv:1
+love:1
+discov:1
+skate:1
+gui:1
+california:1
+street:1
+board:1
+surf:1
+ask:1

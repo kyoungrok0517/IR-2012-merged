@@ -1,14 +1,2 @@
-painkiller:1
-priest:2
-british:1
-accept:1
-album:1
-steel:1
-motorhead:1
-march:1
-band:1
-die:1
-breaker:1
-judas:2
-black:2
-sabbath:2
+googl:1
+find:1

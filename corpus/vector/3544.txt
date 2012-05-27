@@ -1,5 +1,6 @@
-lmgtfy:1
-ww:1
-eat:1
-infants:1
-honey:1
+cool:1
+gadget:1
+funki:1
+spencer:1
+light:1
+strobe:1

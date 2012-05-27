@@ -1,2 +1,8 @@
-night:1
-sleep:1
+bell:1
+thank:1
+locat:1
+alexand:1
+graham:1
+invent:1
+telephon:1
+info:1

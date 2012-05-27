@@ -1,13 +1,1 @@
-need:1
-edmund:1
-mt:1
-climbed:1
-im:1
-sir:1
-help:1
-thanks:1
-persuasive:1
-everest:1
-start:1
-hillary:1
-essay:1
+face:1

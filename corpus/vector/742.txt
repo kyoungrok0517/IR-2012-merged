@@ -1,9 +1,8 @@
-need:1
-lables:1
-plan:1
-buy:1
-cuestion:1
-needs:1
-read:1
-bulbs:1
-flo:1
+need:2
+decad:1
+project:1
+inform:1
+architectur:1
+sourc:1
+research:1
+find:1

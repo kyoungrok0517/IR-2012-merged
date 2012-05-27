@@ -1,2 +1,2 @@
-bleeds:1
-heart:1
+cactu:1
+spini:1

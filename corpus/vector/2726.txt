@@ -1,16 +1,1 @@
-critter:1
-frog:3
-bumpy:1
-white:1
-good:1
-dumpy:1
-wanted:1
-tote:1
-beginner:1
-tree:1
-thinking:1
-blue:1
-pet:1
-frogs:1
-large:1
-live:1
+inform:1

@@ -1,2 +1,10 @@
-predict:1
-earthquakes:1
+safe:1
+weigh:1
+weight:2
+bmi:1
+link:1
+healthi:2
+year:1
+snitchi:1
+lb:1
+ft:1

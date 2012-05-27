@@ -1,11 +1,1 @@
-help:1
-heart:1
-ppl:1
-dont:2
-overweight:1
-stress:1
-lot:1
-eat:1
-prevent:1
-doesnt:1
-attacks:1
+bella:1

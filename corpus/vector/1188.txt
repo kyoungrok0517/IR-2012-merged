@@ -1,12 +1,2 @@
-trigger:1
-area:1
-applying:2
-results:1
-acid:1
-shoot:1
-benzyladenine:1
-internodium:1
-longer:1
-day:1
-production:1
-gibberic:1
+made:1
+board:1

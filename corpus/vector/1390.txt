@@ -1,5 +1,2 @@
-pls:2
-help:1
-urgent:1
-helmets:1
-statistics:1
+homework:1
+pretti:1

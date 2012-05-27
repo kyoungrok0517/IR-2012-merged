@@ -1,8 +1,8 @@
-remember:1
-environment:1
-bed:1
-tanning:1
-safer:1
-controlled:1
-bad:1
-sun:1
+inform:1
+real:1
+estat:1
+hotsx:1
+lot:1
+net:1
+found:1
+info:1

@@ -1,10 +1,5 @@
-forever:1
-nonsense:1
-stressing:1
-scientifically:1
-earth:1
-annoying:1
-speaking:1
-phucking:1
-world:1
-end:1
+heck:1
+rosebowl:1
+cali:1
+travel:1
+parad:1

@@ -1,7 +1,10 @@
-met:1
-evr:1
-bites:1
-vicious:1
-weiner:1
-mean:1
-dog:1
+center:1
+ash:1
+ya:1
+nirvana:1
+book:1
+tab:1
+guitar:1
+cello:1
+googl:1
+sam:1

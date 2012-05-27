@@ -1,3 +1,2 @@
-george:1
-president:1
-bush:1
+apolog:1
+check:1

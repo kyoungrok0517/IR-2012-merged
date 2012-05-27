@@ -1,7 +1,1 @@
-trucks:1
-duty:1
-truck:1
-gmc:1
-older:1
-chevy:1
-heavier:1
+turn:1

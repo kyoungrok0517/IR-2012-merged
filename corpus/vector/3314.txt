@@ -1,7 +1,5 @@
-free:1
-freedom:1
-dress:1
-express:2
-part:1
-agree:1
-country:1
+nice:1
+india:1
+question:1
+hmmmm:1
+activ:1

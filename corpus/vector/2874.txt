@@ -1,4 +1,10 @@
-worst:1
-thought:1
-neighbour:1
-place:1
+sprai:1
+safe:1
+time:1
+bed:1
+lotion:1
+bad:1
+long:1
+period:1
+sun:1
+tan:2

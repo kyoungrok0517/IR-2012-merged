@@ -1,5 +1,3 @@
-beer:1
-drink:1
-ground:1
-won:1
-ewwww:1
+horribl:1
+actress:1
+cute:1

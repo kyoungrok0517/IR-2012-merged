@@ -1,4 +1,13 @@
-will:1
-plants:1
-eat:1
-deer:1
+put:1
+matur:1
+save:2
+poor:1
+return:1
+monei:1
+bond:2
+invest:1
+yr:1
+cash:1
+mine:1
+year:1
+cd:1

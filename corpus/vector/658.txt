@@ -1,5 +1,5 @@
-stormy:1
-smokey:1
-foggy:1
-taupe:1
-slate:1
+countri:1
+friend:1
+move:1
+world:1
+live:1

@@ -1,13 +1,2 @@
-neosporing:1
-check:1
-erase:1
-treatment:1
-link:1
-scar:2
-plenty:1
-aloe:1
-help:1
-stuff:1
-vitamin:1
-find:1
-treatments:1
+heart:1
+bleed:1

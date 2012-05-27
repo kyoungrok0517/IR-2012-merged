@@ -1,11 +1,6 @@
-destroy:1
-slowly:1
-nuh:1
-uh:1
-starting:1
-humans:1
-earth:1
-dandy:1
-fine:1
-meddling:1
-world:1
+put:1
+hercul:1
+woman:1
+name:1
+chocol:1
+bar:1

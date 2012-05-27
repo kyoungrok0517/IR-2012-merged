@@ -1,1 +1,10 @@
-italy:1
+product:1
+bake:1
+spore:1
+sick:1
+wouldn:1
+resist:1
+heat:1
+make:1
+honei:1
+botul:2

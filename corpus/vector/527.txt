@@ -1,8 +1,6 @@
-heard:1
-slang:1
-means:1
-ve:1
-islands:1
-virgin:1
-word:1
-natives:1
+idea:1
+latvian:1
+sing:1
+wave:1
+show:2
+stole:1

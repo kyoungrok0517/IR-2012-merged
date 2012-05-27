@@ -1,10 +1,4 @@
-medication:1
-symptoms:1
-cuz:1
-losing:1
-crohns:1
-wondering:1
-im:1
-disease:1
-hair:1
-related:1
+america:1
+don:1
+presid:1
+honest:1

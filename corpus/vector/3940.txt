@@ -1,5 +1,8 @@
-grocery:1
-cent:1
-store:1
-deposit:1
-mi:1
+need:1
+kiss:2
+gui:1
+help:2
+girlfriend:1
+wonder:1
+mistleto:1
+want:1

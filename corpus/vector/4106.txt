@@ -1,7 +1,6 @@
-iceland:1
-volcano:1
-invade:1
-producing:1
-world:1
-end:1
-obama:1
+settl:1
+gui:1
+will:1
+find:1
+want:1
+treat:1

@@ -1,10 +1,7 @@
-need:1
-dumb:1
-famous:1
-bell:1
-invented:1
-graham:1
-godbless:1
-sentences:1
-alexander:1
-telohpone:1
+pol:1
+wikipedia:2
+en:2
+wiki:2
+khmer:1
+roug:1
+pot:1

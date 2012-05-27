@@ -1,0 +1,16 @@
+death:1
+luekemia:1
+round:1
+earli:1
+cure:1
+hairloss:1
+termin:1
+rate:1
+sore:1
+sound:1
+die:1
+year:1
+throat:1
+caught:1
+chemotherapi:1
+friend:1

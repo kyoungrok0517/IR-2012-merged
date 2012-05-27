@@ -1,1 +1,15 @@
-buying:1
+need:1
+heart:1
+physic:2
+trust:1
+luck:1
+nonsens:1
+rock:1
+good:1
+math:3
+psycholog:1
+level:1
+tutor:1
+hard:1
+option:1
+talk:1

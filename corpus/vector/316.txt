@@ -1,11 +1,4 @@
-water:1
-solids:1
-body:1
-detoxifying:1
-lots:1
-clears:1
-drinking:1
-fasting:1
-skin:1
-interim:1
-fire:1
+need:1
+remot:1
+hardwar:1
+close:1

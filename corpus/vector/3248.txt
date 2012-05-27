@@ -1,4 +1,7 @@
-crap:1
-smell:1
-work:1
-dont:1
+freeweb:1
+yea:1
+safe:1
+chatroom:1
+chatboxyahoo:1
+continu:1
+talk:1

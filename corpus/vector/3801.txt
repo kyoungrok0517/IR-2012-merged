@@ -1,3 +1,4 @@
-satellite:1
-radar:1
-imaging:1
+bedachuaha:3
+don:1
+mean:1
+babi:4

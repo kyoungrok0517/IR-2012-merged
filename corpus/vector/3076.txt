@@ -1,1 +1,15 @@
-atmosphere:1
+balanc:1
+lost:1
+diet:1
+proven:1
+stress:1
+healthi:1
+stone:1
+amount:1
+exercis:1
+dairi:1
+cut:1
+loos:1
+make:1
+found:1
+pound:1

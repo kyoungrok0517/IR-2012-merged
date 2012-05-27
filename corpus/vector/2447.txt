@@ -1,6 +1,10 @@
-funds:1
-correct:1
-age:1
-penalty:1
-access:1
-till:1
+stick:1
+diet:1
+term:1
+healthi:1
+stupid:1
+unhealthi:1
+exercis:1
+anorex:1
+long:1
+fast:2

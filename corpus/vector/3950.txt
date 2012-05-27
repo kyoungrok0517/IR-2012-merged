@@ -1,12 +1,4 @@
-ordinance:1
-prohibiting:1
-illegal:1
-value:1
-trash:1
-curb:1
-good:1
-chance:1
-recyclables:2
-city:1
-abandoned:1
-considered:1
+funni:2
+year:2
+ago:1
+cheek:1

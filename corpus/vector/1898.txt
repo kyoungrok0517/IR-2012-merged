@@ -1,5 +1,6 @@
-prime:1
-common:1
-greatest:1
-factor:3
-end:1
+work:1
+think:1
+misspel:1
+good:1
+word:1
+pretti:1

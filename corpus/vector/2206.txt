@@ -1,9 +1,2 @@
-convenient:1
-basically:1
-form:1
-ingest:1
-food:1
-protein:1
-absolutely:1
-things:1
-supplements:1
+time:1
+medic:1

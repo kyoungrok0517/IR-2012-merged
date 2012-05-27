@@ -1,9 +1,1 @@
-burned:1
-economy:1
-travel:1
-disease:1
-spread:1
-didn:2
-crushing:1
-people:2
-killing:1
+botul:1

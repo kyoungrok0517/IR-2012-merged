@@ -1,8 +1,6 @@
-breast:1
-hygiene:1
-aren:1
-milk:1
-developed:1
-unpasteurized:1
-dental:1
-stomachs:1
+factori:1
+fsm:1
+drink:1
+will:1
+stripper:1
+paradis:1

@@ -1,5 +1,2 @@
-willmost:1
-stay:1
-likly:1
-buyt:1
-straight:1
+easi:1
+aren:1

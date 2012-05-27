@@ -1,5 +1,0 @@
-absolute:1
-point:1
-humidity:1
-dew:1
-good:1

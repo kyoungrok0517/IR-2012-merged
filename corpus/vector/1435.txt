@@ -1,8 +1,5 @@
-protection:2
-figure:1
-missouri:1
-illinois:1
-helmet:2
-required:1
-requires:1
-eye:2
+need:1
+thank:1
+america:1
+respond:1
+hater:1

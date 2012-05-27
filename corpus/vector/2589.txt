@@ -1,3 +1,8 @@
-math:1
-iceburg:1
-big:1
+attir:1
+school:1
+standard:1
+student:1
+enforc:1
+parent:1
+violat:1
+right:1

@@ -1,3 +1,6 @@
-places:1
-hard:1
-find:1
+love:1
+bean:1
+cheesi:1
+freak:1
+good:2
+spici:1

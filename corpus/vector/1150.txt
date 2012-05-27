@@ -1,4 +1,3 @@
-batting:1
-extra:1
-bat:1
-game:1
+name:1
+parent:1
+didn:2

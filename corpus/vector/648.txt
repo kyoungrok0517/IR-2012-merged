@@ -1,5 +1,5 @@
-female:1
-sound:1
-will:1
-cute:1
-dog:1
+militari:1
+year:1
+retir:2
+serv:2
+qualifi:1

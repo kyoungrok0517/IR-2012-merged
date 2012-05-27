@@ -1,6 +1,8 @@
-car:1
-understand:1
-importance:1
-purchase:1
-diligent:1
-research:1
+look:1
+postcod:1
+locat:1
+put:1
+citi:1
+attract:1
+west:1
+end:1

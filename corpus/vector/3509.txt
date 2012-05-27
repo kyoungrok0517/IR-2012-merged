@@ -1,12 +1,5 @@
-spores:1
-system:1
-immune:1
-fight:1
-strong:1
-isn:1
-infant:1
-infection:1
-possibility:1
-happen:1
-botulism:1
-honey:1
+myth:1
+charcetr:1
+testament:1
+legend:1
+half:1

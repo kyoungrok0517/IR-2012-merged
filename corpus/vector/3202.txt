@@ -1,2 +1,6 @@
-google:1
-check:1
+radat:1
+pin:1
+extra:1
+will:1
+expos:1
+wear:1

@@ -1,5 +1,7 @@
-google:1
-art:1
-links:1
-pop:1
-follow:1
+costum:1
+joe:1
+put:1
+tie:1
+lot:1
+effort:1
+frankenstein:1

@@ -1,1 +1,6 @@
-wa:1
+purchas:1
+respons:1
+debt:1
+wish:1
+properti:2
+loan:1

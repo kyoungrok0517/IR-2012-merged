@@ -1,13 +1,2 @@
-students:1
-greeting:1
-waving:1
-people:1
-comfortable:1
-formal:2
-friends:1
-wave:1
-unusual:1
-require:1
-bow:1
-depends:1
-situation:2
+tailgat:1
+grill:1

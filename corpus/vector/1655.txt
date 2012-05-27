@@ -1,1 +1,16 @@
-niverva:1
+ring:1
+feel:1
+don:2
+tube:1
+candi:1
+watch:2
+fun:1
+halloween:1
+scari:2
+doorbel:1
+movi:1
+trick:2
+make:1
+video:1
+friend:1
+treat:2

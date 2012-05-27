@@ -1,3 +1,9 @@
-smoking:1
-diseases:1
-caused:1
+allwai:1
+forgiv:1
+heal:2
+don:1
+scar:2
+mean:1
+job:1
+perfectli:1
+bad:1

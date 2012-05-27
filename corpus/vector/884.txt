@@ -1,3 +1,13 @@
-sites:1
-web:1
-helpful:1
+ship:1
+depend:1
+dawg:1
+spend:1
+free:1
+great:1
+level:1
+price:1
+skill:1
+pool:1
+wanna:1
+personali:1
+lucasi:1

@@ -1,9 +1,4 @@
-need:2
-shouldn:1
-don:2
-age:1
-hobby:1
-care:1
-steroids:2
-find:1
-want:2
+nope:1
+belief:1
+faith:1
+proof:1

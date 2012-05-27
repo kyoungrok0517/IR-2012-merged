@@ -1,11 +1,4 @@
-face:1
-remain:1
-forgiver:1
-times:1
-matter:1
-washes:1
-wash:1
-forgiven:1
-scars:1
-dirt:1
-forgiveness:1
+affair:1
+onlin:1
+facebook:1
+friend:1

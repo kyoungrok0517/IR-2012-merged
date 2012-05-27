@@ -1,5 +1,6 @@
-exposed:1
-isn:1
-guess:1
-bacteria:1
-pasteurized:1
+member:1
+victim:1
+speak:1
+madd:1
+left:1
+listen:1

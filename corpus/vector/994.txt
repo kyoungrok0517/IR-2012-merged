@@ -1,7 +1,4 @@
-jennifer:1
-curled:1
-straighten:1
-lay:1
-flat:1
-aniston:1
-cutest:1
+prime:1
+tree:1
+answer:1
+factor:1

@@ -1,12 +1,4 @@
-burned:1
-european:1
-died:1
-side:1
-truth:1
-told:1
-closed:1
-lived:1
-bodies:1
-happily:1
-dead:1
-world:2
+call:1
+goggl:1
+bacteria:1
+remeb:1

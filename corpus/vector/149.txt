@@ -1,10 +1,7 @@
-fact:1
-check:1
-gospel:1
-jesus:2
-return:1
-will:1
-mark:1
-bible:1
-nations:1
-reached:1
+peopl:1
+twenti:1
+roar:1
+made:1
+valu:1
+babe:1
+ruth:1

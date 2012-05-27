@@ -1,7 +1,8 @@
-carved:1
-position:1
-time:1
-wounds:1
-remain:1
-heal:1
-scars:1
+depress:1
+risk:1
+ocd:1
+obes:1
+stress:1
+anxieti:1
+factor:1
+want:1

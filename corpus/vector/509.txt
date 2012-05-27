@@ -1,6 +1,6 @@
-real:1
-salesperson:1
-jersey:1
-wondering:1
-exam:1
-estate:1
+relationship:2
+privat:1
+busi:1
+wave:1
+bow:1
+friend:1

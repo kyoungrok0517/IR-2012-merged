@@ -1,11 +1,6 @@
-uniforms:1
-holligans:1
-students:1
-schools:1
-crazy:1
-laws:1
-arnd:1
-show:1
-wear:1
-make:1
-singapore:2
+cultur:1
+anim:1
+heard:1
+domest:1
+wonder:1
+sourc:1

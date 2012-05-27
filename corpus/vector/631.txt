@@ -1,7 +1,5 @@
-moon:1
-traveling:1
-don:1
-matter:1
-day:1
-phase:1
-deer:1
+requir:1
+check:1
+visa:1
+thing:1
+longterm:1

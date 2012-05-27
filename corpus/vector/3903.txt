@@ -1,10 +1,7 @@
-need:1
-face:1
-cycle:1
-months:1
-levels:1
-estrogen:2
-growing:1
-horrible:1
-low:1
-hair:1
+holidai:1
+tree:1
+store:1
+sell:1
+happi:1
+nurseri:1
+christma:1

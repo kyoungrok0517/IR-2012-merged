@@ -1,5 +1,11 @@
-check:1
-age:1
-make:1
-parenting:1
-doctor:1
+great:1
+winter:1
+circl:1
+choos:1
+grid:1
+summer:1
+south:1
+arctic:1
+island:2
+live:1
+pacif:1

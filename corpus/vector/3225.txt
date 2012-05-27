@@ -1,9 +1,5 @@
-purchased:1
-sex:1
-opposite:1
-truth:1
-experiment:1
-easily:1
-claim:1
-attract:1
-bottle:1
+math:1
+level:1
+psycolog:1
+physic:1
+hard:1

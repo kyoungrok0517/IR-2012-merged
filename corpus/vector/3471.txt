@@ -1,13 +1,4 @@
-give:2
-means:1
-layer:1
-spoon:1
-son:2
-problem:1
-honey:1
-trouble:1
-thick:1
-bread:1
-thin:1
-spread:1
-swollowing:1
+love:1
+peopl:1
+beer:1
+drink:1

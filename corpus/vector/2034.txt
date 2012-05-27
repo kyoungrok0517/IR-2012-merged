@@ -1,12 +1,1 @@
-silly:1
-check:1
-bothered:1
-mother:1
-lies:1
-hillary:1
-told:1
-inane:1
-plenty:1
-focus:1
-relative:1
-father:1
+pace:1

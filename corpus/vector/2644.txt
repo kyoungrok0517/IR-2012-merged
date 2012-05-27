@@ -1,3 +1,9 @@
-forgive:1
-stupidness:1
-zealander:1
+li:1
+bq:3
+cliff:1
+burton:1
+cannib:2
+demis:1
+holocaust:2
+elfen:1
+tragic:1

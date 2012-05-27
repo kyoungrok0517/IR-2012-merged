@@ -1,6 +1,4 @@
-fence:1
-fell:1
-sitting:1
-pete:2
-left:1
-repeat:1
+time:1
+hit:1
+mick:1
+incorrect:1

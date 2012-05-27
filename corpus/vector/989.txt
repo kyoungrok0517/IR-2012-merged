@@ -1,4 +1,5 @@
-rec:1
-jennifer:1
-aniston:1
-stoned:1
+prime:2
+answer:1
+multipli:1
+question:1
+factor:2

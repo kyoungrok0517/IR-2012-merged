@@ -1,13 +1,2 @@
-lol:1
-victory:1
-need:1
-famous:1
-defeated:1
-don:1
-nardini:1
-largs:1
-admit:1
-vikings:1
-edinburgh:1
-ashore:1
-classic:1
+help:1
+necessarili:1

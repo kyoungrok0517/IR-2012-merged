@@ -1,4 +1,6 @@
-pls:1
-help:1
-scar:1
-yrs:1
+definetli:1
+spiritu:1
+wisdom:1
+track:1
+road:1
+find:1

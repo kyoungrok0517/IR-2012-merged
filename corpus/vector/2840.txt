@@ -1,2 +1,8 @@
-ireland:1
-italy:1
+hand:2
+bandag:1
+uv:1
+guess:1
+light:1
+skin:1
+cancer:1
+friend:1

@@ -1,8 +1,1 @@
-radiography:1
-risk:2
-babies:1
-radiation:1
-malformations:1
-newborn:1
-major:1
-caused:1
+watt:1

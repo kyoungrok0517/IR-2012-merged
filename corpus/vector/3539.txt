@@ -1,9 +1,2 @@
-peanuts:1
-choke:1
-give:1
-howstuffworks:1
-answer:1
-read:1
-bad:1
-question:1
-htm:1
+gift:1
+spencer:1

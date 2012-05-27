@@ -1,8 +1,1 @@
-contend:1
-franchise:1
-days:1
-troubled:1
-alright:1
-management:1
-hope:1
-changed:1
+colonist:1

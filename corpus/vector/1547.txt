@@ -1,3 +1,6 @@
-effect:1
-social:1
-security:1
+time:2
+form:1
+aren:1
+common:1
+colorado:1
+hem:1

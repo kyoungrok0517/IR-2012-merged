@@ -1,2 +1,13 @@
-lol:1
-savengal:1
+wander:1
+skate:1
+explor:1
+sea:1
+bring:1
+board:1
+roller:1
+ic:1
+rank:1
+aboard:1
+summer:1
+blade:1
+rent:1

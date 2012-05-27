@@ -1,1 +1,2 @@
-god:1
+kill:1
+small:1

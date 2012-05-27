@@ -1,5 +1,7 @@
-leave:1
-haven:1
-mentioned:1
-thought:1
-theater:1
+bon:1
+scott:1
+technic:1
+choke:1
+alchahol:1
+death:1
+vomit:1

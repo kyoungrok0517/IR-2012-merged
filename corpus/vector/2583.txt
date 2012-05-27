@@ -1,7 +1,5 @@
-iceberg:1
-don:1
-thought:1
-insinkable:1
-wrong:1
-mind:1
-turns:1
+school:1
+poor:1
+mean:1
+nake:1
+kid:1

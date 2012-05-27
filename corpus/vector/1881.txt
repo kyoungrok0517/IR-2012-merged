@@ -1,1 +1,11 @@
-beefthatup:1
+born:1
+understand:1
+decid:1
+reason:2
+older:1
+babi:2
+wrong:1
+mess:1
+type:1
+circums:1
+medic:1

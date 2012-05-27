@@ -1,4 +1,13 @@
-revision:1
-dermatologist:1
-scar:1
-laser:1
+need:1
+matter:1
+dimens:1
+dimension:1
+time:1
+sustain:1
+unenlighten:1
+transport:1
+bless:1
+will:5
+year:1
+place:1
+enlighten:2

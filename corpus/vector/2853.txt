@@ -1,1 +1,10 @@
-japan:1
+artifici:1
+rai:1
+nope:1
+enjoi:1
+uv:1
+natur:1
+lot:1
+good:1
+bad:1
+thing:1

@@ -1,4 +1,1 @@
-obesity:1
 good:1
-childhood:1
-ptsd:1

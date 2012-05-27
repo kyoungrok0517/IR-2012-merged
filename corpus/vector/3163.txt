@@ -1,6 +1,2 @@
-story:1
-menu:1
-global:1
-nav:1
-asp:1
-tuskegee:1
+rave:1
+nut:1

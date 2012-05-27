@@ -1,4 +1,11 @@
-hong:1
-kong:1
-move:1
-hope:1
+sprai:1
+spf:1
+tane:1
+dont:1
+bed:1
+lotion:1
+pl:1
+bad:1
+skin:1
+sun:1
+tan:3

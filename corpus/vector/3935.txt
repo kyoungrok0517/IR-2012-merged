@@ -1,9 +1,7 @@
-republic:1
-present:1
-iran:1
-savak:1
-islamic:1
-ministry:1
-word:1
-bad:1
-intelligence:1
+regrowth:1
+tree:1
+seed:1
+watch:1
+ground:1
+remov:1
+prevent:1

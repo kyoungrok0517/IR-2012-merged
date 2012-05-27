@@ -1,1 +1,16 @@
-meditate:1
+albuquerqu:1
+warm:1
+april:1
+nice:2
+bad:1
+humid:1
+novemb:1
+winter:1
+cold:1
+florida:1
+summer:1
+hot:1
+mind:1
+wet:1
+part:1
+deepest:1

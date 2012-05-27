@@ -1,4 +1,6 @@
-literally:1
-arithmetic:1
-ann:1
-answerers:1
+statement:1
+limit:1
+detail:1
+isn:1
+word:1
+wall:1

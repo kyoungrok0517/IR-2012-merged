@@ -1,12 +1,3 @@
-asked:1
-pilots:1
-nfl:1
-doubt:1
-sticker:2
-air:1
-force:1
-helmet:1
-ago:1
-weeks:1
-dot:2
-lhelmet:1
+lung:1
+emphysema:1
+cancer:1

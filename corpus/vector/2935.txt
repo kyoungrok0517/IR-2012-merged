@@ -1,2 +1,0 @@
-bush:2
-administration:1

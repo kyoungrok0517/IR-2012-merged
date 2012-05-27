@@ -1,5 +1,1 @@
-school:1
-naked:1
-poor:1
-means:1
-kids:1
+yep:1

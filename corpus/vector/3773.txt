@@ -1,1 +1,3 @@
-ptsd:1
+georg:1
+presid:1
+bush:1

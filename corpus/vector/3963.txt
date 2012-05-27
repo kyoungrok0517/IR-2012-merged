@@ -1,3 +1,11 @@
-bees:1
-spray:2
-bug:1
+steal:1
+tree:1
+matur:1
+nutrient:1
+grow:1
+hickori:2
+nut:1
+mistleto:1
+develop:1
+pobabl:1
+abort:1

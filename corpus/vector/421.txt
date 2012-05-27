@@ -1,4 +1,9 @@
-juicy:1
-nice:1
-hungry:1
-beefstake:1
+approv:1
+rate:2
+order:1
+worst:1
+good:1
+number:1
+notic:2
+dot:1
+ec:1

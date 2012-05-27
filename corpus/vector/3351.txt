@@ -1,3 +1,14 @@
-cool:1
-drugs:1
-taking:1
+work:1
+face:1
+inflam:1
+watch:1
+mouth:1
+herbivor:1
+doctor:1
+peopl:1
+camel:2
+time:1
+spit:1
+clean:1
+sick:1
+make:1

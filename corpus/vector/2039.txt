@@ -1,2 +1,12 @@
-amanda:1
-upwards:1
+center:1
+call:1
+landmark:1
+radial:1
+school:1
+rate:1
+circl:1
+concentr:1
+set:1
+map:1
+expand:1
+ti:1

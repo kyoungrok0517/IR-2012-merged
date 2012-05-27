@@ -1,8 +1,4 @@
-record:1
-season:1
-career:1
-bae:1
-homeruns:2
-babe:1
-ruth:2
-broke:1
+ordanc:1
+rolll:1
+danc:1
+teach:1

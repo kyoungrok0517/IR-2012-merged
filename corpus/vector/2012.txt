@@ -1,1 +1,9 @@
-alot:1
+don:1
+villag:1
+will:1
+suppos:1
+good:1
+bad:1
+town:1
+citi:1
+countri:2

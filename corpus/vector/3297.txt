@@ -1,14 +1,1 @@
-call:1
-alot:1
-clothes:1
-college:1
-privileges:1
-people:1
-expect:1
-school:1
-stuff:1
-grown:1
-names:1
-immature:1
-act:1
-wear:1
+idk:1

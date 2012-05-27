@@ -1,6 +1,9 @@
-dnpa:1
-bmi:1
-nccdphp:1
-cdc:1
-man:1
-straight:1
+softwar:1
+btech:1
+student:1
+iwant:1
+forecast:1
+program:1
+weather:1
+instrument:1
+make:1

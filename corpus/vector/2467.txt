@@ -1,1 +1,5 @@
-phuck:1
+help:1
+time:1
+narrow:1
+question:1
+period:1

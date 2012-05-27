@@ -1,6 +1,11 @@
-call:1
-realize:1
-rank:1
-duty:1
-play:1
-people:2
+time:1
+duti:1
+cosmet:1
+gmc:1
+larger:1
+suspencion:1
+heavi:1
+chevi:1
+diffrenc:1
+todai:1
+version:1

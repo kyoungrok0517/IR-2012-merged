@@ -1,4 +1,8 @@
-wow:1
-incredible:1
-misinformation:1
-blind:1
+fluoresc:1
+incandesc:1
+bright:1
+slightli:1
+bulb:4
+watt:2
+dimmer:1
+light:4

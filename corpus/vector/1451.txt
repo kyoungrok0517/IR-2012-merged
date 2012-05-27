@@ -1,3 +1,9 @@
-hello:1
-common:1
-bowing:1
+stroke:1
+diseas:1
+heart:1
+vascular:1
+starter:1
+dementia:1
+asthma:1
+attack:1
+cancer:1

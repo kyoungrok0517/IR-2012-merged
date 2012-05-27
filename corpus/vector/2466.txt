@@ -1,3 +1,2 @@
-help:1
-god:1
-helps:1
+histori:1
+cultur:1

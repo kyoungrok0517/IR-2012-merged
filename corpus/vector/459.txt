@@ -1,9 +1,7 @@
-lamps:1
-necessarily:1
-cool:1
-pendents:1
-store:1
-lava:1
-lines:1
-sells:1
-things:1
+peopl:1
+bright:1
+drive:1
+pink:1
+yellow:1
+mohawk:1
+helmet:1

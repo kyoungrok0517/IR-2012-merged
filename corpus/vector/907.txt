@@ -1,10 +1,1 @@
-memorabilia:1
-don:1
-buy:1
-millionaire:1
-luck:1
-movie:1
-customer:1
-slumdog:1
-want:1
-find:2
+tight:1

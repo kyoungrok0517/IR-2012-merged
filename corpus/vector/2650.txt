@@ -1,13 +1,1 @@
-check:1
-admissions:1
-absolutely:1
-answers:1
-college:2
-questions:1
-websites:1
-related:1
-statfuse:1
-free:1
-great:1
-chances:1
-calculator:1
+coincid:1

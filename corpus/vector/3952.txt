@@ -1,9 +1,8 @@
-recylce:1
-store:1
-kinds:1
-package:1
-ur:1
-bottles:1
-places:1
-local:1
-liquor:1
+kiss:2
+yeah:1
+iv:1
+famili:1
+unfortunatli:1
+wait:1
+im:1
+mom:1

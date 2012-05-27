@@ -1,11 +1,2 @@
-iceberg:1
-southerlies:1
-information:1
-heck:1
-time:1
-current:1
-radio:2
-signal:1
-didn:1
-receive:1
-operator:2
+compulsori:1
+uniform:1

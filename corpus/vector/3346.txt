@@ -1,0 +1,6 @@
+tame:1
+domest:1
+pet:1
+train:2
+mean:1
+hous:1

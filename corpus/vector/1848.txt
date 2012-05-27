@@ -1,7 +1,7 @@
-child:2
-dna:1
-sons:1
-son:1
-testing:1
-baby:1
-grandparents:1
+gui:1
+respons:1
+pregnant:1
+parent:1
+he:1
+recommend:1
+talk:1

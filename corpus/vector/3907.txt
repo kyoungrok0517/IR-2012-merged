@@ -1,6 +1,9 @@
-additional:1
-buy:1
-write:1
-question:1
-info:1
-duuuuuudee:1
+region:1
+law:1
+plant:1
+encount:1
+imposs:1
+make:1
+find:1
+agricultur:1
+parasit:1

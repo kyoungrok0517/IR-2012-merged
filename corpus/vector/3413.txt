@@ -1,9 +1,3 @@
-donna:1
-buddy:1
-song:1
-holly:1
-songs:1
-lot:1
-landslide:1
-favorite:1
-prefer:1
+plagu:1
+bubon:1
+line:1

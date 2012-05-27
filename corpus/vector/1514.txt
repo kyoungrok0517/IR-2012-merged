@@ -1,5 +1,7 @@
-give:1
-answer:2
-long:1
-im:1
-people:1
+strongest:1
+hurrican:1
+form:1
+ey:1
+part:1
+tornado:1
+wall:1

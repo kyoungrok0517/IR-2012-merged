@@ -1,4 +1,11 @@
-give:1
-value:1
-years:1
-small:1
+break:1
+joint:1
+price:1
+weight:1
+player:1
+wood:1
+pool:2
+featur:1
+game:1
+cue:3
+shaft:1

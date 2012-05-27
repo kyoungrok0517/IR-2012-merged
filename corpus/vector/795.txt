@@ -1,5 +1,8 @@
-send:1
-sell:1
-christmas:1
-stores:1
-ornaments:1
+work:1
+field:1
+patient:1
+buck:1
+quick:1
+nut:1
+make:1
+tmj:1

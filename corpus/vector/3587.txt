@@ -1,5 +1,2 @@
-safe:2
-damages:1
-type:1
-skin:1
-tan:1
+realtor:1
+check:1

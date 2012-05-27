@@ -1,5 +1,10 @@
-testament:1
-charcetres:1
-legends:1
-myths:1
-half:1
+approv:1
+doesn:1
+specif:1
+document:1
+model:1
+alberta:1
+standard:2
+answer:2
+list:1
+bc:1

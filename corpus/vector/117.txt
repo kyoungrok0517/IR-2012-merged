@@ -1,4 +1,4 @@
-detail:1
-parkinson:1
-answer:1
-disease:1
+bodi:1
+hurt:1
+sound:1
+rem:1

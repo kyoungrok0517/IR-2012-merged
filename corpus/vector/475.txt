@@ -1,3 +1,11 @@
-lamps:1
-lava:1
-cost:1
+motorcycl:1
+thrown:1
+jame:1
+multipl:1
+protect:1
+helmet:2
+heavi:1
+reus:1
+design:2
+impact:2
+footbal:1

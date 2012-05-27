@@ -1,1 +1,15 @@
-botulism:1
+wick:1
+faith:1
+idolatri:1
+mixtur:1
+peopl:1
+camp:1
+attitud:1
+persuad:1
+atheism:1
+leader:1
+weak:1
+mind:1
+spread:2
+cancer:2
+thing:1

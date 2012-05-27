@@ -1,2 +1,10 @@
-unscrew:1
-jar:1
+uncl:1
+heart:1
+spiritu:2
+speak:3
+state:1
+evil:1
+floyd:1
+peac:1
+ly:1
+sincer:1

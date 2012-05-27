@@ -1,8 +1,6 @@
-love:1
-work:1
-blue:1
-bulbs:2
-house:1
-light:2
-straight:1
-soft:1
+ticket:1
+sell:1
+told:1
+hollywood:1
+wouldn:1
+lie:1

@@ -1,3 +1,12 @@
-lol:1
-alert:1
-douche:1
+person:1
+life:1
+hendrix:1
+creat:1
+art:1
+wonder:1
+pop:1
+artist:1
+mess:1
+mind:1
+hard:1
+respect:2

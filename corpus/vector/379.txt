@@ -1,4 +1,11 @@
-sit:1
-assets:1
-loss:1
-lender:1
+center:1
+laguna:1
+reward:1
+marin:1
+hoag:1
+newport:1
+beach:1
+mammal:1
+worthwhil:1
+pacif:1
+volunt:1

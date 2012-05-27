@@ -1,1 +1,7 @@
-bay:1
+illinoi:1
+requir:2
+missouri:1
+ey:2
+helmet:2
+figur:1
+protect:2

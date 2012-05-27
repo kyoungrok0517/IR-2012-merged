@@ -1,6 +1,7 @@
-band:1
-arse:1
-nirvana:1
-suck:1
-opinion:1
-find:1
+work:1
+contribut:1
+thank:2
+paid:1
+start:1
+year:2
+collect:1

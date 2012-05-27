@@ -1,2 +1,4 @@
-idea:1
-good:1
+plagu:1
+finish:1
+stop:1
+centuri:2

@@ -1,1 +1,5 @@
-denmark:1
+need:1
+shed:1
+plastic:1
+freikin:1
+bubbl:1

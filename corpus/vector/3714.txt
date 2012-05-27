@@ -1,15 +1,2 @@
-pity:1
-result:1
-state:1
-unfortunatly:1
-consumer:1
-depression:1
-shows:1
-kind:1
-enlightenment:1
-brainwashed:1
-rest:1
-havn:1
-culture:1
-man:1
-frequently:1
+peripheri:1
+deer:1

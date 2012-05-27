@@ -1,8 +1,5 @@
-retirement:1
-fidelity:1
-tiaa:1
-cref:1
-money:1
-account:1
-move:1
-want:1
+point:1
+dew:1
+good:1
+absolut:1
+humid:1

@@ -1,11 +1,4 @@
-time:1
-cans:1
-cents:1
-save:1
-crush:1
-recycler:1
-money:1
-lot:1
-long:1
-make:1
-pound:1
+stood:1
+misleto:1
+hasnt:1
+happen:1

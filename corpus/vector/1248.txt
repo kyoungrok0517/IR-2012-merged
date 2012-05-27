@@ -1,9 +1,3 @@
-car:1
-models:1
-takes:1
-diesel:1
-skoda:1
-beating:1
-confuse:1
-dint:1
-good:1
+terribl:1
+ve:1
+brand:1

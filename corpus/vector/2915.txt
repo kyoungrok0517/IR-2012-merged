@@ -1,7 +1,6 @@
-offending:1
-free:1
-worried:1
-rights:1
-sticks:1
-bad:1
-people:1
+safe:1
+answer:1
+radiat:1
+burn:1
+sun:1
+tan:1

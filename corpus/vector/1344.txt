@@ -1,2 +1,13 @@
-days:1
-long:1
+anim:1
+block:1
+good:1
+build:1
+bodi:1
+steroid:1
+equival:1
+protein:2
+food:1
+eleph:1
+supplement:1
+vegetarian:2
+big:1

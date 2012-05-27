@@ -1,1 +1,12 @@
-diet:1
+reaction:1
+what:1
+supplement:1
+fall:1
+stress:1
+will:1
+allerg:1
+incas:1
+hair:1
+doctor:2
+advis:1
+talk:1

@@ -1,4 +1,2 @@
-hits:1
-times:1
-mick:1
-incorrect:1
+exposingchristian:1
+answer:1

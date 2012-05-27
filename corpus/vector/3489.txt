@@ -1,4 +1,8 @@
-months:1
-til:1
-wait:1
-botulism:1
+labor:1
+god:1
+moral:1
+commit:1
+cafe:1
+excel:1
+worship:3
+golden:1

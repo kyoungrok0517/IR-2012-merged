@@ -1,4 +1,2 @@
-turn:1
-save:1
-station:1
-cycling:1
+hunger:1
+appetit:1

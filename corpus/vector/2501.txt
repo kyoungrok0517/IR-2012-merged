@@ -1,1 +1,11 @@
-batman:1
+need:1
+person:1
+magic:1
+check:1
+store:1
+interest:1
+shown:1
+heighten:1
+good:1
+pheromon:2
+studi:1

@@ -1,4 +1,6 @@
-stood:1
-happened:1
-misletoe:1
-hasnt:1
+don:1
+averag:1
+import:1
+mayan:1
+worri:1
+thing:1

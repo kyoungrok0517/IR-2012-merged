@@ -1,12 +1,5 @@
-child:1
-reaction:1
-peanut:1
-ends:1
-allergic:2
-don:1
-pb:1
-butter:1
-age:1
-terrible:1
-eat:1
-baby:1
+slave:1
+free:1
+time:1
+woman:1
+man:1

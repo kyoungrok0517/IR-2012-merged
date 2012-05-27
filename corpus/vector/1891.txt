@@ -1,3 +1,4 @@
-prime:1
-number:1
-factor:1
+water:1
+lost:1
+weight:1
+heavi:1

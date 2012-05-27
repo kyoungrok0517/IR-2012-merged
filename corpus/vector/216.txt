@@ -1,12 +1,5 @@
-insurance:1
-need:1
-prophet:1
-jobs:1
-beer:1
-drinking:1
-flood:1
-money:1
-false:1
-back:1
-wondering:1
-possions:1
+ll:1
+yeah:1
+ticket:1
+fly:1
+bui:1

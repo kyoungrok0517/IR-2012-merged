@@ -1,3 +1,9 @@
-happened:1
-day:1
-weeks:1
+cking:1
+bq:3
+metallica:1
+darrel:1
+dimebag:1
+schitzo:1
+shot:1
+stage:1
+batteri:1

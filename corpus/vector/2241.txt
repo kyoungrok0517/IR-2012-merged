@@ -1,3 +1,8 @@
-sympathizer:1
-communist:1
-accused:1
+product:1
+need:1
+face:1
+effect:1
+store:1
+rid:1
+scar:1
+bui:1

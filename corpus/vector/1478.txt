@@ -1,0 +1,9 @@
+water:1
+wind:1
+hurrican:1
+hit:1
+aren:1
+pull:1
+swirl:1
+land:1
+tornado:1

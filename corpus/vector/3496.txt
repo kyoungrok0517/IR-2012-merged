@@ -1,11 +1,4 @@
-amount:2
-safe:1
-ill:1
-adults:1
-kill:1
-baby:1
-severly:1
-botulism:1
-make:1
-small:1
-consume:1
+beefstak:1
+juici:1
+nice:1
+hungri:1

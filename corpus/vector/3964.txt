@@ -1,4 +1,6 @@
-put:1
-vinegar:1
-trash:1
-works:1
+differ:1
+spanish:1
+mexican:1
+food:1
+impact:1
+similar:1

@@ -1,6 +1,5 @@
-muslim:1
-enslave:1
-american:1
-kenyan:1
-race:1
-wants:1
+time:1
+forgiv:1
+heal:2
+mean:1
+wound:1

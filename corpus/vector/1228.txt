@@ -1,1 +1,2 @@
-lakhs:1
+crime:1
+perfect:1

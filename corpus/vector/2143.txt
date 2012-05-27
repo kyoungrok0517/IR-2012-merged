@@ -1,3 +1,10 @@
-body:1
-ends:1
-common:1
+georg:1
+politician:1
+priest:1
+stink:1
+republican:1
+crime:1
+bush:1
+bad:1
+corrupt:1
+parti:1

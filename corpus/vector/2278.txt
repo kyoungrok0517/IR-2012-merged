@@ -1,8 +1,9 @@
-need:1
-pls:1
-help:1
-full:1
-smoking:1
-list:1
-diseases:1
-find:1
+time:1
+lost:1
+heal:1
+fasciiti:1
+tell:1
+necrot:1
+limb:1
+wound:1
+lie:1

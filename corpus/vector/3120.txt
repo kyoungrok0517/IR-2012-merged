@@ -1,5 +1,0 @@
-mass:1
-body:1
-index:1
-weight:1
-refers:1

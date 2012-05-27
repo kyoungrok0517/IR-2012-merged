@@ -1,9 +1,7 @@
-heart:1
-vascular:1
-starters:1
-asthma:1
-dementia:1
-disease:1
-attacks:1
-strokes:1
-cancer:1
+photosynthesi:1
+precipi:1
+evapor:1
+respir:1
+return:3
+remov:2
+transpir:1

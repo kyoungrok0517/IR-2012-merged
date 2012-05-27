@@ -1,13 +1,2 @@
-car:1
-buy:1
-gmc:2
-parts:2
-consumer:1
-long:1
-chevrolet:2
-intentionally:1
-report:1
-quality:1
-money:1
-making:1
-want:1
+new:1
+channel:1

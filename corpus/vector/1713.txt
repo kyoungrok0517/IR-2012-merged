@@ -1,8 +1,7 @@
-field:1
-patients:1
-buck:1
-quick:1
-nuts:1
-working:1
-make:1
-tmj:1
+call:1
+cab:1
+truck:1
+seat:1
+extend:1
+back:1
+door:1

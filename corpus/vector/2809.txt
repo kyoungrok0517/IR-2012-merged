@@ -1,9 +1,4 @@
-suppose:1
-don:1
-village:1
-will:1
-good:1
-town:1
-bad:1
-country:2
-city:1
+check:1
+year:1
+eat:1
+son:1

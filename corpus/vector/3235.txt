@@ -1,1 +1,13 @@
-pheromonetalk:1
+total:1
+wrote:1
+natur:1
+mose:1
+bibl:1
+fact:1
+email:1
+conjur:1
+book:2
+spirit:1
+due:1
+left:1
+forc:1

@@ -1,6 +1,4 @@
-orange:1
-color:1
-neon:1
-haven:1
-years:1
-bad:1
+requir:1
+fund:1
+studi:3
+quest:2

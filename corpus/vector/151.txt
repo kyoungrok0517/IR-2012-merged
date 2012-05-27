@@ -1,8 +1,6 @@
-happened:1
-uninhabited:1
-ve:1
-will:1
-years:2
-bible:1
-hasn:1
-egypt:1
+sky:1
+rocket:1
+economi:1
+entertain:1
+provid:1
+thye:1

@@ -1,10 +1,6 @@
-amount:1
-safe:1
-time:1
-leave:1
-start:1
-lava:1
-haven:1
-lamp:1
-years:1
-kicks:1
+glo:1
+orang:1
+truck:1
+freight:1
+dai:1
+yellow:1

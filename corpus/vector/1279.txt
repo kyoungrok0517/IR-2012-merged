@@ -1,0 +1,14 @@
+allergi:1
+check:1
+looot:1
+back:1
+allerg:1
+neighbor:1
+skin:1
+flea:1
+rent:1
+year:1
+loos:1
+dog:2
+hair:1
+live:1

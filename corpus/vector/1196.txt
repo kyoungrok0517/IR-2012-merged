@@ -1,2 +1,5 @@
-cali:1
-live:1
+put:1
+newspap:1
+ebai:1
+craigslist:1
+add:1

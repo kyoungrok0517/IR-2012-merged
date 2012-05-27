@@ -1,6 +1,5 @@
-diesel:1
-cab:1
-blazer:1
-standerd:1
-chevy:1
-thing:1
+launch:1
+auto:1
+expo:1
+mode:1
+delhi:1

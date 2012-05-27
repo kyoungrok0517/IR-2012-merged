@@ -1,1 +1,12 @@
-usa:1
+joint:1
+locat:1
+dakota:1
+ball:1
+durango:1
+check:1
+recal:1
+truck:1
+mechan:1
+wrong:1
+good:1
+thing:1

@@ -1,11 +1,6 @@
-amount:1
-valid:1
-medical:2
-gross:1
-deductions:1
-income:1
-deduct:2
-adjusted:1
-itemize:1
-expenses:2
-tmj:1
+skittl:1
+gave:1
+hershei:1
+candi:1
+bar:1
+snicker:1

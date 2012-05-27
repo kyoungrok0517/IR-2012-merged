@@ -1,0 +1,9 @@
+sell:1
+rid:1
+interest:1
+properti:1
+chang:1
+want:2
+exchang:1
+reo:1
+lender:1

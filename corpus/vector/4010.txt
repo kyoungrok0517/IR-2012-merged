@@ -1,0 +1,10 @@
+time:1
+share:1
+mexican:1
+gobbl:1
+month:1
+poor:1
+nino:1
+import:1
+pretti:1
+fear:1

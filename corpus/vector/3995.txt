@@ -1,6 +1,0 @@
-domesticated:1
-animals:1
-heard:1
-wondered:1
-cultures:1
-sources:1

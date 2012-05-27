@@ -1,7 +1,2 @@
-itunes:1
-connect:1
-complete:1
-buy:1
-nirvana:1
-ipod:1
-collection:1
+help:2
+god:1

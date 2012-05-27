@@ -1,14 +1,2 @@
-wine:1
-smell:1
-glad:1
-remember:1
-don:1
-funny:1
-made:1
-enjoy:1
-close:1
-beer:2
-volcano:1
-jesus:1
-doubly:1
-live:1
+work:1
+face:1

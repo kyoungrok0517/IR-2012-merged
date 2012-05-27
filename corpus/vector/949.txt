@@ -1,5 +1,5 @@
-don:2
-care:1
-cheater:1
-material:1
-oscar:1
+femal:1
+mother:1
+dna:2
+mitochondra:1
+men:1

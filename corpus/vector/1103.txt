@@ -1,5 +1,2 @@
-automatic:1
-album:1
-rem:1
-people:1
-hurts:1
+dumb:1
+duh:1

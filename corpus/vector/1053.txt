@@ -1,1 +1,8 @@
-thelocalsfavorites:1
+warrior:1
+scotland:2
+frank:1
+fight:1
+saxon:1
+roman:1
+grup:1
+vike:1

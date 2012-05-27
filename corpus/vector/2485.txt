@@ -1,1 +1,15 @@
-question:1
+work:1
+wasn:1
+person:1
+immun:1
+trust:1
+natur:1
+exagger:1
+date:1
+peopl:1
+throw:1
+legit:1
+make:1
+rape:1
+drug:1
+extrem:1

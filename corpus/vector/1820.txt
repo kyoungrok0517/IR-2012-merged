@@ -1,9 +1,2 @@
-stick:2
-mc:1
-faverite:1
-hands:1
-feels:1
-guage:1
-durrmont:1
-cue:1
-thing:1
+noon:1
+star:1

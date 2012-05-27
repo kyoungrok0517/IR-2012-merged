@@ -1,5 +1,8 @@
-donna:2
-sue:2
-peggy:2
-married:1
-prefer:2
+pool:1
+dont:1
+compani:1
+heater:1
+purpos:1
+want:1
+ga:1
+spend:1

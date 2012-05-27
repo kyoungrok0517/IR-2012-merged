@@ -1,3 +1,10 @@
-sex:1
-don:1
-care:1
+statement:2
+specif:2
+scenario:1
+broad:2
+basic:1
+correctli:1
+rememb:1
+hypothesi:2
+deduct:2
+induct:2

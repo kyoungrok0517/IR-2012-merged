@@ -1,1 +1,11 @@
-omg:1
+record:1
+separ:1
+movement:2
+morn:1
+suit:1
+mood:1
+score:1
+answer:1
+listen:1
+find:1
+follow:1

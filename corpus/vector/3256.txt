@@ -1,12 +1,2 @@
-fairs:1
-fox:1
-great:1
-check:1
-website:1
-travels:1
-travis:1
-name:1
-conventions:1
-lot:1
-hypnotist:1
-dr:1
+chang:1
+doctor:1

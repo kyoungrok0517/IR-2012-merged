@@ -1,12 +1,1 @@
-skateboards:1
-hitler:1
-united:1
-invented:1
-popular:1
-states:1
-adalf:1
-germany:1
-skateboard:1
-war:1
-sold:1
-sale:1
+uk:1

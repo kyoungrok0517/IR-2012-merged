@@ -1,8 +1,8 @@
-song:1
-itunes:1
-cents:1
-great:1
-luck:1
-good:1
-costs:1
-selection:1
+call:1
+record:1
+phone:1
+made:1
+phonograph:1
+spite:1
+plai:1
+deaf:1

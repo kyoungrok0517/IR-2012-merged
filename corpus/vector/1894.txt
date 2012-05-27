@@ -1,7 +1,5 @@
-difference:1
-prime:1
-unique:1
-order:1
-factors:2
-written:1
-answer:1
+sex:1
+agre:1
+sound:1
+want:1
+find:1

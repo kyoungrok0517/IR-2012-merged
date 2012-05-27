@@ -1,0 +1,11 @@
+unit:1
+hitler:1
+invent:1
+popular:1
+state:1
+adalf:1
+germani:1
+skateboard:2
+war:1
+sale:1
+sold:1

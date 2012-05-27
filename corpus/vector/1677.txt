@@ -1,9 +1,7 @@
-information:1
-schoolgrantstoday:1
-start:1
-ncfweb:1
-inf:1
-nationalcollegefunding:1
-net:1
-scholarshare:1
-htm:1
+gui:2
+dress:1
+rememb:1
+hahah:1
+girlfriend:1
+thought:1
+man:1

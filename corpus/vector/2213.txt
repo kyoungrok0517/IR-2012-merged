@@ -1,3 +1,7 @@
-idea:1
-don:1
-dude:1
+appli:1
+hide:1
+makeup:1
+scar:1
+want:1
+thing:1
+spot:1

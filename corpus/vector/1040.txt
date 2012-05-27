@@ -1,9 +1,7 @@
-county:1
-pierced:1
-piercing:1
-will:1
-baltimore:1
-parent:1
-requirements:1
-nose:1
-want:1
+yea:1
+scotland:1
+bit:1
+japan:1
+franc:1
+fascin:1
+genealog:1

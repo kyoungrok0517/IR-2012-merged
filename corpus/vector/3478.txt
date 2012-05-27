@@ -1,5 +1,7 @@
-answering:1
-bad:1
-im:1
-gues:1
-poins:1
+destroi:1
+bodi:1
+beer:1
+chemic:1
+cell:1
+brain:1
+alter:1

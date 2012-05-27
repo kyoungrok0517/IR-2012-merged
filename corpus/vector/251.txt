@@ -1,2 +1,6 @@
-style:1
-introduction:1
+price:1
+featur:1
+awesom:1
+reiabil:1
+countri:1
+ga:1

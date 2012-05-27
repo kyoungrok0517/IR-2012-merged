@@ -1,1 +1,14 @@
-yep:1
+call:1
+dai:1
+novemb:1
+pan:1
+de:1
+skull:1
+yeah:1
+food:1
+bread:1
+octob:1
+dead:1
+muerto:1
+want:1
+sugar:1

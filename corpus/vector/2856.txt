@@ -1,4 +1,13 @@
-ireland:1
-wealthy:1
-south:1
-africa:1
+result:2
+bed:1
+hahha:1
+pale:1
+im:1
+long:2
+sun:1
+spend:1
+girl:1
+expens:1
+dark:1
+wanna:1
+tan:1

@@ -1,0 +1,10 @@
+safe:1
+time:1
+infect:1
+infant:1
+power:1
+sick:1
+year:1
+airborn:1
+found:1
+botul:1

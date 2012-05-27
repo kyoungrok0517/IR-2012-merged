@@ -1,8 +1,0 @@
-raw:1
-reaction:1
-don:2
-allergic:1
-give:1
-quote:1
-wouldn:1
-honey:2

@@ -1,3 +1,4 @@
-parents:1
-name:1
-didn:2
+draw:1
+pin:1
+peic:1
+wool:1

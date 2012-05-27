@@ -1,11 +1,5 @@
-sadist:1
-bq:3
-yeah:1
-heard:1
-definition:1
-obtains:1
-sirius:1
-pain:1
-pleasure:1
-inflicting:1
-gojira:1
+warm:1
+swim:1
+lake:2
+shine:1
+sun:1

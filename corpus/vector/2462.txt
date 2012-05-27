@@ -1,8 +1,6 @@
-thank:1
-bell:1
-invented:1
-graham:1
-location:1
-alexander:1
-telephone:1
-info:1
+homework:1
+grade:1
+job:1
+good:2
+colleg:1
+jenni:1

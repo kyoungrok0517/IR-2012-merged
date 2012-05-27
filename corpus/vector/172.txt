@@ -1,7 +1,8 @@
-dec:1
-don:1
-longer:1
-st:1
-mayans:1
-end:3
-calendar:1
+beast:1
+ring:1
+simpli:1
+doorbel:1
+proven:1
+failur:1
+method:1
+pickl:1

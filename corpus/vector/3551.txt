@@ -1,10 +1,7 @@
-product:1
-spores:1
-resistant:1
-sick:1
-wouldn:1
-botulism:2
+lit:1
+real:1
+red:2
+lava:1
+subtanc:1
 make:1
-baked:1
-heat:1
-honey:1
+oil:1

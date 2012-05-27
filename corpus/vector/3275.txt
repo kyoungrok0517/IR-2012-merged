@@ -1,5 +1,11 @@
-need:1
-practice:1
-psychology:1
-discipline:1
-major:1
+facil:1
+recycl:1
+offens:1
+person:1
+take:1
+trash:1
+dai:1
+night:1
+pick:1
+make:1
+intent:1

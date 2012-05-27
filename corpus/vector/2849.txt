@@ -1,10 +1,4 @@
-gave:1
-united:1
-don:1
-kingdom:1
-choices:1
-blend:1
-speak:1
-ve:1
-nicely:1
-language:1
+sprai:1
+dont:1
+tann:1
+tan:1

@@ -1,7 +1,3 @@
-information:1
-achievement:1
-invent:1
-important:1
-robert:1
-want:1
-oppenheimer:1
+rosehip:1
+vitamin:1
+oil:1

@@ -1,7 +1,10 @@
-religion:1
-real:1
-proofs:2
-facts:1
-impossible:1
-technically:1
-talk:2
+william:1
+post:1
+stryon:1
+mad:1
+visibl:1
+dark:1
+st:1
+suggest:1
+recommend:1
+memoir:1

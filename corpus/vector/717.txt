@@ -1,1 +1,13 @@
-loud:1
+cool:1
+person:2
+hate:1
+apolog:1
+eminem:1
+wayn:1
+servant:1
+bloom:1
+kind:1
+polli:1
+lil:1
+serv:1
+kurt:1

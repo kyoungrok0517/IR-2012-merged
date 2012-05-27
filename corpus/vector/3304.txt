@@ -1,1 +1,7 @@
-agree:1
+recycl:1
+plastic:1
+can:1
+flagstaff:1
+arizona:1
+cash:1
+want:1

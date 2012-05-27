@@ -1,0 +1,14 @@
+cultur:1
+appreaci:1
+mexican:1
+dai:1
+tradit:1
+familiar:1
+peopl:1
+help:1
+side:1
+food:2
+awar:1
+dead:1
+recipi:1
+relig:1

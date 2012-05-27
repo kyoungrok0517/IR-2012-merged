@@ -1,10 +1,5 @@
-canser:1
-times:1
-eather:1
-worst:1
-bed:2
+hei:1
 will:1
-fast:1
-want:1
-skin:1
-sun:1
+visit:1
+childerssothebysrealti:1
+hope:1

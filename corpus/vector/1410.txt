@@ -1,7 +1,7 @@
-bright:1
-driving:1
-pink:1
-mohawk:1
-yellow:1
-helmet:1
-people:1
+fact:1
+hide:1
+isn:1
+communist:1
+tryng:1
+appoint:1
+obama:1

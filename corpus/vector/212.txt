@@ -1,8 +1,2 @@
-answering:1
-phone:1
-killed:1
-isn:1
-camping:1
-news:1
-hasn:1
-hope:1
+pasadena:1
+will:1

@@ -1,2 +1,12 @@
-google:1
-find:1
+super:1
+condit:1
+call:1
+spawn:1
+form:1
+mechnic:1
+thunderstorm:1
+larg:1
+exact:1
+cell:1
+mezocyclon:1
+tornado:2

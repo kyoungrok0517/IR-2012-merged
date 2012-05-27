@@ -1,12 +1,2 @@
-upper:1
-free:1
-post:2
-link:2
-baltimore:3
-click:1
-lot:1
-craigslist:3
-left:1
-suggest:1
-people:1
-classifieds:1
+wish:1
+knew:1

@@ -1,6 +1,7 @@
-sweating:1
-pissing:1
-toxins:1
-crapping:1
-fasting:1
-release:1
+car:1
+bandaid:1
+unit:1
+rubber:1
+model:1
+band:1
+garmin:1

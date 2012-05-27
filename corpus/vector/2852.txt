@@ -1,3 +1,8 @@
-ireland:1
-irish:1
-part:1
+work:1
+appli:1
+natur:1
+sunkiss:1
+everydai:1
+glow:1
+want:1
+jergen:1

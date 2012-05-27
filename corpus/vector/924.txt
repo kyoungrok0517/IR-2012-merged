@@ -1,3 +1,2 @@
-plastic:1
-innocent:1
-pretty:1
+world:1
+end:1

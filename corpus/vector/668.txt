@@ -1,3 +1,10 @@
-dress:1
-dog:1
-coat:1
+savannah:2
+pure:2
+breed:1
+cat:1
+ll:1
+bred:2
+will:1
+bengal:2
+mix:1
+spot:1

@@ -1,5 +1,12 @@
-prime:2
-factors:2
-multiply:1
-question:1
-answered:1
+yea:1
+think:1
+sex:1
+girl:1
+deal:1
+ill:1
+annoi:1
+doit:1
+good:1
+big:1
+alittl:1
+demand:1

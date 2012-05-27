@@ -1,1 +1,12 @@
-afraid:1
+region:2
+index:1
+histor:1
+regionid:1
+mexico:1
+usg:3
+php:2
+excel:1
+sourc:1
+countri:1
+world:2
+earthquak:2

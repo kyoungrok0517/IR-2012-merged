@@ -1,2 +1,7 @@
-tacos:1
-make:1
+ferrul:1
+joint:1
+bottom:1
+butt:1
+shaft:1
+tip:1
+top:1

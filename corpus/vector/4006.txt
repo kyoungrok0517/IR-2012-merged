@@ -1,5 +1,1 @@
-pet:1
-means:1
-house:1
-trained:1
-live:1
+don:1

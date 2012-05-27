@@ -1,1 +1,5 @@
-homework:1
+don:2
+materi:1
+care:1
+oscar:1
+cheater:1

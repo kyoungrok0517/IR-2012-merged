@@ -1,12 +1,5 @@
-organisms:1
-transmitted:1
-understand:1
-simple:1
-smoking:3
-means:1
-infectious:3
-word:1
-jan:1
-pathogenic:1
-diseases:3
-caused:4
+ic:1
+carbon:1
+cap:1
+dioxid:1
+frozen:1

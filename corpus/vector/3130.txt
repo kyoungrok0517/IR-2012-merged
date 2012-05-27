@@ -1,3 +1,5 @@
-bmi:2
-equal:1
-underweight:1
+wind:1
+parakeet:1
+sympathi:1
+kill:1
+turbin:1

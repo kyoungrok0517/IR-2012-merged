@@ -1,5 +1,11 @@
-dachshund:1
-dog:1
-tzu:1
-shih:1
-wonderful:1
+love:1
+doesn:1
+heaven:1
+favorit:1
+nirvana:1
+lot:1
+aic:1
+want:1
+sunbeam:1
+jesu:1
+bowi:1

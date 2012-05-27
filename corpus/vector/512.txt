@@ -1,7 +1,7 @@
-lol:1
-person:1
-yeah:1
-jersey:1
-michelle:1
-woo:1
-follow:1
+call:1
+pearl:1
+harbor:1
+japanes:1
+attck:1
+wave:1
+command:1

@@ -1,2 +1,10 @@
-worse:1
-lot:1
+lose:1
+cuz:1
+diseas:1
+relat:1
+wonder:1
+im:1
+hair:1
+crohn:1
+symptom:1
+medic:1

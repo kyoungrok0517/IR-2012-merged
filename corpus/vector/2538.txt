@@ -1,5 +1,7 @@
-fit:1
-doesn:1
-criteria:1
-oops:1
-wait:1
+work:1
+heart:1
+mother:1
+dai:1
+attack:1
+didn:1
+quit:1

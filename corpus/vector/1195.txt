@@ -1,5 +1,10 @@
-parade:1
-rosebowl:1
-heck:1
-cali:1
-travel:1
+bird:1
+histori:1
+santa:1
+vision:1
+cruz:1
+hous:1
+show:1
+nash:1
+deck:1
+skateboard:1

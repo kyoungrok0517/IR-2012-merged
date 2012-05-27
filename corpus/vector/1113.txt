@@ -1,9 +1,7 @@
-connor:1
-williamson:1
-season:1
-homeruns:1
-ned:1
-ruth:1
-babe:1
-rogr:1
-broke:1
+detail:1
+uk:1
+ll:1
+send:1
+email:1
+base:1
+pic:1

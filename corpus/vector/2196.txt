@@ -1,8 +1,8 @@
-body:2
-testosterone:1
-mature:1
-raising:1
-steroids:1
-kids:1
-make:1
-lets:1
+caus:1
+fact:1
+proof:1
+explos:1
+big:1
+explain:1
+singular:2
+bang:1

@@ -1,7 +1,3 @@
-doors:1
-cab:1
-seat:1
-truck:1
-called:1
-extended:1
-back:1
+uk:1
+dont:1
+india:1

@@ -1,15 +1,1 @@
-lost:1
-diet:1
-proven:1
-pounds:1
-stone:1
-exercise:1
-dairy:1
-cutting:1
-loose:1
-stressed:1
-amount:1
-balanced:1
-healthy:1
-make:1
-found:1
+chiquita:1

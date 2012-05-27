@@ -1,10 +1,2 @@
-savannah:2
-breed:1
-pure:2
-cat:1
-spotted:1
-ll:1
-bred:2
-will:1
-bengal:2
-mix:1
+rent:1
+board:1

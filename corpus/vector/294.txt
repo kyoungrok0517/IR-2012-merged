@@ -1,1 +1,15 @@
-poop:1
+car:1
+atom:1
+equat:1
+speed:1
+clock:1
+physic:1
+receiv:1
+accuraci:1
+affect:1
+airplan:1
+determin:1
+sourc:1
+light:1
+posit:1
+gp:3

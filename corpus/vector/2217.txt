@@ -1,13 +1,3 @@
-body:1
-problems:1
-common:1
-treatment:1
-prescribed:1
-overuse:1
-steroids:2
-bad:1
-people:1
-fairly:1
-unnaturally:1
-asthma:1
-strengthen:1
+product:1
+scar:1
+head:1

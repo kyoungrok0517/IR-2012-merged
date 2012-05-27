@@ -1,13 +1,5 @@
-put:1
-store:1
-buy:1
-bag:1
-helps:1
+grow:2
 will:1
-feed:1
-eat:1
-oats:1
-big:1
-garden:2
-deer:1
-hope:1
+leav:1
+colleg:1
+monei:1
