@@ -31,6 +31,8 @@ public class BingSearchHelper {
 		String url = buildSearchURL(query);
 		HttpGet method = new HttpGet(url);
 		List<String> suggested_queries = new ArrayList<String>();
+		
+		System.out.println(url);
 
 		try {
 			HttpResponse response = client.execute(method);
@@ -84,6 +86,7 @@ public class BingSearchHelper {
 		List<NameValuePair> params = new ArrayList<NameValuePair>();
 		params.add(new BasicNameValuePair("query", query));
 		String query_string = URLEncodedUtils.format(params, "UTF-8");
+		query_string = query_string.replace("+", "%20");
 
 		// build URL for question search
 		String url = BING_SEARCH_URL + "?" + query_string;
