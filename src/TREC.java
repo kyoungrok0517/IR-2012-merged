@@ -13,6 +13,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.Vector;
 
 import net.zzihee.ir.Lucene;
 
@@ -36,7 +37,8 @@ public class TREC {
 	private static final String commentRgx = "(?m)(?s)<!(.*)(!)?>";
 
 	private static List<String> stopwords;
-	private static Map<String, Integer> corpus_vector;
+	private static List<Map<String, Integer>> corpus_vectors;
+	private static Map<String, Integer> corpus_vector_merged;
 
 	public static void main(String args[]) throws Exception {
 		// String tmp =
@@ -56,17 +58,62 @@ public class TREC {
 		System.out.println("Populating stopwords");
 		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
 		System.out.println("done.");
-		
-		System.out.println("Populating Corpus");
-		corpus_vector = populateCorpusVector("./corpus/corpus_vector.txt");
+
+		System.out.println("Populating Merged Corpus Vector");
+		corpus_vector_merged = populateCorpusVector("./corpus/corpus_vector.txt");
 		System.out.println("done.");
+
+		System.out.println("Populating individual corpus vector");
+		corpus_vectors = populateCorpusVectors("./corpus/vector/");
+		System.out.println("done.");
+
 		
-		for (String term : corpus_vector.keySet()) {
-			System.out.println(term + ":" + corpus_vector.get(term));
+		int idx = 0;
+		for (Map<String, Integer> vector : corpus_vectors) {
+			System.out.println("[" + idx++ + "]");
+			
+			for (String term : vector.keySet()) {				
+				System.out.println(term + ":" + vector.get(term));
+			}
 		}
 
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
-//		trec.search("dat/trec_index_stem_stop");
+		// trec.search("dat/trec_index_stem_stop");
+	}
+
+	private static List<Map<String, Integer>> populateCorpusVectors(String dir) {
+		File directory = new File(dir);
+		String[] files = directory.list();
+		List<Map<String, Integer>> vectors = new Vector<Map<String, Integer>>();
+		BufferedReader reader = null;
+		
+		try {
+			for (String file : files) {
+				reader = new BufferedReader(new FileReader(dir + file));
+				Map<String, Integer> vector = new HashMap<String, Integer>();
+				
+				while (true) {
+					String line = reader.readLine();
+
+					if (line == null) {
+						break;
+					}
+
+					String[] pair = line.split(":");
+					String term = pair[0];
+					Integer count = Integer.valueOf(pair[1]);
+
+					vector.put(term, count);
+				}
+				
+				vectors.add(vector);
+				
+			}
+		} catch (IOException e) {
+
+		}
+
+		return vectors;
 	}
 
 	private static Map<String, Integer> populateCorpusVector(String filename) {
@@ -78,15 +125,15 @@ public class TREC {
 
 			while (true) {
 				String line = reader.readLine();
-				
+
 				if (line == null) {
 					break;
 				}
-				
+
 				String[] pair = line.split(":");
 				String term = pair[0];
 				Integer count = Integer.valueOf(pair[1]);
-				
+
 				vector.put(term, count);
 			}
 		} catch (IOException e) {
