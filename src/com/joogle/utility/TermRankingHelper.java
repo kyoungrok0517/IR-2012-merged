@@ -8,11 +8,11 @@ import java.util.Map;
 import java.util.Set;
 
 public class TermRankingHelper {
-	private List<String> collection;
-	private List<Map<String, Integer>> collection_doc_vectors = new ArrayList<Map<String, Integer>>();;
-
 	private List<String> prf_docs;
 	private List<Map<String, Integer>> prf_doc_vectors = new ArrayList<Map<String, Integer>>();;
+
+	private List<Map<String, Integer>> corpus_vectors;
+	private Map<String, Integer> corpus_vector_merged;
 
 	private List<String> stopwords;
 
@@ -20,23 +20,20 @@ public class TermRankingHelper {
 
 	}
 
-	public TermRankingHelper(List<String> prf_docs, List<String> collection,
-			List<String> stopwords) {
-		this.collection = collection;
-		for (String doc : collection) {
-			Map<String, Integer> doc_vector = getTermVector(doc);
-			collection_doc_vectors.add(doc_vector);
-		}
+	public TermRankingHelper(List<String> prf_docs,
+			List<Map<String, Integer>> corpus_vectors,
+			Map<String, Integer> corpus_vector_merged) {
 
+		this.corpus_vectors = corpus_vectors;
+		this.corpus_vector_merged = corpus_vector_merged;
 		this.prf_docs = prf_docs;
+
 		for (String doc : prf_docs) {
 			Map<String, Integer> doc_vector = getTermVector(doc);
 			prf_doc_vectors.add(doc_vector);
 		}
-
-		this.stopwords = stopwords;
 	}
-	
+
 	public double getChiSquareWeight(String term) {
 		double pr = getRelevantProbability(term);
 		double cr = getCollectionProbability(term);
@@ -52,27 +49,28 @@ public class TermRankingHelper {
 			} else {
 				int tf = prf_doc_vector.get(term);
 				int df = 0;
-				for (Map<String, Integer> doc_vector : collection_doc_vectors) {
+				for (Map<String, Integer> doc_vector : corpus_vectors) {
 					if (doc_vector.containsKey(term)) {
 						df++;
 					}
 				}
 				if (tf != 0) {
-					weight += ((1 + Math.log(tf)) * Math.log10(collection
-							.size() / df + 1)) * (getRelevantProbability(term) - getCollectionProbability(term));
+					weight += ((1 + Math.log(tf)) * Math.log10(corpus_vectors
+							.size() / (df + 1)))
+							* (getRelevantProbability(term) - getCollectionProbability(term));
 				}
 			}
 		}
 
 		return weight;
 	}
-	
+
 	private double getRelevantProbability(String term) {
 		return getTermProbability(term, prf_doc_vectors);
 	}
-	
+
 	private double getCollectionProbability(String term) {
-		return getTermProbability(term, collection_doc_vectors);
+		return getTermProbability(term, corpus_vectors);
 	}
 
 	private double getTermProbability(String term,
@@ -84,7 +82,7 @@ public class TermRankingHelper {
 			// sum up document length
 			for (String t : vector.keySet()) {
 				doc_length += vector.get(t);
-				
+
 				// update vocabulary set (for normalization)
 				vocabulary.add(t);
 			}
@@ -108,14 +106,14 @@ public class TermRankingHelper {
 			} else {
 				int tf = prf_doc_vector.get(term);
 				int df = 0;
-				for (Map<String, Integer> doc_vector : collection_doc_vectors) {
+				for (Map<String, Integer> doc_vector : corpus_vectors) {
 					if (doc_vector.containsKey(term)) {
 						df++;
 					}
 				}
 				if (tf != 0) {
-					weight += ((1 + Math.log(tf)) * Math.log10(collection
-							.size() / df + 1));
+					weight += ((1 + Math.log(tf)) * Math.log10(corpus_vectors
+							.size() / (df + 1)));
 				}
 			}
 		}

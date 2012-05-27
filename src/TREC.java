@@ -37,8 +37,8 @@ public class TREC {
 	private static final String commentRgx = "(?m)(?s)<!(.*)(!)?>";
 
 	private static List<String> stopwords;
-	private static List<Map<String, Integer>> corpus_vectors;
 	private static Map<String, Integer> corpus_vector_merged;
+	private static List<Map<String, Integer>> corpus_vectors;
 
 	public static void main(String args[]) throws Exception {
 		// String tmp =
@@ -68,7 +68,7 @@ public class TREC {
 		System.out.println("done.");
 
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
-		// trec.search("dat/trec_index_stem_stop");
+		trec.search("dat/trec_index_stem_stop");
 	}
 
 	private static List<Map<String, Integer>> populateCorpusVectors(String dir) {
@@ -76,12 +76,12 @@ public class TREC {
 		String[] files = directory.list();
 		List<Map<String, Integer>> vectors = new Vector<Map<String, Integer>>();
 		BufferedReader reader = null;
-		
+
 		try {
 			for (String file : files) {
 				reader = new BufferedReader(new FileReader(dir + file));
 				Map<String, Integer> vector = new HashMap<String, Integer>();
-				
+
 				while (true) {
 					String line = reader.readLine();
 
@@ -95,9 +95,9 @@ public class TREC {
 
 					vector.put(term, count);
 				}
-				
+
 				vectors.add(vector);
-				
+
 			}
 		} catch (IOException e) {
 
@@ -345,34 +345,20 @@ public class TREC {
 
 	private String getExpandedQuery(String query,
 			TermRankingFunction function_type) {
-		String normalized_query = getNormalizedQuery(query, stopwords);
-
-		System.out.println("Normalized Query: " + normalized_query);
-
-		System.out.println("Fetching and processing Yahoo data...");
 		List<YahooQuestion> questions = YahooAnswerHelper
-				.searchQuestions(normalized_query);
+				.searchQuestions(query);
 
 		// build the collection & PRF documents
 		// Collection: retrieved
-		List<String> collection = new ArrayList<String>();
 		List<String> prf_docs = new ArrayList<String>();
 		for (YahooQuestion question : questions) {
-			String question_content = question.Content;
 			String chosen_answer_content = question.ChosenAnswer;
-			List<YahooAnswer> answers = YahooAnswerHelper.getAnswers(question);
-
 			prf_docs.add(chosen_answer_content);
-			collection.add(question_content);
-			collection.add(chosen_answer_content);
-			for (YahooAnswer ans : answers) {
-				collection.add(ans.Content);
-			}
 		}
 
 		Map<String, Double> weight_vector = new HashMap<String, Double>();
 		TermRankingHelper rank_helper = new TermRankingHelper(prf_docs,
-				collection, stopwords);
+				corpus_vectors, corpus_vector_merged);
 
 		for (String doc : prf_docs) {
 			List<String> vector = TermRankingHelper.getUniqueTermVector(doc);
@@ -408,7 +394,7 @@ public class TREC {
 
 		Collections.sort(tww_list);
 
-		String expanded_query = normalized_query + " ";
+		String expanded_query = query + " ";
 
 		for (int i = 0; i < tww_list.size(); i++) {
 			if (i >= TERM_EXPANSION_LIMIT) {
@@ -418,8 +404,6 @@ public class TREC {
 			String term = tww_list.get(i).term;
 			expanded_query += term + " ";
 		}
-
-		System.out.println("Done");
 
 		return expanded_query;
 	}
@@ -432,10 +416,23 @@ public class TREC {
 			String sQuery = in.nextLine();
 			Lucene oLucene = new Lucene();
 
-			String expaned_query = getExpandedQuery(sQuery,
-					TermRankingFunction.ROCCHIO);
+			System.out.println("Fetching and processing Yahoo data...");
 
-			System.out.println("Expanded Query: " + expaned_query);
+			String normalized_query = getNormalizedQuery(sQuery, stopwords);
+			System.out.println("Normalized Query: " + normalized_query);
+			
+			String expanded_rocchio = getExpandedQuery(normalized_query,
+					TermRankingFunction.ROCCHIO);
+			String expanded_RSV = getExpandedQuery(normalized_query,
+					TermRankingFunction.RSV);
+			String expanded_CHI = getExpandedQuery(normalized_query,
+					TermRankingFunction.CHI);
+
+			System.out.println("done.");
+
+			System.out.println("Expanded Using Rocchio:\t" + expanded_rocchio);
+			System.out.println("Expanded Using RSV:\t" + expanded_RSV);
+			System.out.println("Expanded Using CHI:\t" + expanded_CHI);
 
 			// oLucene.setIndexDirectory(dirIdx);
 			// oLucene.initEnglishAnalyzer("rsc/english_stopword_v2.txt");
