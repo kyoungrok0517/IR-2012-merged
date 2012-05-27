@@ -67,16 +67,6 @@ public class TREC {
 		corpus_vectors = populateCorpusVectors("./corpus/vector/");
 		System.out.println("done.");
 
-		
-		int idx = 0;
-		for (Map<String, Integer> vector : corpus_vectors) {
-			System.out.println("[" + idx++ + "]");
-			
-			for (String term : vector.keySet()) {				
-				System.out.println(term + ":" + vector.get(term));
-			}
-		}
-
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
 		// trec.search("dat/trec_index_stem_stop");
 	}
