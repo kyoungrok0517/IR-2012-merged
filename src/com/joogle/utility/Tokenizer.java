@@ -29,7 +29,7 @@ public class Tokenizer {
 		return tokens;
 	}
 	
-	public static List<String> tokenize(String text) {
+	public static List<String> tokenizeWithStemming(String text) {
 		stopwords = populateStopWords("./rsc/english_stopword_v2.txt");
 		String pattern = "(?i)[^A-Z]";
 		String strippedString = text.replaceAll(pattern, " ");

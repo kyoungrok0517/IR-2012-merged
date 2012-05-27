@@ -24,7 +24,6 @@ import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 
 import com.joogle.model.TermRankingFunction;
 import com.joogle.model.TermWithWeight;
-import com.joogle.model.YahooAnswer;
 import com.joogle.model.YahooQuestion;
 import com.joogle.utility.TermRankingHelper;
 import com.joogle.utility.Tokenizer;
@@ -39,6 +38,8 @@ public class TREC {
 	private static List<String> stopwords;
 	private static Map<String, Integer> corpus_vector_merged;
 	private static List<Map<String, Integer>> corpus_vectors;
+	
+	private static Map<String, List<String>> stem_history;
 
 	public static void main(String args[]) throws Exception {
 		// String tmp =
@@ -66,7 +67,15 @@ public class TREC {
 		System.out.println("Populating individual corpus vector");
 		corpus_vectors = populateCorpusVectors("./corpus/vector/");
 		System.out.println("done.");
-
+		
+		System.out.println("Populating stemming history");
+		stem_history = populateStemHistory("./rsc/stemming_history.txt");
+		System.out.println("done.");
+		
+//		for (String t : stem_history.keySet()) {
+//			System.out.println(t + ":" + stem_history.get(t));
+//		}
+		
 		// trec.indexDoc("E:/석사2_1/IR/proj/WT10G/", "dat/trec_index_stem_stop");
 
 		// trec.extractQuery("E:/석사2_1/IR/proj/TREC Web Track/topics.451-500.txt",
@@ -82,6 +91,38 @@ public class TREC {
 //		trec.makeEvaluateFile("dat/basic/", "dat/result.txt");
 		
 		trec.search("dat/trec_index_stem_stop");
+	}
+	
+	private static Map<String, List<String>> populateStemHistory(String filename) {
+		BufferedReader reader = null;
+		Map<String, List<String>> stemming_history = new HashMap<String, List<String>>();
+
+		try {
+			reader = new BufferedReader(new FileReader(filename));
+
+			while (true) {
+				String line = reader.readLine();
+
+				if (line == null) {
+					break;
+				}
+
+				String[] pair = line.split(":");
+				String stemmed_term = pair[0];
+				String[] original_terms_array = pair[1].split(",");
+				
+				List<String> original_terms = new ArrayList<String>();
+				for (String t : original_terms_array) {
+					original_terms.add(t);
+				}
+
+				stemming_history.put(stemmed_term, original_terms);
+			}
+		} catch (IOException e) {
+
+		}
+
+		return stemming_history;
 	}
 
 	private static List<Map<String, Integer>> populateCorpusVectors(String dir) {
@@ -415,7 +456,15 @@ public class TREC {
 			}
 
 			String term = tww_list.get(i).term;
-			expanded_query += term + " ";
+			
+			String original_term = "";
+			if (stem_history.containsKey(term)) {
+				original_term = stem_history.get(term).get(0);
+			} else {
+				original_term = term;
+			}
+			
+			expanded_query += original_term + " ";
 		}
 
 		return expanded_query;

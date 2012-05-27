@@ -133,7 +133,7 @@ public class TermRankingHelper {
 
 	public static Map<String, Integer> getTermVector(String document) {
 		Map<String, Integer> term_vector = new HashMap<String, Integer>();
-		List<String> terms = Tokenizer.tokenize(document);
+		List<String> terms = Tokenizer.tokenizeWithStemming(document);
 
 		for (String token : terms) {
 			if (!term_vector.containsKey(token)) {
