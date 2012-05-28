@@ -8,10 +8,9 @@ import java.util.Map;
 import java.util.Set;
 
 public class TermRankingHelper {
-	private List<String> prf_docs;
 	private List<Map<String, Integer>> prf_doc_vectors = new ArrayList<Map<String, Integer>>();;
-
 	private List<Map<String, Integer>> corpus_vectors;
+	private Map<String, Integer> prf_doc_vectors_merged = new HashMap<String, Integer>();;
 	private Map<String, Integer> corpus_vector_merged;
 
 	public TermRankingHelper() {
@@ -24,12 +23,22 @@ public class TermRankingHelper {
 
 		this.corpus_vectors = corpus_vectors;
 		this.corpus_vector_merged = corpus_vector_merged;
-		this.prf_docs = prf_docs;
 
 		// dynamically generate term vectors from PRF documents
 		for (String doc : prf_docs) {
 			Map<String, Integer> doc_vector = getTermVector(doc);
 			prf_doc_vectors.add(doc_vector);
+		}
+
+		for (Map<String, Integer> vector : prf_doc_vectors) {
+			for (String term : vector.keySet()) {
+				if (prf_doc_vectors_merged.containsKey(term)) {
+					int new_count = prf_doc_vectors_merged.get(term) + vector.get(term);
+					prf_doc_vectors_merged.put(term, new_count);
+				} else {
+					prf_doc_vectors_merged.put(term, vector.get(term));
+				}
+			}
 		}
 	}
 
@@ -65,31 +74,39 @@ public class TermRankingHelper {
 	}
 
 	private double getRelevantProbability(String term) {
-		return getTermProbability(term, prf_doc_vectors);
-	}
-
-	private double getCollectionProbability(String term) {
-		return getTermProbability(term, corpus_vectors);
-	}
-
-	private double getTermProbability(String term,
-			List<Map<String, Integer>> vectors) {
 		int doc_length = 0;
 		int tf = 0;
 		Set<String> vocabulary = new HashSet<String>();
-		for (Map<String, Integer> vector : vectors) {
-			// sum up document length
-			for (String t : vector.keySet()) {
-				doc_length += vector.get(t);
-
-				// update vocabulary set (for normalization)
-				vocabulary.add(t);
+		
+		for (String t : prf_doc_vectors_merged.keySet()) {
+			int count = prf_doc_vectors_merged.get(t);
+			doc_length += count;
+			
+			if (prf_doc_vectors_merged.containsKey(term)) {
+				tf = prf_doc_vectors_merged.get(term);
 			}
+			
+			vocabulary.add(t);
+		}
 
-			// calculate tf
-			if (vector.containsKey(term)) {
-				tf += vector.get(term);
+		int B = vocabulary.size();
+		return (tf + 1) / (doc_length + B);
+	}
+
+	private double getCollectionProbability(String term) {
+		int doc_length = 0;
+		int tf = 0;
+		Set<String> vocabulary = new HashSet<String>();
+		
+		for (String t : corpus_vector_merged.keySet()) {
+			int count = corpus_vector_merged.get(t);
+			doc_length += count;
+			
+			if (corpus_vector_merged.containsKey(term)) {
+				tf = corpus_vector_merged.get(term);
 			}
+			
+			vocabulary.add(t);
 		}
 
 		int B = vocabulary.size();

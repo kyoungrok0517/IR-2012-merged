@@ -106,6 +106,8 @@ public class YahooAnswerHelper {
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
+		} catch (IllegalStateException e) {
+			throw new IllegalStateException(); 
 		}
 
 		return questions;
